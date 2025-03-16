@@ -23,6 +23,8 @@ md_wechat_path: "./docs/wechat.md"
 
 # keywords to search
 keywords:
+  "3DGS":
+    filters: ["Gaussian Splatting"]
   "SLAM":
     filters: ["SLAM", "Visual Odometry"]
   "SFM":
@@ -47,5 +49,3 @@ keywords:
         "Line Segment Detection",
         "Local Feature Matching",
       ]
-  "3DGS":
-    filters: ["Gaussian Splatting"]
