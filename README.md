@@ -1,4 +1,4 @@
-## Updated on 2025.03.21
+## Updated on 2025.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -429,7 +429,7 @@
 |**2024-04-06**|**Salient Sparse Visual Odometry With Pose-Only Supervision**|Siyu Chen et.al.|[2404.04677](http://arxiv.org/abs/2404.04677)|null|
 |**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084](http://arxiv.org/abs/2403.17084)|null|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
 
 ## SFM
 
@@ -631,7 +631,7 @@
 |**2024-03-25**|**INPC: Implicit Neural Point Clouds for Radiance Field Rendering**|Florian Hahlbohm et.al.|[2403.16862](http://arxiv.org/abs/2403.16862)|null|
 |**2024-03-24**|**BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**|Cheng Peng et.al.|[2403.04926](http://arxiv.org/abs/2403.04926)|**[link](https://github.com/snldmt/bags)**|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1021,9 +1021,8 @@
 |**2024-03-22**|**Long-CLIP: Unlocking the Long-Text Capability of CLIP**|Beichen Zhang et.al.|[2403.15378](http://arxiv.org/abs/2403.15378)|**[link](https://github.com/beichenzbc/long-clip)**|
 |**2024-03-22**|**A Multimodal Approach for Cross-Domain Image Retrieval**|Lucas Iijima et.al.|[2403.15152](http://arxiv.org/abs/2403.15152)|null|
 |**2024-03-22**|**Piecewise-Linear Manifolds for Deep Metric Learning**|Shubhang Bhatnagar et.al.|[2403.14977](http://arxiv.org/abs/2403.14977)|null|
-|**2024-03-21**|**Enhancing Historical Image Retrieval with Compositional Cues**|Tingyu Lin et.al.|[2403.14287](http://arxiv.org/abs/2403.14287)|**[link](https://github.com/linty5/ccbir)**|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1109,7 +1108,7 @@
 |**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259](http://arxiv.org/abs/2403.18259)|null|
 |**2024-03-22**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|null|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1214,7 +1213,7 @@
 |**2024-03-26**|**Staircase Localization for Autonomous Exploration in Urban Environments**|Jinrae Kim et.al.|[2403.17330](http://arxiv.org/abs/2403.17330)|null|
 |**2024-03-23**|**MatchSeg: Towards Better Segmentation via Reference Image Matching**|Ruiqiang Xiao et.al.|[2403.15901](http://arxiv.org/abs/2403.15901)|**[link](https://github.com/keeplearning-again/matchseg)**|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
 
 ## NeRF
 
@@ -1837,13 +1836,8 @@
 |**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/abs/2403.15791)|**[link](https://github.com/muyishen2040/driveenvnerf)**|
 |**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705](http://arxiv.org/abs/2403.15705)|**[link](https://github.com/abhi1kumar/SUP-NeRF)**|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272](http://arxiv.org/abs/2403.15272)|null|
-|**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839](http://arxiv.org/abs/2403.14839)|null|
-|**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619](http://arxiv.org/abs/2403.14619)|null|
-|**2024-03-21**|**CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis**|Matteo Bonotto et.al.|[2403.14412](http://arxiv.org/abs/2403.14412)|**[link](https://github.com/sarroccoluigi/combinerf)**|
-|**2024-03-21**|**InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity**|Jiabin Liang et.al.|[2403.14376](http://arxiv.org/abs/2403.14376)|null|
-|**2024-03-21**|**Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**|Jiacong Xu et.al.|[2403.14053](http://arxiv.org/abs/2403.14053)|**[link](https://github.com/xujiacong/thermal-nerf)**|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1889,7 +1883,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
