@@ -1,4 +1,4 @@
-## Updated on 2025.03.29
+## Updated on 2025.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -438,7 +438,7 @@
 |**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169](http://arxiv.org/abs/2404.09169)|**[link](https://github.com/yanhaozhang/slam-g2s-fusion)**|
 |**2024-04-06**|**Salient Sparse Visual Odometry With Pose-Only Supervision**|Siyu Chen et.al.|[2404.04677](http://arxiv.org/abs/2404.04677)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## SFM
 
@@ -638,10 +638,8 @@
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/abs/2404.07933)|null|
 |**2024-04-07**|**NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**|Peng Tu et.al.|[2404.04875](http://arxiv.org/abs/2404.04875)|null|
 |**2024-04-04**|**GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**|Emmanouil Nikolakakis et.al.|[2404.03126](http://arxiv.org/abs/2404.03126)|null|
-|**2024-03-29**|**InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds**|Zhiwen Fan et.al.|[2403.20309](http://arxiv.org/abs/2403.20309)|**[link](https://github.com/NVlabs/InstantSplat)**|
-|**2024-03-29**|**HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes**|Zhuopeng Li et.al.|[2403.20032](http://arxiv.org/abs/2403.20032)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1037,7 +1035,7 @@
 |**2024-03-30**|**Do Vision-Language Models Understand Compound Nouns?**|Sonal Kumar et.al.|[2404.00419](http://arxiv.org/abs/2404.00419)|**[link](https://github.com/sonalkum/compun)**|
 |**2024-04-05**|**FairRAG: Fair Human Generation via Fair Retrieval Augmentation**|Robik Shrestha et.al.|[2403.19964](http://arxiv.org/abs/2403.19964)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1120,7 +1118,7 @@
 |**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia et.al.|[2404.12625](http://arxiv.org/abs/2404.12625)|null|
 |**2024-04-17**|**Pixel-Wise Symbol Spotting via Progressive Points Location for Parsing CAD Images**|Junbiao Pang et.al.|[2404.10985](http://arxiv.org/abs/2404.10985)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1225,7 +1223,7 @@
 |**2024-03-31**|**On the Estimation of Image-matching Uncertainty in Visual Place Recognition**|Mubariz Zaffar et.al.|[2404.00546](http://arxiv.org/abs/2404.00546)|null|
 |**2024-03-30**|**Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation**|Yuan Wang et.al.|[2404.00262](http://arxiv.org/abs/2404.00262)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## NeRF
 
@@ -1817,17 +1815,8 @@
 |**2024-04-01**|**SGCNeRF: Few-Shot Neural Rendering via Sparse Geometric Consistency Guidance**|Yuru Xiao et.al.|[2404.00992](http://arxiv.org/abs/2404.00992)|null|
 |**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987](http://arxiv.org/abs/2404.00987)|**[link](https://github.com/zhaorw02/FlexiDreamer)**|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891](http://arxiv.org/abs/2404.00891)|null|
-|**2024-03-29**|**HGS-Mapping: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes**|Ke Wu et.al.|[2403.20159](http://arxiv.org/abs/2403.20159)|null|
-|**2024-03-29**|**Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**|Jaehoon Ko et.al.|[2403.20153](http://arxiv.org/abs/2403.20153)|**[link](https://github.com/KU-CVLAB/Talk3D)**|
-|**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079](http://arxiv.org/abs/2403.20079)|null|
-|**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034](http://arxiv.org/abs/2403.20034)|**[link](https://github.com/dtc111111/neslam)**|
-|**2024-03-29**|**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**|Yunhao Li et.al.|[2403.20018](http://arxiv.org/abs/2403.20018)|**[link](https://github.com/wu-cvgl/scinerf)**|
-|**2024-03-29**|**DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal**|Yunhao Li et.al.|[2403.20013](http://arxiv.org/abs/2403.20013)|**[link](https://github.com/yunhaoli2020/DerainNeRF)**|
-|**2024-03-29**|**Stable Surface Regularization for Fast Few-Shot NeRF**|Byeongin Joung et.al.|[2403.19985](http://arxiv.org/abs/2403.19985)|null|
-|**2024-03-29**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/abs/2403.19920)|null|
-|**2024-03-29**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|**[link](https://github.com/SkyworkAI/Gamba)**|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1910,7 +1899,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
