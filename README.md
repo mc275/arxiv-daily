@@ -1,4 +1,4 @@
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -455,7 +455,7 @@
 |**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|**[link](https://github.com/rvp-group/vbr-devkit)**|
 |**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169](http://arxiv.org/abs/2404.09169)|**[link](https://github.com/yanhaozhang/slam-g2s-fusion)**|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## SFM
 
@@ -662,12 +662,13 @@
 |**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252](http://arxiv.org/abs/2404.08252)|null|
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/abs/2404.07933)|null|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
 |**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
 |**2025-04-06**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
@@ -1057,7 +1058,7 @@
 |**2024-04-09**|**Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation**|Luca Barsellotti et.al.|[2404.06542](http://arxiv.org/abs/2404.06542)|null|
 |**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277](http://arxiv.org/abs/2404.06277)|**[link](https://github.com/anasibrahim/ctl_classification)**|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1142,12 +1143,13 @@
 |**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia et.al.|[2404.12625](http://arxiv.org/abs/2404.12625)|null|
 |**2024-04-17**|**Pixel-Wise Symbol Spotting via Progressive Points Location for Parsing CAD Images**|Junbiao Pang et.al.|[2404.10985](http://arxiv.org/abs/2404.10985)|null|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
 |**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|null|
@@ -1247,7 +1249,7 @@
 |**2024-04-13**|**DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**|Johan Edstedt et.al.|[2404.08928](http://arxiv.org/abs/2404.08928)|**[link](https://github.com/parskatt/dedode)**|
 |**2024-04-09**|**Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**|Axel Barroso-Laguna et.al.|[2404.06337](http://arxiv.org/abs/2404.06337)|**[link](https://github.com/nianticlabs/mickey)**|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## NeRF
 
@@ -1812,16 +1814,16 @@
 |**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270](http://arxiv.org/abs/2404.06270)|null|
 |**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246](http://arxiv.org/abs/2404.06246)|null|
 |**2024-04-09**|**HFNeRF: Learning Human Biomechanic Features with Neural Radiance Fields**|Arnab Dey et.al.|[2404.06152](http://arxiv.org/abs/2404.06152)|null|
-|**2024-04-08**|**Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation**|Y. Wang et.al.|[2404.05236](http://arxiv.org/abs/2404.05236)|null|
-|**2024-04-08**|**StylizedGS: Controllable Stylization for 3D Gaussian Splatting**|Dingxi Zhang et.al.|[2404.05220](http://arxiv.org/abs/2404.05220)|null|
-|**2024-04-08**|**Semantic Flow: Learning Semantic Field of Dynamic Scenes from Monocular Videos**|Fengrui Tian et.al.|[2404.05163](http://arxiv.org/abs/2404.05163)|**[link](https://github.com/tianfr/semantic-flow)**|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## 3DGS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Micro-splatting: Maximizing Isotropic Constraints for Refined Optimization in 3D Gaussian Splatting**|Jee Won Lee et.al.|[2504.05740](http://arxiv.org/abs/2504.05740)|null|
+|**2025-04-07**|**View-Dependent Deformation Fields for 2D Editing of 3D Models**|Martin El Mqirmi et.al.|[2504.05544](http://arxiv.org/abs/2504.05544)|null|
+|**2025-04-07**|**L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery**|Yi-Zhen Tsai et.al.|[2504.05517](http://arxiv.org/abs/2504.05517)|null|
 |**2025-04-07**|**Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects**|Gal Fiebelman et.al.|[2504.05296](http://arxiv.org/abs/2504.05296)|null|
 |**2025-04-07**|**PanoDreamer: Consistent Text to 360-Degree Scene Generation**|Zhexiao Xiong et.al.|[2504.05152](http://arxiv.org/abs/2504.05152)|null|
 |**2025-04-07**|**3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization**|Isha Sharma et.al.|[2504.04857](http://arxiv.org/abs/2504.04857)|null|
@@ -1944,7 +1946,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
