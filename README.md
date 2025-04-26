@@ -1,4 +1,4 @@
-## Updated on 2025.04.25
+## Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -471,7 +471,7 @@
 |**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745](http://arxiv.org/abs/2404.17745)|null|
 |**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251](http://arxiv.org/abs/2404.17251)|**[link](https://github.com/samuel-cerezo/SceneFlowFusion)**|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## SFM
 
@@ -681,11 +681,10 @@
 |**2024-05-07**|**Non-rigid Structure-from-Motion: Temporally-smooth Procrustean Alignment and Spatially-variant Deformation Modeling**|Jiawei Shi et.al.|[2405.04309](http://arxiv.org/abs/2405.04309)|null|
 |**2024-05-06**|**Transformer-based RGB-T Tracking with Channel and Spatial Feature Fusion**|Yunfeng Li et.al.|[2405.03177](http://arxiv.org/abs/2405.03177)|**[link](https://github.com/liyunfenglyf/cstnet)**|
 |**2024-05-03**|**HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2**|Miriam Jäger et.al.|[2405.02005](http://arxiv.org/abs/2405.02005)|null|
-|**2024-04-25**|**The MAGPI Survey: Evolution of radial trends in star formation activity across cosmic time**|Marcie Mun et.al.|[2404.16319](http://arxiv.org/abs/2404.16319)|null|
 |**2024-05-07**|**A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**|Feng Yu et.al.|[2404.11590](http://arxiv.org/abs/2404.11590)|**[link](https://github.com/alexfengg/ste)**|
 |**2024-05-21**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748](http://arxiv.org/abs/2404.09748)|null|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -693,7 +692,7 @@
 |---|---|---|---|---|
 |**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636](http://arxiv.org/abs/2504.17636)|null|
 |**2025-04-23**|**Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval**|Xin Jiang et.al.|[2504.16691](http://arxiv.org/abs/2504.16691)|null|
-|**2025-04-22**|**Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs**|Merve Cerit et.al.|[2504.16323](http://arxiv.org/abs/2504.16323)|null|
+|**2025-04-22**|**Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs**|Merve Cerit et.al.|[2504.16323](http://arxiv.org/abs/2504.16323)|**[link](https://github.com/mediacontentatlas/mediacontentatlas)**|
 |**2025-04-19**|**A Multimodal Recaptioning Framework to Account for Perceptual Diversity in Multilingual Vision-Language Modeling**|Kyle Buettner et.al.|[2504.14359](http://arxiv.org/abs/2504.14359)|null|
 |**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172](http://arxiv.org/abs/2504.13172)|null|
 |**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
@@ -1078,10 +1077,9 @@
 |**2024-04-29**|**Dual-Modal Prompting for Sketch-Based Image Retrieval**|Liying Gao et.al.|[2404.18695](http://arxiv.org/abs/2404.18695)|null|
 |**2024-05-01**|**Semantic Line Combination Detector**|Jinwon Ko et.al.|[2404.18399](http://arxiv.org/abs/2404.18399)|**[link](https://github.com/jinwon-ko/slcd)**|
 |**2024-04-26**|**Learning text-to-video retrieval from image captioning**|Lucas Ventura et.al.|[2404.17498](http://arxiv.org/abs/2404.17498)|null|
-|**2024-04-25**|**CriSp: Leveraging Tread Depth Maps for Enhanced Crime-Scene Shoeprint Matching**|Samia Shafique et.al.|[2404.16972](http://arxiv.org/abs/2404.16972)|**[link](https://github.com/samia067/crisp)**|
 |**2024-04-29**|**Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**|Ryoya Nara et.al.|[2404.16398](http://arxiv.org/abs/2404.16398)|null|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1166,9 +1164,8 @@
 |**2024-05-08**|**Unsupervised Skin Feature Tracking with Deep Neural Networks**|Jose Chang et.al.|[2405.04943](http://arxiv.org/abs/2405.04943)|null|
 |**2024-05-07**|**A Self-Supervised Method for Body Part Segmentation and Keypoint Detection of Rat Images**|László Kopácsi et.al.|[2405.04650](http://arxiv.org/abs/2405.04650)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
-|**2024-04-25**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1269,9 +1266,8 @@
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
 |**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
 |**2024-06-10**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993](http://arxiv.org/abs/2404.17993)|**[link](https://github.com/disungatullina/minbackprop)**|
-|**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802](http://arxiv.org/abs/2404.16802)|null|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## NeRF
 
@@ -1794,12 +1790,11 @@
 |**2024-04-28**|**S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**|Zhiyao Zhang et.al.|[2404.18284](http://arxiv.org/abs/2404.18284)|null|
 |**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890](http://arxiv.org/abs/2404.17890)|null|
 |**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528](http://arxiv.org/abs/2404.17528)|**[link](https://github.com/tqtqliu/gefu)**|
-|**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429](http://arxiv.org/abs/2404.16429)|null|
 |**2024-04-28**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037](http://arxiv.org/abs/2404.14037)|null|
 |**2024-04-26**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816](http://arxiv.org/abs/2404.13816)|null|
 |**2024-04-26**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711](http://arxiv.org/abs/2404.13711)|**[link](https://github.com/silence-tang/artnerf)**|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1984,7 +1979,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
