@@ -1,4 +1,4 @@
-## Updated on 2025.05.09
+## Updated on 2025.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -489,7 +489,7 @@
 |**2024-05-17**|**Occupancy-SLAM: Simultaneously Optimizing Robot Poses and Continuous Occupancy Map**|Liang Zhao et.al.|[2405.10743](http://arxiv.org/abs/2405.10743)|null|
 |**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241](http://arxiv.org/abs/2405.06241)|null|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## SFM
 
@@ -702,11 +702,9 @@
 |**2024-05-23**|**Switched Flow Matching: Eliminating Singularities via Switching ODEs**|Qunxi Zhu et.al.|[2405.11605](http://arxiv.org/abs/2405.11605)|null|
 |**2024-05-28**|**NeRO: Neural Road Surface Reconstruction**|Ruibo Wang et.al.|[2405.10554](http://arxiv.org/abs/2405.10554)|**[link](https://github.com/toeleot/nero)**|
 |**2024-05-15**|**Three Dimensional Spatial Cognition: Bees and Bats**|Robert Worden et.al.|[2405.09413](http://arxiv.org/abs/2405.09413)|null|
-|**2024-05-09**|**Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media**|Zhizhen Zhang et.al.|[2405.05760](http://arxiv.org/abs/2405.05760)|null|
-|**2024-05-09**|**Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment**|Simon Weber et.al.|[2405.05079](http://arxiv.org/abs/2405.05079)|**[link](https://github.com/tum-vision/povar)**|
 |**2024-05-21**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748](http://arxiv.org/abs/2404.09748)|null|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1096,7 +1094,7 @@
 |**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429](http://arxiv.org/abs/2405.07429)|**[link](https://github.com/luoxubo/jointloc)**|
 |**2024-05-12**|**BoQ: A Place is Worth a Bag of Learnable Queries**|Amar Ali-bey et.al.|[2405.07364](http://arxiv.org/abs/2405.07364)|**[link](https://github.com/amaralibey/bag-of-queries)**|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1186,7 +1184,7 @@
 |**2024-05-15**|**Vector-Symbolic Architecture for Event-Based Optical Flow**|Hongzhi You et.al.|[2405.08300](http://arxiv.org/abs/2405.08300)|null|
 |**2024-05-13**|**RGBD-Glue: General Feature Combination for Robust RGB-D Point Cloud Registration**|Congjia Chen et.al.|[2405.07594](http://arxiv.org/abs/2405.07594)|null|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1291,7 +1289,7 @@
 |**2024-05-13**|**Authentic Hand Avatar from a Phone Scan via Universal Hand Model**|Gyeongsik Moon et.al.|[2405.07933](http://arxiv.org/abs/2405.07933)|null|
 |**2024-06-10**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993](http://arxiv.org/abs/2404.17993)|**[link](https://github.com/disungatullina/minbackprop)**|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## NeRF
 
@@ -1787,12 +1785,9 @@
 |**2024-05-14**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
 |**2024-05-10**|**Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering**|Xiaohan Zhang et.al.|[2405.06214](http://arxiv.org/abs/2405.06214)|null|
 |**2024-05-10**|**Residual-NeRF: Learning Residual NeRFs for Transparent Object Manipulation**|Bardienus P. Duisterhof et.al.|[2405.06181](http://arxiv.org/abs/2405.06181)|null|
-|**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800](http://arxiv.org/abs/2405.05800)|null|
 |**2024-05-10**|**NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749](http://arxiv.org/abs/2405.05749)|null|
-|**2024-05-09**|**RPBG: Towards Robust Neural Point-based Graphics in the Wild**|Qingtian Zhu et.al.|[2405.05663](http://arxiv.org/abs/2405.05663)|**[link](https://github.com/qt-zhu/rpbg)**|
-|**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526](http://arxiv.org/abs/2405.05526)|null|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## 3DGS
 
@@ -2013,7 +2008,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
