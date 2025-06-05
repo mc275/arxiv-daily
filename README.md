@@ -1,4 +1,4 @@
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset**|Zirui Wang et.al.|[2506.04224](http://arxiv.org/abs/2506.04224)|null|
 |**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073](http://arxiv.org/abs/2506.03073)|null|
 |**2025-06-03**|**Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**|Stefan Orf et.al.|[2506.02932](http://arxiv.org/abs/2506.02932)|null|
 |**2025-06-03**|**VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians**|Pengchong Hu et.al.|[2506.02741](http://arxiv.org/abs/2506.02741)|null|
@@ -498,14 +499,16 @@
 |**2024-06-15**|**Visual-Inertial SLAM as Simple as A, B, VINS**|Nathaniel Merrill et.al.|[2406.05969](http://arxiv.org/abs/2406.05969)|null|
 |**2024-06-09**|**MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**|Jianhao Zheng et.al.|[2406.05849](http://arxiv.org/abs/2406.05849)|null|
 |**2024-06-06**|**Open Problem: Active Representation Learning**|Nikola Milosevic et.al.|[2406.03845](http://arxiv.org/abs/2406.03845)|null|
-|**2024-06-04**|**ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization**|Chen Mao et.al.|[2406.01906](http://arxiv.org/abs/2406.01906)|**[link](https://github.com/chain-mao/progeo)**|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
+|**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667](http://arxiv.org/abs/2506.03667)|null|
+|**2025-06-03**|**Nearby dwarf galaxies with extreme star formation rates: a window into dwarf-galaxy evolution in the early Universe**|S. Kaviraj et.al.|[2506.03265](http://arxiv.org/abs/2506.03265)|null|
 |**2025-06-02**|**Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**|Yaroslava Lochman et.al.|[2506.01940](http://arxiv.org/abs/2506.01940)|null|
 |**2025-06-03**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756](http://arxiv.org/abs/2505.23756)|null|
@@ -727,9 +730,8 @@
 |**2024-06-07**|**The Star-Forming Main Sequence in JADES and CEERS at $z>1.4$ : Investigating the Burstiness of Star Formation**|Leonardo Clarke et.al.|[2406.05178](http://arxiv.org/abs/2406.05178)|null|
 |**2024-06-13**|**Gaussian Splatting with Localized Points Management**|Haosen Yang et.al.|[2406.04251](http://arxiv.org/abs/2406.04251)|null|
 |**2024-06-05**|**L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap Multiview Point Cloud Registration**|Yibo Liu et.al.|[2406.03298](http://arxiv.org/abs/2406.03298)|**[link](https://github.com/yorklyb/LiDAR-SFM)**|
-|**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1118,10 +1120,8 @@
 |**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340](http://arxiv.org/abs/2406.04340)|**[link](https://github.com/cvg/glace)**|
 |**2024-06-06**|**Monocular Localization with Semantics Map for Autonomous Vehicles**|Jixiang Wan et.al.|[2406.03835](http://arxiv.org/abs/2406.03835)|null|
 |**2024-06-05**|**Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach**|Saehyung Lee et.al.|[2406.03411](http://arxiv.org/abs/2406.03411)|**[link](https://github.com/saehyung-lee/plugir)**|
-|**2024-06-04**|**MeshVPR: Citywide Visual Place Recognition Using 3D Meshes**|Gabriele Berton et.al.|[2406.02776](http://arxiv.org/abs/2406.02776)|null|
-|**2024-06-04**|**Can CLIP help CLIP in learning 3D?**|Cristian Sbrolli et.al.|[2406.02202](http://arxiv.org/abs/2406.02202)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1213,7 +1213,7 @@
 |**2024-07-23**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 |**2024-06-23**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676](http://arxiv.org/abs/2406.00676)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1319,7 +1319,7 @@
 |**2024-07-09**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
 |**2024-06-10**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993](http://arxiv.org/abs/2404.17993)|**[link](https://github.com/disungatullina/minbackprop)**|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## NeRF
 
@@ -1758,20 +1758,24 @@
 |**2024-06-06**|**How Far Can We Compress Instant-NGP-Based NeRF?**|Yihang Chen et.al.|[2406.04101](http://arxiv.org/abs/2406.04101)|**[link](https://github.com/yihangchen-ee/cnc)**|
 |**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723](http://arxiv.org/abs/2406.03723)|null|
 |**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697](http://arxiv.org/abs/2406.03697)|**[link](https://github.com/dnvtmf/SP_GS)**|
-|**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720](http://arxiv.org/abs/2406.02720)|**[link](https://github.com/lihaolin88/3d-half-gaussian-splatting)**|
 |**2024-06-06**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
-|**2024-06-04**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370](http://arxiv.org/abs/2406.02370)|null|
-|**2024-06-04**|**SuperGaussian: Repurposing Video Models for 3D Super Resolution**|Yuan Shen et.al.|[2406.00609](http://arxiv.org/abs/2406.00609)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## 3DGS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218](http://arxiv.org/abs/2506.04218)|null|
+|**2025-06-04**|**FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting**|Hengyu Liu et.al.|[2506.04174](http://arxiv.org/abs/2506.04174)|null|
+|**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120](http://arxiv.org/abs/2506.04120)|null|
+|**2025-06-04**|**JointSplat: Probabilistic Joint Flow-Depth Optimization for Sparse-View Gaussian Splatting**|Yang Xiao et.al.|[2506.03872](http://arxiv.org/abs/2506.03872)|null|
+|**2025-06-04**|**SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting**|Shengjie Lin et.al.|[2506.03594](http://arxiv.org/abs/2506.03594)|null|
+|**2025-06-04**|**Robust Neural Rendering in the Wild with Asymmetric Dual 3D Gaussian Splatting**|Chengqi Li et.al.|[2506.03538](http://arxiv.org/abs/2506.03538)|null|
+|**2025-06-03**|**Multi-Spectral Gaussian Splatting with Neural Color Representation**|Lukas Meyer et.al.|[2506.03407](http://arxiv.org/abs/2506.03407)|null|
 |**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073](http://arxiv.org/abs/2506.03073)|null|
 |**2025-06-03**|**Large Processor Chip Model**|Kaiyan Chang et.al.|[2506.02929](http://arxiv.org/abs/2506.02929)|null|
-|**2025-06-03**|**Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone**|Zheng Liu et.al.|[2506.02774](http://arxiv.org/abs/2506.02774)|null|
+|**2025-06-04**|**Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone**|Zheng Liu et.al.|[2506.02774](http://arxiv.org/abs/2506.02774)|null|
 |**2025-06-03**|**RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS**|Chuanyu Fu et.al.|[2506.02751](http://arxiv.org/abs/2506.02751)|null|
 |**2025-06-03**|**EyeNavGS: A 6-DoF Navigation Dataset and Record-n-Replay Software for Real-World 3DGS Scenes in VR**|Zihao Ding et.al.|[2506.02380](http://arxiv.org/abs/2506.02380)|**[link](https://github.com/symmru/EyeNavGS_Software)**|
 |**2025-06-02**|**GSCodec Studio: A Modular Framework for Gaussian Splat Compression**|Sicheng Li et.al.|[2506.01822](http://arxiv.org/abs/2506.01822)|null|
@@ -2080,7 +2084,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
