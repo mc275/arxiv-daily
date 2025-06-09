@@ -1,4 +1,4 @@
-## Updated on 2025.06.08
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -387,7 +387,7 @@
 |**2024-09-16**|**P2U-SLAM: A Monocular Wide-FoV SLAM System Based on Point Uncertainty and Pose Uncertainty**|Yufan Zhang et.al.|[2409.10143](http://arxiv.org/abs/2409.10143)|**[link](https://github.com/bambvalley/p2u-slam)**|
 |**2024-09-16**|**SHIRE: Enhancing Sample Efficiency using Human Intuition in REinforcement Learning**|Amogh Joshi et.al.|[2409.09990](http://arxiv.org/abs/2409.09990)|null|
 |**2024-09-16**|**Enhancing Visual Inertial SLAM with Magnetic Measurements**|Bharat Joshi et.al.|[2409.09904](http://arxiv.org/abs/2409.09904)|null|
-|**2024-09-15**|**Marginalizing and Conditioning Gaussians onto Linear Approximations of Smooth Manifolds with Applications in Robotics**|Zi Cong Guo et.al.|[2409.09871](http://arxiv.org/abs/2409.09871)|null|
+|**2024-09-15**|**Marginalizing and Conditioning Gaussians onto Linear Approximations of Smooth Manifolds with Applications in Robotics**|Zi Cong Guo et.al.|[2409.09871](http://arxiv.org/abs/2409.09871)|**[link](https://github.com/qetuo1098/marg_cond_gaussian_example)**|
 |**2024-09-15**|**Range-SLAM: Ultra-Wideband-Based Smoke-Resistant Real-Time Localization and Mapping**|Yi Liu et.al.|[2409.09763](http://arxiv.org/abs/2409.09763)|null|
 |**2024-09-15**|**High Definition Map Mapping and Update: A General Overview and Future Directions**|Benny Wijaya et.al.|[2409.09726](http://arxiv.org/abs/2409.09726)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
@@ -501,7 +501,7 @@
 |**2024-06-15**|**Visual-Inertial SLAM as Simple as A, B, VINS**|Nathaniel Merrill et.al.|[2406.05969](http://arxiv.org/abs/2406.05969)|null|
 |**2024-06-09**|**MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**|Jianhao Zheng et.al.|[2406.05849](http://arxiv.org/abs/2406.05849)|null|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## SFM
 
@@ -731,7 +731,7 @@
 |**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216](http://arxiv.org/abs/2406.06216)|**[link](https://github.com/srameo/le3d)**|
 |**2024-06-13**|**Gaussian Splatting with Localized Points Management**|Haosen Yang et.al.|[2406.04251](http://arxiv.org/abs/2406.04251)|null|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1118,7 +1118,7 @@
 |**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374](http://arxiv.org/abs/2406.06374)|**[link](https://github.com/alterpang/multi_orb_slam)**|
 |**2024-06-09**|**Unified Text-to-Image Generation and Retrieval**|Leigang Qu et.al.|[2406.05814](http://arxiv.org/abs/2406.05814)|null|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1210,7 +1210,7 @@
 |**2024-07-23**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 |**2024-06-23**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676](http://arxiv.org/abs/2406.00676)|null|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1317,7 +1317,7 @@
 |**2024-07-09**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
 |**2024-06-10**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993](http://arxiv.org/abs/2404.17993)|**[link](https://github.com/disungatullina/minbackprop)**|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## NeRF
 
@@ -1751,7 +1751,7 @@
 |**2024-06-10**|**ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**|Meng-Li Shih et.al.|[2406.06133](http://arxiv.org/abs/2406.06133)|null|
 |**2024-06-09**|**GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement**|Peiye Zhuang et.al.|[2406.05649](http://arxiv.org/abs/2406.05649)|null|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1784,8 +1784,8 @@
 |**2025-06-02**|**RadarSplat: Radar Gaussian Splatting for High-Fidelity Data Synthesis and 3D Reconstruction of Autonomous Driving Scenes**|Pou-Chun Kung et.al.|[2506.01379](http://arxiv.org/abs/2506.01379)|null|
 |**2025-06-01**|**CountingFruit: Real-Time 3D Fruit Counting with Language-Guided Semantic Gaussian Splatting**|Fengze Li et.al.|[2506.01109](http://arxiv.org/abs/2506.01109)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
-|**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796](http://arxiv.org/abs/2505.24796)|null|
-|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|null|
+|**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796](http://arxiv.org/abs/2505.24796)|**[link](https://github.com/tensorcore3dgs/3dgstensorcore)**|
+|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|**[link](https://github.com/sjtu-deepvisionlab/laga)**|
 |**2025-05-30**|**GARLIC: GAussian Representation LearnIng for spaCe partitioning**|Panagiotis Rigas et.al.|[2505.24608](http://arxiv.org/abs/2505.24608)|null|
 |**2025-05-30**|**LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework**|Xin Kang et.al.|[2505.24245](http://arxiv.org/abs/2505.24245)|null|
 |**2025-05-29**|**3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians**|Zixun Huang et.al.|[2505.24053](http://arxiv.org/abs/2505.24053)|**[link](https://github.com/zixunh/3DGEER)**|
@@ -1797,7 +1797,7 @@
 |**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158](http://arxiv.org/abs/2505.23158)|null|
 |**2025-05-29**|**Pose-free 3D Gaussian splatting via shape-ray estimation**|Youngju Na et.al.|[2505.22978](http://arxiv.org/abs/2505.22978)|null|
 |**2025-05-28**|**3DGS Compression with Sparsity-guided Hierarchical Transform Coding**|Hao Xu et.al.|[2505.22908](http://arxiv.org/abs/2505.22908)|null|
-|**2025-05-28**|**CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting**|Kornel Howil et.al.|[2505.22854](http://arxiv.org/abs/2505.22854)|null|
+|**2025-05-28**|**CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting**|Kornel Howil et.al.|[2505.22854](http://arxiv.org/abs/2505.22854)|**[link](https://github.com/kornelhowil/clipgaussian)**|
 |**2025-05-28**|**STDR: Spatio-Temporal Decoupling for Real-Time Dynamic Scene Rendering**|Zehao Li et.al.|[2505.22400](http://arxiv.org/abs/2505.22400)|null|
 |**2025-05-28**|**UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments**|Wancai Zheng et.al.|[2505.22335](http://arxiv.org/abs/2505.22335)|null|
 |**2025-05-28**|**Learning Fine-Grained Geometry for Sparse-View Splatting via Cascade Depth Loss**|Wenjun Lu et.al.|[2505.22279](http://arxiv.org/abs/2505.22279)|null|
@@ -1810,7 +1810,7 @@
 |**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729](http://arxiv.org/abs/2505.20729)|null|
 |**2025-05-27**|**Wideband RF Radiance Field Modeling Using Frequency-embedded 3D Gaussian Splatting**|Zechen Li et.al.|[2505.20714](http://arxiv.org/abs/2505.20714)|**[link](https://github.com/sim-2-real/wideband3dgs)**|
 |**2025-05-26**|**CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting**|Lei Tian et.al.|[2505.20469](http://arxiv.org/abs/2505.20469)|null|
-|**2025-05-26**|**ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation**|Jinsheng Quan et.al.|[2505.20270](http://arxiv.org/abs/2505.20270)|null|
+|**2025-05-26**|**ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation**|Jinsheng Quan et.al.|[2505.20270](http://arxiv.org/abs/2505.20270)|**[link](https://github.com/quanjinsheng/particlegs)**|
 |**2025-05-26**|**HaloGS: Loose Coupling of Compact Geometry and Gaussian Splats for 3D Scenes**|Changjian Jiang et.al.|[2505.20267](http://arxiv.org/abs/2505.20267)|null|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|**[link](https://github.com/gsisaoki/omnidirectional_blender_3d_dataset)**|
 |**2025-05-26**|**Weather-Magician: Reconstruction and Rendering Framework for 4D Weather Synthesis In Real Time**|Chen Sang et.al.|[2505.19919](http://arxiv.org/abs/2505.19919)|null|
@@ -2084,7 +2084,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
