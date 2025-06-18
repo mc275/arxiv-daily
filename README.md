@@ -1,4 +1,4 @@
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -511,7 +511,7 @@
 |**2024-06-27**|**Notes on Kalman Filter (KF, EKF, ESKF, IEKF, IESKF)**|Gyubeom Im et.al.|[2406.06427](http://arxiv.org/abs/2406.06427)|null|
 |**2024-06-23**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374](http://arxiv.org/abs/2406.06374)|**[link](https://github.com/alterpang/multi_orb_slam)**|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## SFM
 
@@ -736,14 +736,15 @@
 |**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289](http://arxiv.org/abs/2406.16289)|null|
 |**2024-06-21**|**The importance of stochasticity in determining galaxy emissivities and UV LFs during cosmic dawn and reionization**|Ivan Nikolić et.al.|[2406.15237](http://arxiv.org/abs/2406.15237)|**[link](https://github.com/ivannikolic21/stochasticity_sampler)**|
 |**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515](http://arxiv.org/abs/2406.13515)|null|
-|**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819](http://arxiv.org/abs/2406.11819)|**[link](https://github.com/MegaScenes/nvs)**|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
+|**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim et.al.|[2506.14178](http://arxiv.org/abs/2506.14178)|null|
 |**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509](http://arxiv.org/abs/2506.13509)|null|
 |**2025-06-16**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
 |**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
@@ -1122,12 +1123,9 @@
 |**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|**[link](https://github.com/weitong8591/vop)**|
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|**[link](https://github.com/rogerferrod/rsicrc)**|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|**[link](https://github.com/cluel01/clip-branches)**|
-|**2024-06-17**|**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**|Huaiji Zhou et.al.|[2406.11766](http://arxiv.org/abs/2406.11766)|null|
 |**2024-06-22**|**Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment**|Jianan Jiang et.al.|[2406.11551](http://arxiv.org/abs/2406.11551)|**[link](https://github.com/exponentiai/effnet)**|
-|**2024-06-17**|**They're All Doctors: Synthesizing Diverse Counterfactuals to Mitigate Associative Bias**|Salma Abdel Magid et.al.|[2406.11331](http://arxiv.org/abs/2406.11331)|null|
-|**2024-06-17**|**Accurate and Fast Pixel Retrieval with Spatial and Uncertainty Aware Hypergraph Diffusion**|Guoyuan An et.al.|[2406.11242](http://arxiv.org/abs/2406.11242)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1219,7 +1217,7 @@
 |**2024-07-23**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 |**2024-06-23**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676](http://arxiv.org/abs/2406.00676)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1328,7 +1326,7 @@
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121](http://arxiv.org/abs/2406.15121)|null|
 |**2024-07-09**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## NeRF
 
@@ -1728,19 +1726,18 @@
 |**2024-06-18**|**Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings**|Ruijie Tang et.al.|[2406.13048](http://arxiv.org/abs/2406.13048)|null|
 |**2024-06-18**|**Fast Global Localization on Neural Radiance Field**|Mangyu Kong et.al.|[2406.12202](http://arxiv.org/abs/2406.12202)|**[link](https://github.com/kmk97/fast-loc-nerf)**|
 |**2024-06-20**|**TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations**|Bo Sun et.al.|[2406.12121](http://arxiv.org/abs/2406.12121)|null|
-|**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095](http://arxiv.org/abs/2406.12095)|null|
-|**2024-06-17**|**Uncertainty modeling for fine-tuned implicit functions**|Anna Susmelj et.al.|[2406.12082](http://arxiv.org/abs/2406.12082)|null|
-|**2024-06-17**|**LLaNA: Large Language and NeRF Assistant**|Andrea Amaduzzi et.al.|[2406.11840](http://arxiv.org/abs/2406.11840)|null|
-|**2024-06-17**|**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**|Huaiji Zhou et.al.|[2406.11766](http://arxiv.org/abs/2406.11766)|null|
-|**2024-06-17**|**InterNeRF: Scaling Radiance Fields via Parameter Interpolation**|Clinton Wang et.al.|[2406.11737](http://arxiv.org/abs/2406.11737)|null|
-|**2024-06-17**|**NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**|Niu Guanchen et.al.|[2406.11259](http://arxiv.org/abs/2406.11259)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## 3DGS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
+|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|null|
+|**2025-06-17**|**HRGS: Hierarchical Gaussian Splatting for Memory-Efficient High-Resolution 3D Reconstruction**|Changbai Li et.al.|[2506.14229](http://arxiv.org/abs/2506.14229)|null|
+|**2025-06-17**|**GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation**|Ying Chai et.al.|[2506.14135](http://arxiv.org/abs/2506.14135)|null|
+|**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009](http://arxiv.org/abs/2506.14009)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766](http://arxiv.org/abs/2506.13766)|null|
 |**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516](http://arxiv.org/abs/2506.13516)|null|
 |**2025-06-16**|**Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields**|Jungeon Kim et.al.|[2506.13508](http://arxiv.org/abs/2506.13508)|null|
@@ -2104,7 +2101,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
