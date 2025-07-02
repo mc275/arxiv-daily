@@ -1,4 +1,4 @@
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -514,12 +514,9 @@
 |**2024-07-06**|**VIPS-Odom: Visual-Inertial Odometry Tightly-coupled with Parking Slots for Autonomous Parking**|Xuefeng Jiang et.al.|[2407.05017](http://arxiv.org/abs/2407.05017)|null|
 |**2024-07-06**|**Symmetric Linear Arc Monadic Datalog and Gadget Reductions**|Manuel Bodirsky et.al.|[2407.04924](http://arxiv.org/abs/2407.04924)|null|
 |**2024-07-03**|**Ultra-Lightweight Collaborative Mapping for Robot Swarms**|Vlad Niculescu et.al.|[2407.03136](http://arxiv.org/abs/2407.03136)|null|
-|**2024-07-01**|**RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields**|Haochen Jiang et.al.|[2407.01303](http://arxiv.org/abs/2407.01303)|**[link](https://github.com/fudan-zvg/rodyn-slam)**|
-|**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|**[link](https://github.com/zju-fast-lab/active-relative-localization)**|
-|**2024-07-01**|**Collaborative Graph Exploration with Reduced Pose-SLAM Uncertainty via Submodular Optimization**|Ruofei Bai et.al.|[2407.01013](http://arxiv.org/abs/2407.01013)|**[link](https://github.com/bairuofei/cge)**|
 |**2024-07-02**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|**[link](https://github.com/xurobotics/slide_slam)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## SFM
 
@@ -746,7 +743,7 @@
 |**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918](http://arxiv.org/abs/2407.02918)|**[link](https://github.com/wrld/free-surgs)**|
 |**2024-07-02**|**Indoor 3D Reconstruction with an Unknown Camera-Projector Pair**|Zhaoshuai Qi et.al.|[2407.01945](http://arxiv.org/abs/2407.01945)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1133,12 +1130,9 @@
 |**2024-07-04**|**Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models**|Chang-Sheng Kao et.al.|[2407.03615](http://arxiv.org/abs/2407.03615)|**[link](https://github.com/MiuLab/VisualDialog)**|
 |**2024-07-03**|**Celeb-FBI: A Benchmark Dataset on Human Full Body Images and Age, Gender, Height and Weight Estimation using Deep Learning Approach**|Pronay Debnath et.al.|[2407.03486](http://arxiv.org/abs/2407.03486)|null|
 |**2024-07-02**|**Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**|Sergio Izquierdo et.al.|[2407.02422](http://arxiv.org/abs/2407.02422)|**[link](https://github.com/serizba/cliquemining)**|
-|**2024-07-01**|**Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval**|Aneeshan Sain et.al.|[2407.01810](http://arxiv.org/abs/2407.01810)|null|
-|**2024-07-01**|**Cross-Modal Attention Alignment Network with Auxiliary Text Description for zero-shot sketch-based image retrieval**|Hanwen Su et.al.|[2407.00979](http://arxiv.org/abs/2407.00979)|null|
-|**2024-07-01**|**Dynamically Modulating Visual Place Recognition Sequence Length For Minimum Acceptable Performance Scenarios**|Connor Malone et.al.|[2407.00863](http://arxiv.org/abs/2407.00863)|null|
 |**2024-07-05**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898](http://arxiv.org/abs/2406.18898)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1230,7 +1224,7 @@
 |**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014](http://arxiv.org/abs/2407.02014)|**[link](https://github.com/visresearch/mgc)**|
 |**2024-07-23**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1345,7 +1339,7 @@
 |**2024-07-03**|**IMC 2024 Methods & Solutions Review**|Shyam Gupta et.al.|[2407.03172](http://arxiv.org/abs/2407.03172)|null|
 |**2024-07-09**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## NeRF
 
@@ -1719,11 +1713,8 @@
 |**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923](http://arxiv.org/abs/2407.03923)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
-|**2024-07-01**|**Active Human Pose Estimation via an Autonomous UAV Agent**|Jingxi Chen et.al.|[2407.01811](http://arxiv.org/abs/2407.01811)|null|
-|**2024-07-01**|**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**|Yujin Ham et.al.|[2407.01761](http://arxiv.org/abs/2407.01761)|null|
-|**2024-07-01**|**Fast and Efficient: Mask Neural Fields for 3D Scene Segmentation**|Zihan Gao et.al.|[2407.01220](http://arxiv.org/abs/2407.01220)|**[link](https://github.com/keloee/maskfield)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1733,7 +1724,7 @@
 |**2025-06-30**|**GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering**|Zinuo You et.al.|[2506.23957](http://arxiv.org/abs/2506.23957)|null|
 |**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
 |**2025-06-30**|**Instant GaussianImage: A Generalizable and Self-Adaptive Image Representation via 2D Gaussian Splatting**|Zhaojie Zeng et.al.|[2506.23479](http://arxiv.org/abs/2506.23479)|null|
-|**2025-06-29**|**SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting**|Yiming Huang et.al.|[2506.23309](http://arxiv.org/abs/2506.23309)|null|
+|**2025-07-01**|**SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting**|Yiming Huang et.al.|[2506.23309](http://arxiv.org/abs/2506.23309)|null|
 |**2025-06-29**|**Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting**|Yiming Huang et.al.|[2506.23308](http://arxiv.org/abs/2506.23308)|null|
 |**2025-06-29**|**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**|Zhen Tan et.al.|[2506.23207](http://arxiv.org/abs/2506.23207)|null|
 |**2025-06-29**|**STD-GS: Exploring Frame-Event Interaction for SpatioTemporal-Disentangled Gaussian Splatting to Reconstruct High-Dynamic Scene**|Hanyu Zhou et.al.|[2506.23157](http://arxiv.org/abs/2506.23157)|null|
@@ -2132,7 +2123,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
