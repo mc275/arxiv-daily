@@ -1,4 +1,4 @@
-## Updated on 2025.07.06
+## Updated on 2025.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -514,10 +514,8 @@
 |**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077](http://arxiv.org/abs/2407.06077)|**[link](https://github.com/herolab-uga/matsee)**|
 |**2024-07-10**|**Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**|Sangwoo Jung et.al.|[2407.05820](http://arxiv.org/abs/2407.05820)|null|
 |**2024-07-07**|**Active Collaborative Visual SLAM exploiting ORB Features**|Muhammad Farhan Ahmed et.al.|[2407.05453](http://arxiv.org/abs/2407.05453)|null|
-|**2024-07-06**|**VIPS-Odom: Visual-Inertial Odometry Tightly-coupled with Parking Slots for Autonomous Parking**|Xuefeng Jiang et.al.|[2407.05017](http://arxiv.org/abs/2407.05017)|null|
-|**2024-07-06**|**Symmetric Linear Arc Monadic Datalog and Gadget Reductions**|Manuel Bodirsky et.al.|[2407.04924](http://arxiv.org/abs/2407.04924)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## SFM
 
@@ -741,7 +739,7 @@
 |**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
 |**2024-07-15**|**SfM on-the-fly: Get better 3D from What You Capture**|Zongqian Zhan et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1126,7 +1124,7 @@
 |**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001](http://arxiv.org/abs/2407.06001)|null|
 |**2024-07-09**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1215,7 +1213,7 @@
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
 |**2024-07-23**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1330,7 +1328,7 @@
 |**2024-07-15**|**SfM on-the-fly: Get better 3D from What You Capture**|Zongqian Zhan et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
 |**2024-07-09**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## NeRF
 
@@ -1700,9 +1698,8 @@
 |**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
 |**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586](http://arxiv.org/abs/2407.05586)|null|
 |**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254](http://arxiv.org/abs/2407.05254)|null|
-|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|**[link](https://github.com/xwx0924/SurgicalGaussian)**|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 ## 3DGS
 
@@ -2122,7 +2119,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
