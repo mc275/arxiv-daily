@@ -1,4 +1,4 @@
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Cooperative Mapping, Localization, and Beam Management via Multi-Modal SLAM in ISAC Systems**|Hang Que et.al.|[2507.05718](http://arxiv.org/abs/2507.05718)|null|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
 |**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321](http://arxiv.org/abs/2507.04321)|null|
 |**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
@@ -515,10 +516,9 @@
 |**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106](http://arxiv.org/abs/2407.08106)|**[link](https://github.com/nubot-nudt/sglc)**|
 |**2024-07-09**|**Hyperion -- A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074](http://arxiv.org/abs/2407.07074)|**[link](https://github.com/vis4rob-lab/hyperion)**|
 |**2024-07-15**|**A Neurosymbolic Approach to Adaptive Feature Extraction in SLAM**|Yasra Chandio et.al.|[2407.06889](http://arxiv.org/abs/2407.06889)|null|
-|**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077](http://arxiv.org/abs/2407.06077)|**[link](https://github.com/herolab-uga/matsee)**|
 |**2024-07-10**|**Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**|Sangwoo Jung et.al.|[2407.05820](http://arxiv.org/abs/2407.05820)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## SFM
 
@@ -740,17 +740,19 @@
 |**2024-07-10**|**Euclid preparation. Forecasting the recovery of galaxy physical properties and their relations with template-fitting and machine-learning methods**|Euclid Collaboration et.al.|[2407.07940](http://arxiv.org/abs/2407.07940)|null|
 |**2024-07-10**|**Controlling Space and Time with Diffusion Models**|Daniel Watson et.al.|[2407.07860](http://arxiv.org/abs/2407.07860)|null|
 |**2024-07-09**|**Computer vision tasks for intelligent aerospace missions: An overview**|Huilin Chen et.al.|[2407.06513](http://arxiv.org/abs/2407.06513)|null|
-|**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
 |**2024-07-15**|**SfM on-the-fly: Get better 3D from What You Capture**|Zongqian Zhan et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
+|**2025-07-08**|**OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval**|Zhiwei Chen et.al.|[2507.05631](http://arxiv.org/abs/2507.05631)|null|
+|**2025-07-07**|**Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model**|Mengyao Xu et.al.|[2507.05513](http://arxiv.org/abs/2507.05513)|null|
 |**2025-07-07**|**An analysis of vision-language models for fabric retrieval**|Francesco Giuliari et.al.|[2507.04735](http://arxiv.org/abs/2507.04735)|null|
-|**2025-07-07**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
+|**2025-07-08**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
 |**2025-07-06**|**U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**|Xiaofan Li et.al.|[2507.04503](http://arxiv.org/abs/2507.04503)|null|
 |**2025-07-04**|**Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition**|Jiuhong Xiao et.al.|[2507.03831](http://arxiv.org/abs/2507.03831)|null|
@@ -1130,10 +1132,9 @@
 |**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106](http://arxiv.org/abs/2407.08106)|**[link](https://github.com/nubot-nudt/sglc)**|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
 |**2024-07-09**|**CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding**|Wenhao Xu et.al.|[2407.06611](http://arxiv.org/abs/2407.06611)|null|
-|**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001](http://arxiv.org/abs/2407.06001)|null|
 |**2024-07-09**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1222,7 +1223,7 @@
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
 |**2024-07-23**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1338,7 +1339,7 @@
 |**2024-07-15**|**SfM on-the-fly: Get better 3D from What You Capture**|Zongqian Zhan et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
 |**2024-07-09**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## NeRF
 
@@ -1702,18 +1703,20 @@
 |**2024-07-10**|**Drantal-NeRF: Diffusion-Based Restoration for Anti-aliasing Neural Radiance Field**|Ganlin Yang et.al.|[2407.07461](http://arxiv.org/abs/2407.07461)|null|
 |**2024-07-09**|**Reference-based Controllable Scene Stylization with Gaussian Splatting**|Yiqun Mei et.al.|[2407.07220](http://arxiv.org/abs/2407.07220)|null|
 |**2024-07-09**|**Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**|Dogyoon Lee et.al.|[2407.06613](http://arxiv.org/abs/2407.06613)|null|
-|**2024-07-08**|**RRM: Relightable assets using Radiance guided Material extraction**|Diego Gomez et.al.|[2407.06397](http://arxiv.org/abs/2407.06397)|null|
-|**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
-|**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
-|**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
-|**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586](http://arxiv.org/abs/2407.05586)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## 3DGS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures**|Seungoh Han et.al.|[2507.06109](http://arxiv.org/abs/2507.06109)|null|
+|**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
+|**2025-07-08**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060](http://arxiv.org/abs/2507.06060)|null|
+|**2025-07-08**|**D-FCGS: Feedforward Compression of Dynamic Gaussian Splatting for Free-Viewpoint Videos**|Wenkang Zhang et.al.|[2507.05859](http://arxiv.org/abs/2507.05859)|null|
+|**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
+|**2025-07-08**|**3DGS_LSR:Large_Scale Relocation for Autonomous Driving Based on 3D Gaussian Splatting**|Haitao Lu et.al.|[2507.05661](http://arxiv.org/abs/2507.05661)|null|
+|**2025-07-07**|**Mastering Regional 3DGS: Locating, Initializing, and Editing with Diverse 2D Priors**|Lanqing Guo et.al.|[2507.05426](http://arxiv.org/abs/2507.05426)|null|
 |**2025-07-07**|**SegmentDreamer: Towards High-fidelity Text-to-3D Synthesis with Segmented Consistency Trajectory Distillation**|Jiahao Zhu et.al.|[2507.05256](http://arxiv.org/abs/2507.05256)|null|
 |**2025-07-07**|**InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior**|Minghao Wen et.al.|[2507.04961](http://arxiv.org/abs/2507.04961)|null|
 |**2025-07-05**|**A3FR: Agile 3D Gaussian Splatting with Incremental Gaze Tracked Foveated Rendering in Virtual Reality**|Shuo Xin et.al.|[2507.04147](http://arxiv.org/abs/2507.04147)|null|
@@ -2134,7 +2137,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
