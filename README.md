@@ -1,4 +1,4 @@
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
+|**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
+|**2025-07-17**|**MoCap2GT: A High-Precision Ground Truth Estimator for SLAM Benchmarking Based on Motion Capture and IMU Fusion**|Zichao Shu et.al.|[2507.12920](http://arxiv.org/abs/2507.12920)|null|
+|**2025-07-17**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
 |**2025-07-16**|**Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards**|David Rapado-Rincon et.al.|[2507.12093](http://arxiv.org/abs/2507.12093)|null|
 |**2025-07-11**|**Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework**|Deteng Zhang et.al.|[2507.08364](http://arxiv.org/abs/2507.08364)|null|
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
@@ -509,18 +511,15 @@
 |**2024-07-18**|**A New Tightly-Coupled Dual-VIO for a Mobile Manipulator With Dynamic Locomotion**|Jianxiang Xu et.al.|[2407.13878](http://arxiv.org/abs/2407.13878)|**[link](https://github.com/UW-Advanced-Robotics-Lab/dual-VIO-MM)**|
 |**2024-07-18**|**Learn to Memorize and to Forget: A Continual Learning Perspective of Dynamic SLAM**|Baicheng Li et.al.|[2407.13338](http://arxiv.org/abs/2407.13338)|null|
 |**2024-07-18**|**Attenuation-Aware Weighted Optical Flow with Medium Transmission Map for Learning-based Visual Odometry in Underwater terrain**|Bach Nguyen Gia et.al.|[2407.13159](http://arxiv.org/abs/2407.13159)|**[link](https://github.com/bachzz/wflow-tartanvo)**|
-|**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663](http://arxiv.org/abs/2407.12663)|null|
-|**2024-07-17**|**Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**|Markus Weißflog et.al.|[2407.12408](http://arxiv.org/abs/2407.12408)|null|
 |**2024-07-19**|**Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion**|Sangjun Lee et.al.|[2407.12405](http://arxiv.org/abs/2407.12405)|**[link](https://github.com/eowjd0512/fisheye-calib-adapter)**|
-|**2024-07-17**|**Fusion LiDAR-Inertial-Encoder data for High-Accuracy SLAM**|Manh Do Duc et.al.|[2407.11870](http://arxiv.org/abs/2407.11870)|null|
-|**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Enhancing In-Domain and Out-Domain EmoFake Detection via Cooperative Multilingual Speech Foundation Models**|Orchid Chetia Phukan et.al.|[2507.12595](http://arxiv.org/abs/2507.12595)|null|
 |**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
 |**2025-07-16**|**Spatial Frequency Modulation for Semantic Segmentation**|Linwei Chen et.al.|[2507.11893](http://arxiv.org/abs/2507.11893)|null|
 |**2025-07-14**|**Supporting SENĆOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng et.al.|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
@@ -734,12 +733,14 @@
 |**2024-07-23**|**The Hidden Variables: Harnessing Half-Shell Potentials for Enhanced Precision in Nuclear Reaction Calculations**|Hao Liu et.al.|[2407.16452](http://arxiv.org/abs/2407.16452)|null|
 |**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435](http://arxiv.org/abs/2407.15435)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**FAR-Net: Multi-Stage Fusion Network with Enhanced Semantic Alignment and Adaptive Reconciliation for Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12823](http://arxiv.org/abs/2507.12823)|null|
+|**2025-07-17**|**MCoT-RE: Multi-Faceted Chain-of-Thought and Re-Ranking for Training-Free Zero-Shot Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12819](http://arxiv.org/abs/2507.12819)|null|
 |**2025-07-16**|**QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**|Jaehyun Kwak et.al.|[2507.12416](http://arxiv.org/abs/2507.12416)|null|
 |**2025-07-16**|**CorrMoE: Mixture of Experts with De-stylization Learning for Cross-Scene and Cross-Domain Correspondence Pruning**|Peiwen Xia et.al.|[2507.11834](http://arxiv.org/abs/2507.11834)|null|
 |**2025-07-09**|**Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning**|Konstantinos I. Roumeliotis et.al.|[2507.10571](http://arxiv.org/abs/2507.10571)|null|
@@ -1125,15 +1126,14 @@
 |**2024-07-22**|**Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation**|Mathieu Labbé et.al.|[2407.15304](http://arxiv.org/abs/2407.15304)|null|
 |**2024-07-19**|**Double-Layer Soft Data Fusion for Indoor Robot WiFi-Visual Localization**|Yuehua Ding et.al.|[2407.14643](http://arxiv.org/abs/2407.14643)|null|
 |**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766](http://arxiv.org/abs/2407.13766)|**[link](https://github.com/visual-haystacks/vhs_benchmark)**|
-|**2024-07-17**|**Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**|Markus Weißflog et.al.|[2407.12408](http://arxiv.org/abs/2407.12408)|null|
-|**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## Keypoint Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
 |**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102](http://arxiv.org/abs/2507.11102)|null|
 |**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077](http://arxiv.org/abs/2507.11077)|null|
 |**2025-07-14**|**FPC-Net: Revisiting SuperPoint with Descriptor-Free Keypoint Detection via Feature Pyramids and Consistency-Based Implicit Matching**|Ionuţ Grigore et.al.|[2507.10770](http://arxiv.org/abs/2507.10770)|null|
@@ -1222,7 +1222,7 @@
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-23**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1331,9 +1331,8 @@
 |**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812](http://arxiv.org/abs/2407.19812)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695](http://arxiv.org/abs/2407.18695)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
-|**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## NeRF
 
@@ -1668,20 +1667,18 @@
 |**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520](http://arxiv.org/abs/2407.13520)|null|
 |**2024-07-18**|**GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields**|Xiufeng Huang et.al.|[2407.13390](http://arxiv.org/abs/2407.13390)|null|
 |**2024-07-18**|**KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter**|Yifan Zhan et.al.|[2407.13185](http://arxiv.org/abs/2407.13185)|null|
-|**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|**[link](https://github.com/humansensinglab/Generalizable-Human-Gaussians)**|
-|**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667](http://arxiv.org/abs/2407.12667)|**[link](https://github.com/iris-cyy/sg-nerf)**|
-|**2024-07-17**|**InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**|Xulong Wang et.al.|[2407.12661](http://arxiv.org/abs/2407.12661)|**[link](https://github.com/muliphein/infonorm)**|
-|**2024-07-17**|**Invertible Neural Warp for NeRF**|Shin-Fang Chng et.al.|[2407.12354](http://arxiv.org/abs/2407.12354)|null|
-|**2024-07-17**|**Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections**|Congrong Xu et.al.|[2407.12306](http://arxiv.org/abs/2407.12306)|null|
 |**2024-07-18**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962](http://arxiv.org/abs/2407.11962)|null|
 |**2024-07-18**|**IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**|Wenxiang Jiang et.al.|[2407.11921](http://arxiv.org/abs/2407.11921)|**[link](https://github.com/jiang-wenxiang/ipa-nerf)**|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## 3DGS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**VolSegGS: Segmentation and Tracking in Dynamic Volumetric Scenes via Deformable 3D Gaussians**|Siyuan Yao et.al.|[2507.12667](http://arxiv.org/abs/2507.12667)|null|
+|**2025-07-16**|**NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting**|Kuangshi Ai et.al.|[2507.12621](http://arxiv.org/abs/2507.12621)|null|
+|**2025-07-16**|**Wavelet-GS: 3D Gaussian Splatting with Wavelet Decomposition**|Beizhen Zhao et.al.|[2507.12498](http://arxiv.org/abs/2507.12498)|null|
 |**2025-07-16**|**AD-GS: Object-Aware B-Spline Gaussian Splatting for Self-Supervised Autonomous Driving**|Jiawei Xu et.al.|[2507.12137](http://arxiv.org/abs/2507.12137)|null|
 |**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
 |**2025-07-16**|**SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation**|Beining Xu et.al.|[2507.12027](http://arxiv.org/abs/2507.12027)|null|
@@ -2131,7 +2128,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
