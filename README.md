@@ -1,4 +1,4 @@
-## Updated on 2025.08.04
+## Updated on 2025.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -494,10 +494,9 @@
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825](http://arxiv.org/abs/2408.03825)|null|
 |**2024-08-07**|**AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM System**|Kuan Xu et.al.|[2408.03520](http://arxiv.org/abs/2408.03520)|**[link](https://github.com/sair-lab/AirSLAM)**|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|**[link](https://github.com/GuidoManni/BodySLAM)**|
-|**2024-08-04**|**SLAMS-Propelled Electron Acceleration at High-Mach Number Astrophysical Shocks**|Vladimir Zeković et.al.|[2408.02084](http://arxiv.org/abs/2408.02084)|null|
 |**2024-08-07**|**IG-SLAM: Instant Gaussian SLAM**|F. Aykut Sarikamis et.al.|[2408.01126](http://arxiv.org/abs/2408.01126)|null|
 
-<p align=right>(<a href=#updated-on-20250804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
 
 ## SFM
 
@@ -713,11 +712,9 @@
 |**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma et.al.|[2408.06648](http://arxiv.org/abs/2408.06648)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825](http://arxiv.org/abs/2408.03825)|null|
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
-|**2024-08-04**|**Birational geometry of critical loci in Algebraic Vision**|Marina Bertolini et.al.|[2408.02067](http://arxiv.org/abs/2408.02067)|null|
-|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/abs/2408.02053)|null|
 |**2024-08-06**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166](http://arxiv.org/abs/2407.19166)|null|
 
-<p align=right>(<a href=#updated-on-20250804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1103,7 +1100,7 @@
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
 |**2024-08-09**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](http://arxiv.org/abs/2408.01841)|**[link](https://github.com/zjuluolun/bevplace)**|
 
-<p align=right>(<a href=#updated-on-20250804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1195,7 +1192,7 @@
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-10-01**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 
-<p align=right>(<a href=#updated-on-20250804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1301,9 +1298,8 @@
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
 |**2024-08-05**|**ConDL: Detector-Free Dense Image Matching**|Monika Kwiatkowski et.al.|[2408.02766](http://arxiv.org/abs/2408.02766)|null|
-|**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079](http://arxiv.org/abs/2408.02079)|**[link](https://github.com/maybeLx/MVS_NeuS)**|
 
-<p align=right>(<a href=#updated-on-20250804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
 
 ## NeRF
 
@@ -1615,10 +1611,9 @@
 |**2024-08-06**|**RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis**|Hugo Blanc et.al.|[2408.03356](http://arxiv.org/abs/2408.03356)|null|
 |**2024-08-06**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen et.al.|[2408.03193](http://arxiv.org/abs/2408.03193)|null|
 |**2024-08-06**|**MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images**|Tengfei Wang et.al.|[2408.03060](http://arxiv.org/abs/2408.03060)|null|
-|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/abs/2408.02053)|null|
 |**2024-08-05**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/abs/2408.00860)|null|
 
-<p align=right>(<a href=#updated-on-20250804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
 
 ## 3DGS
 
@@ -2094,7 +2089,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
