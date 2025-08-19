@@ -1,4 +1,4 @@
-## Updated on 2025.08.18
+## Updated on 2025.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -485,7 +485,7 @@
 |**2024-08-19**|**Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM**|Sanghyun Hahn et.al.|[2408.09727](http://arxiv.org/abs/2408.09727)|**[link](https://github.com/sangwoojung98/3d_map_evaluation)**|
 |**2024-08-21**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635](http://arxiv.org/abs/2408.05635)|null|
 
-<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
 
 ## SFM
 
@@ -697,7 +697,7 @@
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739](http://arxiv.org/abs/2408.10739)|null|
 
-<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1074,7 +1074,7 @@
 |**2024-08-23**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|**[link](https://github.com/sisinflab/geco)**|
 |**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
 
-<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1166,7 +1166,7 @@
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-10-01**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 
-<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1269,7 +1269,7 @@
 |**2024-09-11**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 
-<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
 
 ## NeRF
 
@@ -1560,10 +1560,8 @@
 |**2024-08-19**|**$R^2$ -Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135](http://arxiv.org/abs/2408.10135)|null|
 |**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928](http://arxiv.org/abs/2408.09928)|null|
 |**2024-08-20**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663](http://arxiv.org/abs/2408.09663)|null|
-|**2024-08-18**|**S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**|Dongze Li et.al.|[2408.09347](http://arxiv.org/abs/2408.09347)|null|
-|**2024-08-18**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416](http://arxiv.org/abs/2408.07416)|null|
 
-<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
 
 ## 3DGS
 
@@ -2039,7 +2037,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
