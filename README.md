@@ -1,4 +1,4 @@
-## Updated on 2025.09.07
+## Updated on 2025.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -460,7 +460,7 @@
 |**2024-09-10**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961](http://arxiv.org/abs/2409.04961)|**[link](https://github.com/PengYu-Team/GEODE_dataset)**|
 |**2024-09-08**|**FLAF: Focal Line and Feature-constrained Active View Planning for Visual Teach and Repeat**|Changfei Fu et.al.|[2409.03457](http://arxiv.org/abs/2409.03457)|null|
 
-<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 ## SFM
 
@@ -665,7 +665,7 @@
 |**2024-09-11**|**Geometry-aware Feature Matching for Large-Scale Structure from Motion**|Gonglin Chen et.al.|[2409.02310](http://arxiv.org/abs/2409.02310)|null|
 |**2024-09-15**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 
-<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1019,7 +1019,7 @@
 |**2024-09-12**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|**[link](https://github.com/whats2000/WeiMoCIR)**|
 |**2024-09-12**|**Zero-Shot Whole Slide Image Retrieval in Histopathology Using Embeddings of Foundation Models**|Saghir Alfasly et.al.|[2409.04631](http://arxiv.org/abs/2409.04631)|null|
 
-<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1110,7 +1110,7 @@
 |**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-10-01**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 
-<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1208,7 +1208,7 @@
 |**2024-09-15**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-09-11**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 
-<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 ## NeRF
 
@@ -1474,7 +1474,7 @@
 |**2024-09-09**|**Lagrangian Hashing for Compressed Neural Field Representations**|Shrisudhan Govindarajan et.al.|[2409.05334](http://arxiv.org/abs/2409.05334)|null|
 |**2024-09-09**|**Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems**|Jianheng Liu et.al.|[2409.05310](http://arxiv.org/abs/2409.05310)|null|
 
-<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1950,7 +1950,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
