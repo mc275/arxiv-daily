@@ -1,4 +1,4 @@
-## Updated on 2025.09.13
+## Updated on 2025.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -455,7 +455,7 @@
 |**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|**[link](https://github.com/mit-lean/gevo)**|
 |**2024-09-14**|**Panoramic Direct LiDAR-assisted Visual Odometry**|Zikang Yuan et.al.|[2409.09287](http://arxiv.org/abs/2409.09287)|**[link](https://github.com/ZikangYuan/panoramic_lidar_dso)**|
 
-<p align=right>(<a href=#updated-on-20250913>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
 
 ## SFM
 
@@ -655,10 +655,9 @@
 |**2024-09-23**|**Evaluating Robot Influence on Pedestrian Behavior Models for Crowd Simulation and Benchmarking**|Subham Agrawal et.al.|[2409.14844](http://arxiv.org/abs/2409.14844)|null|
 |**2024-09-21**|**Are Music Foundation Models Better at Singing Voice Deepfake Detection? Far-Better Fuse them with Speech Foundation Models**|Orchid Chetia Phukan et.al.|[2409.14131](http://arxiv.org/abs/2409.14131)|null|
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
-|**2024-09-13**|**Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints**|Shan Chen et.al.|[2409.08613](http://arxiv.org/abs/2409.08613)|null|
 |**2024-09-15**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 
-<p align=right>(<a href=#updated-on-20250913>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1004,7 +1003,7 @@
 |**2024-09-16**|**Garment Attribute Manipulation with Multi-level Attention**|Vittorio Casula et.al.|[2409.10206](http://arxiv.org/abs/2409.10206)|null|
 |**2024-09-14**|**Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval**|Amirreza Mahbod et.al.|[2409.09430](http://arxiv.org/abs/2409.09430)|**[link](https://github.com/masih4/MedImageRetrieval)**|
 
-<p align=right>(<a href=#updated-on-20250913>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1095,7 +1094,7 @@
 |**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-10-01**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 
-<p align=right>(<a href=#updated-on-20250913>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1191,7 +1190,7 @@
 |**2024-09-20**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|**[link](https://github.com/gdaosu/albedo_aerial_photogrammetry)**|
 |**2024-09-15**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 
-<p align=right>(<a href=#updated-on-20250913>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
 
 ## NeRF
 
@@ -1446,7 +1445,7 @@
 |**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041](http://arxiv.org/abs/2409.10041)|**[link](https://github.com/sntubix/denser)**|
 |**2024-09-15**|**NARF24: Estimating Articulated Object Structure for Implicit Rendering**|Stanley Lewis et.al.|[2409.09829](http://arxiv.org/abs/2409.09829)|null|
 
-<p align=right>(<a href=#updated-on-20250913>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1922,7 +1921,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250913>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
