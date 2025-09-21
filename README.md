@@ -1,4 +1,4 @@
-## Updated on 2025.09.20
+## Updated on 2025.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -431,11 +431,9 @@
 |**2024-09-23**|**Spectral Graph Theoretic Methods for Enhancing Network Robustness in Robot Localization**|Neelkamal Somisetty et.al.|[2409.15506](http://arxiv.org/abs/2409.15506)|null|
 |**2024-09-22**|**SPAQ-DL-SLAM: Towards Optimizing Deep Learning-based SLAM for Resource-Constrained Embedded Platforms**|Niraj Pudasaini et.al.|[2409.14515](http://arxiv.org/abs/2409.14515)|null|
 |**2024-09-21**|**Point Cloud Structural Similarity-based Underwater Sonar Loop Detection**|Donghwi Jung et.al.|[2409.14020](http://arxiv.org/abs/2409.14020)|**[link](https://github.com/donghwijung/point_cloud_structural_similarity_based_underwater_sonar_loop_detection)**|
-|**2024-09-20**|**HMD $^2$ : Environment-aware Motion Generation from Single Egocentric Head-Mounted Device**|Vladimir Guzov et.al.|[2409.13426](http://arxiv.org/abs/2409.13426)|null|
-|**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151](http://arxiv.org/abs/2409.13151)|null|
 |**2024-09-23**|**Uncertainty-Aware Visual-Inertial SLAM with Volumetric Occupancy Mapping**|Jaehyung Jung et.al.|[2409.12051](http://arxiv.org/abs/2409.12051)|null|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## SFM
 
@@ -635,7 +633,7 @@
 |**2024-09-23**|**Evaluating Robot Influence on Pedestrian Behavior Models for Crowd Simulation and Benchmarking**|Subham Agrawal et.al.|[2409.14844](http://arxiv.org/abs/2409.14844)|null|
 |**2024-09-21**|**Are Music Foundation Models Better at Singing Voice Deepfake Detection? Far-Better Fuse them with Speech Foundation Models**|Orchid Chetia Phukan et.al.|[2409.14131](http://arxiv.org/abs/2409.14131)|null|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -971,10 +969,9 @@
 |**2024-09-23**|**CamLoPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis**|Xiang Zhang et.al.|[2409.15169](http://arxiv.org/abs/2409.15169)|null|
 |**2024-09-21**|**Combining Absolute and Semi-Generalized Relative Poses for Visual Localization**|Vojtech Panek et.al.|[2409.14269](http://arxiv.org/abs/2409.14269)|null|
 |**2024-09-21**|**SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality**|Hongjia Zhai et.al.|[2409.14067](http://arxiv.org/abs/2409.14067)|null|
-|**2024-09-20**|**Efficient and Discriminative Image Feature Extraction for Universal Image Retrieval**|Morris Florek et.al.|[2409.13513](http://arxiv.org/abs/2409.13513)|**[link](https://github.com/morrisfl/unifex)**|
 |**2024-09-21**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1061,11 +1058,10 @@
 |**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899](http://arxiv.org/abs/2409.19899)|**[link](https://github.com/alanlusun/openkd)**|
 |**2024-10-07**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
-|**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
 |**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-10-01**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1158,9 +1154,8 @@
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
 |**2024-09-24**|**Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**|Marek Wodzinski et.al.|[2409.15931](http://arxiv.org/abs/2409.15931)|null|
-|**2024-09-20**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|**[link](https://github.com/gdaosu/albedo_aerial_photogrammetry)**|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## NeRF
 
@@ -1409,7 +1404,7 @@
 |**2024-09-25**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014](http://arxiv.org/abs/2409.12014)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
 |**2024-09-21**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1885,7 +1880,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
