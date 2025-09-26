@@ -1,4 +1,4 @@
-## Updated on 2025.09.25
+## Updated on 2025.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -421,14 +421,8 @@
 |**2024-09-26**|**BlinkTrack: Feature Tracking over 100 FPS via Events and Images**|Yichen Shen et.al.|[2409.17981](http://arxiv.org/abs/2409.17981)|null|
 |**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729](http://arxiv.org/abs/2409.17729)|null|
 |**2024-09-26**|**Event-based Stereo Depth Estimation: A Survey**|Suman Ghosh et.al.|[2409.17680](http://arxiv.org/abs/2409.17680)|null|
-|**2024-09-25**|**Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras**|Sotiris Papatheodorou et.al.|[2409.16972](http://arxiv.org/abs/2409.16972)|null|
-|**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944](http://arxiv.org/abs/2409.16944)|null|
-|**2024-09-25**|**Inline Photometrically Calibrated Hybrid Visual SLAM**|Nicolas Abboud et.al.|[2409.16810](http://arxiv.org/abs/2409.16810)|**[link](https://github.com/AUBVRL/HSLAM_docker)**|
-|**2024-09-25**|**Topological SLAM in colonoscopies leveraging deep features and topological priors**|Javier Morlana et.al.|[2409.16806](http://arxiv.org/abs/2409.16806)|**[link](https://github.com/endomapper/colonslam)**|
-|**2024-09-25**|**Robo-Platform: A Robotic System for Recording Sensors and Controlling Robots**|Masoud Dayani Najafabadi et.al.|[2409.16595](http://arxiv.org/abs/2409.16595)|**[link](https://github.com/m-dayani/robo-platform)**|
-|**2024-09-25**|**Task-driven SLAM Benchmarking**|Yanwei Du et.al.|[2409.16573](http://arxiv.org/abs/2409.16573)|**[link](https://github.com/ivalab/task_driven_slam_benchmarking)**|
 
-<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250926>back to top</a>)</p>
 
 ## SFM
 
@@ -620,10 +614,9 @@
 |**2024-09-27**|**MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion**|Bardienus Duisterhof et.al.|[2409.19152](http://arxiv.org/abs/2409.19152)|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-26**|**BlinkTrack: Feature Tracking over 100 FPS via Events and Images**|Yichen Shen et.al.|[2409.17981](http://arxiv.org/abs/2409.17981)|null|
-|**2024-09-25**|**How to Connect Speech Foundation Models and Large Language Models? What Matters and What Does Not**|Francesco Verdini et.al.|[2409.17044](http://arxiv.org/abs/2409.17044)|null|
 |**2024-10-07**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez et.al.|[2409.16465](http://arxiv.org/abs/2409.16465)|null|
 
-<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250926>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -956,7 +949,7 @@
 |**2024-09-26**|**Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**|Mankeerat Sidhu et.al.|[2409.18733](http://arxiv.org/abs/2409.18733)|null|
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
 
-<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250926>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1042,10 +1035,9 @@
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
 |**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899](http://arxiv.org/abs/2409.19899)|**[link](https://github.com/alanlusun/openkd)**|
 |**2024-10-07**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
-|**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-10-01**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 
-<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250926>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1136,9 +1128,8 @@
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|**[link](https://github.com/verlab/DescriptorReasoning_ACCV_2024)**|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
-|**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
 
-<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250926>back to top</a>)</p>
 
 ## NeRF
 
@@ -1376,12 +1367,9 @@
 |**2024-09-26**|**Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions**|Weng Fei Low et.al.|[2409.17988](http://arxiv.org/abs/2409.17988)|null|
 |**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729](http://arxiv.org/abs/2409.17729)|null|
 |**2024-09-26**|**TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene**|Sandika Biswas et.al.|[2409.17459](http://arxiv.org/abs/2409.17459)|**[link](https://github.com/sbsws88/tfs_nerf)**|
-|**2024-09-25**|**SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model**|Daniel Yang et.al.|[2409.17345](http://arxiv.org/abs/2409.17345)|null|
-|**2024-09-25**|**TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**|Aggelina Chatziagapi et.al.|[2409.16666](http://arxiv.org/abs/2409.16666)|null|
 |**2024-09-26**|**Gaussian Deja-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**|Peizhi Yan et.al.|[2409.16147](http://arxiv.org/abs/2409.16147)|**[link](https://github.com/peizhiyan/flame-head-tracker)**|
-|**2024-09-25**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014](http://arxiv.org/abs/2409.12014)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
 
-<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250926>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1857,7 +1845,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
