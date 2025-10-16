@@ -1,4 +1,4 @@
-## Updated on 2025.10.15
+## Updated on 2025.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -386,11 +386,8 @@
 |**2024-10-16**|**QueensCAMP: an RGB-D dataset for robust Visual SLAM**|Hudson M. S. Bruno et.al.|[2410.12520](http://arxiv.org/abs/2410.12520)|**[link](https://github.com/larocs/queenscamp-dataset)**|
 |**2024-10-18**|**PAPL-SLAM: Principal Axis-Anchored Monocular Point-Line SLAM**|Guanghao Li et.al.|[2410.12324](http://arxiv.org/abs/2410.12324)|null|
 |**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169](http://arxiv.org/abs/2410.12169)|null|
-|**2024-10-15**|**V3D-SLAM: Robust RGB-D SLAM in Dynamic Environments with 3D Semantic Geometry Voting**|Tuan Dang et.al.|[2410.12068](http://arxiv.org/abs/2410.12068)|**[link](https://github.com/tuantdang/v3d-slam)**|
-|**2024-10-15**|**GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information**|Wancai Zheng et.al.|[2410.11356](http://arxiv.org/abs/2410.11356)|null|
-|**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187](http://arxiv.org/abs/2410.11187)|**[link](https://github.com/ai4ce/MSG)**|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## SFM
 
@@ -567,11 +564,8 @@
 |**2024-10-16**|**Multi-View Multi-Task Modeling with Speech Foundation Models for Speech Forensic Tasks**|Orchid Chetia Phukan et.al.|[2410.12947](http://arxiv.org/abs/2410.12947)|null|
 |**2024-10-16**|**Gravity-aligned Rotation Averaging with Circular Regression**|Linfei Pan et.al.|[2410.12763](http://arxiv.org/abs/2410.12763)|**[link](https://github.com/colmap/glomap)**|
 |**2024-10-16**|**Beyond Speech and More: Investigating the Emergent Ability of Speech Foundation Models for Classifying Physiological Time-Series Signals**|Orchid Chetia Phukan et.al.|[2410.12645](http://arxiv.org/abs/2410.12645)|null|
-|**2024-10-15**|**SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**|Yizhe Liu et.al.|[2410.12080](http://arxiv.org/abs/2410.12080)|**[link](https://github.com/Yizhe-Liu/SplatPosePlus)**|
-|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
-|**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187](http://arxiv.org/abs/2410.11187)|**[link](https://github.com/ai4ce/MSG)**|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -877,11 +871,9 @@
 |**2024-10-16**|**Development of Image Collection Method Using YOLO and Siamese Network**|Chan Young Shin et.al.|[2410.12561](http://arxiv.org/abs/2410.12561)|null|
 |**2024-10-16**|**LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**|Juelin Zhu et.al.|[2410.12269](http://arxiv.org/abs/2410.12269)|**[link](https://github.com/VictorZoo/LoD-Loc)**|
 |**2024-10-16**|**Leveraging Spatial Attention and Edge Context for Optimized Feature Selection in Visual Localization**|Nanda Febri Istighfarin et.al.|[2410.12240](http://arxiv.org/abs/2410.12240)|null|
-|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
-|**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187](http://arxiv.org/abs/2410.11187)|**[link](https://github.com/ai4ce/MSG)**|
 |**2024-10-16**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -960,7 +952,7 @@
 |**2024-10-16**|**RAFA-Net: Region Attention Network For Food Items And Agricultural Stress Recognition**|Asish Bera et.al.|[2410.12718](http://arxiv.org/abs/2410.12718)|null|
 |**2024-10-16**|**Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features**|Chengkai Hou et.al.|[2410.02237](http://arxiv.org/abs/2410.02237)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1047,9 +1039,8 @@
 |**2024-10-31**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
 |**2024-10-26**|**Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**|Yue Su et.al.|[2410.20097](http://arxiv.org/abs/2410.20097)|null|
-|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## NeRF
 
@@ -1253,7 +1244,7 @@
 |**2024-10-16**|**3D Gaussian Splatting in Robotics: A Survey**|Siting Zhu et.al.|[2410.12262](http://arxiv.org/abs/2410.12262)|**[link](https://github.com/zstsandy/awesome-3d-gaussian-splatting-in-robotics)**|
 |**2024-10-16**|**EG-HumanNeRF: Efficient Generalizable Human NeRF Utilizing Human Prior for Sparse View**|Zhaorong Wang et.al.|[2410.12242](http://arxiv.org/abs/2410.12242)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1729,7 +1720,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
