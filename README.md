@@ -1,4 +1,4 @@
-## Updated on 2025.10.24
+## Updated on 2025.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -379,7 +379,7 @@
 |**2024-11-01**|**RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior**|Mingjiang Liang et.al.|[2410.20358](http://arxiv.org/abs/2410.20358)|null|
 |**2024-10-25**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341](http://arxiv.org/abs/2410.19341)|**[link](https://github.com/woo-soojin/context-based-vlpr)**|
 
-<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
 
 ## SFM
 
@@ -549,7 +549,7 @@
 |**2024-10-25**|**A Robust and Efficient Visual-Inertial Initialization with Probabilistic Normal Epipolar Constraint**|Changshi Mu et.al.|[2410.19473](http://arxiv.org/abs/2410.19473)|**[link](https://github.com/mucs714/drt-pnec)**|
 |**2024-10-30**|**Large Spatial Model: End-to-end Unposed Images to Semantic 3D**|Zhiwen Fan et.al.|[2410.18956](http://arxiv.org/abs/2410.18956)|**[link](https://github.com/NVlabs/LSM)**|
 
-<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -847,10 +847,9 @@
 |**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
 |**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615](http://arxiv.org/abs/2410.21615)|**[link](https://github.com/ai4ce/NYC-Event-VPR)**|
 |**2024-10-25**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341](http://arxiv.org/abs/2410.19341)|**[link](https://github.com/woo-soojin/context-based-vlpr)**|
-|**2024-10-24**|**ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval**|Zijia Zhao et.al.|[2410.18715](http://arxiv.org/abs/2410.18715)|**[link](https://github.com/joez17/chatsearch)**|
 |**2024-10-25**|**On Model-Free Re-ranking for Visual Place Recognition with Deep Learned Local Features**|Tomáš Pivoňka et.al.|[2410.18573](http://arxiv.org/abs/2410.18573)|null|
 
-<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -926,7 +925,7 @@
 |**2024-10-31**|**From Web Data to Real Fields: Low-Cost Unsupervised Domain Adaptation for Agricultural Robots**|Vasileios Tzouras et.al.|[2410.23906](http://arxiv.org/abs/2410.23906)|null|
 |**2024-11-27**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Mohammad Okour et.al.|[2410.14419](http://arxiv.org/abs/2410.14419)|null|
 
-<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1014,7 +1013,7 @@
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
 |**2024-10-26**|**Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**|Yue Su et.al.|[2410.20097](http://arxiv.org/abs/2410.20097)|null|
 
-<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
 
 ## NeRF
 
@@ -1196,9 +1195,8 @@
 |**2024-10-25**|**Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**|Weihang Liu et.al.|[2410.19483](http://arxiv.org/abs/2410.19483)|**[link](https://github.com/weihangliu2024/content_aware_nerf)**|
 |**2024-10-25**|**Evaluation of strategies for efficient rate-distortion NeRF streaming**|Pedro Martin et.al.|[2410.19459](http://arxiv.org/abs/2410.19459)|null|
 |**2024-10-27**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822](http://arxiv.org/abs/2410.18822)|null|
-|**2024-10-24**|**Real-time 3D-aware Portrait Video Relighting**|Ziqi Cai et.al.|[2410.18355](http://arxiv.org/abs/2410.18355)|**[link](https://github.com/GhostCai/PortraitRelighting)**|
 
-<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1674,7 +1672,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
