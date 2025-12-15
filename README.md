@@ -1,4 +1,4 @@
-## Updated on 2025.12.14
+## Updated on 2025.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -312,9 +312,8 @@
 |**2024-12-16**|**MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors**|Riku Murai et.al.|[2412.12392](http://arxiv.org/abs/2412.12392)|null|
 |**2024-12-16**|**Sonar-based Deep Learning in Underwater Robotics: Overview, Robustness and Challenges**|Martin Aubard et.al.|[2412.11840](http://arxiv.org/abs/2412.11840)|null|
 |**2024-12-19**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530](http://arxiv.org/abs/2412.11530)|null|
-|**2024-12-14**|**Affine EKF: Exploring and Utilizing Sufficient and Necessary Conditions for Observability Maintenance to Improve EKF Consistency**|Yang Song et.al.|[2412.10809](http://arxiv.org/abs/2412.10809)|**[link](https://github.com/yangsong-slam/affine-ekf)**|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## SFM
 
@@ -460,7 +459,7 @@
 |**2024-12-16**|**Speech Foundation Models and Crowdsourcing for Efficient, High-Quality Data Collection**|Beomseok Lee et.al.|[2412.11978](http://arxiv.org/abs/2412.11978)|null|
 |**2024-12-18**|**SplineGS: Robust Motion-Adaptive Spline for Real-Time Dynamic 3D Gaussians from Monocular Video**|Jongmin Park et.al.|[2412.09982](http://arxiv.org/abs/2412.09982)|null|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -712,7 +711,7 @@
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
 |**2024-12-18**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|**[link](https://github.com/pter61/osrcir2024)**|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -776,7 +775,7 @@
 |**2024-12-21**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2412.16755](http://arxiv.org/abs/2412.16755)|null|
 |**2024-12-19**|**Corn Ear Detection and Orientation Estimation Using Deep Learning**|Nathan Sprague et.al.|[2412.14954](http://arxiv.org/abs/2412.14954)|null|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## Image Matching
 
@@ -853,7 +852,7 @@
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-12-17**|**Bringing Multimodality to Amazon Visual Search System**|Xinliang Zhu et.al.|[2412.13364](http://arxiv.org/abs/2412.13364)|null|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## NeRF
 
@@ -959,7 +958,7 @@
 |**2024-12-18**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525](http://arxiv.org/abs/2412.11525)|null|
 |**2024-12-16**|**VRVVC: Variable-Rate NeRF-Based Volumetric Video Compression**|Qiang Hu et.al.|[2412.11362](http://arxiv.org/abs/2412.11362)|null|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1435,7 +1434,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
