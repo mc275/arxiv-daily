@@ -1,4 +1,4 @@
-## Updated on 2025.12.20
+## Updated on 2025.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -302,9 +302,8 @@
 |**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
 |**2025-01-03**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|**[link](https://github.com/zhaoxingZ/STVO)**|
 |**2024-12-21**|**Query Quantized Neural SLAM**|Sijia Jiang et.al.|[2412.16476](http://arxiv.org/abs/2412.16476)|**[link](https://github.com/machineperceptionlab/qq-slam)**|
-|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649](http://arxiv.org/abs/2412.15649)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
 
-<p align=right>(<a href=#updated-on-20251220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## SFM
 
@@ -447,7 +446,7 @@
 |**2024-12-25**|**Structured Speaker-Deficiency Adaptation of Foundation Models for Dysarthric and Elderly Speech Recognition**|Shujie Hu et.al.|[2412.18832](http://arxiv.org/abs/2412.18832)|null|
 |**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|**[link](https://github.com/hongsukchoi/hsfm_release)**|
 
-<p align=right>(<a href=#updated-on-20251220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -688,10 +687,8 @@
 |**2024-12-22**|**Where am I? Cross-View Geo-localization with Natural Language Descriptions**|Junyan Ye et.al.|[2412.17007](http://arxiv.org/abs/2412.17007)|null|
 |**2024-12-22**|**Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process**|Shenghai Yuan et.al.|[2412.16880](http://arxiv.org/abs/2412.16880)|null|
 |**2024-12-24**|**Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**|Daichi Yashima et.al.|[2412.16576](http://arxiv.org/abs/2412.16576)|**[link](https://github.com/keio-smilab24/relax-former)**|
-|**2024-12-20**|**A New Method to Capturing Compositional Knowledge in Linguistic Space**|Jiahe Wan et.al.|[2412.15632](http://arxiv.org/abs/2412.15632)|null|
-|**2024-12-20**|**Stabilizing Laplacian Inversion in Fokker-Planck Image Retrieval using the Transport-of-Intensity Equation**|Samantha J Alloo et.al.|[2412.15513](http://arxiv.org/abs/2412.15513)|null|
 
-<p align=right>(<a href=#updated-on-20251220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -754,7 +751,7 @@
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-12-21**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2412.16755](http://arxiv.org/abs/2412.16755)|null|
 
-<p align=right>(<a href=#updated-on-20251220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## Image Matching
 
@@ -830,7 +827,7 @@
 |**2024-12-27**|**MINIMA: Modality Invariant Image Matching**|Xingyu Jiang et.al.|[2412.19412](http://arxiv.org/abs/2412.19412)|**[link](https://github.com/LSXI7/MINIMA)**|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
 
-<p align=right>(<a href=#updated-on-20251220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## NeRF
 
@@ -922,10 +919,8 @@
 |**2024-12-23**|**Editing Implicit and Explicit Representations of Radiance Fields: A Survey**|Arthur Hubert et.al.|[2412.17628](http://arxiv.org/abs/2412.17628)|null|
 |**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532](http://arxiv.org/abs/2412.17532)|null|
 |**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737](http://arxiv.org/abs/2412.16737)|null|
-|**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141](http://arxiv.org/abs/2412.16141)|null|
-|**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890](http://arxiv.org/abs/2412.15890)|null|
 
-<p align=right>(<a href=#updated-on-20251220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1401,7 +1396,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20251220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
