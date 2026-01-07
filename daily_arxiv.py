@@ -13,7 +13,6 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     level=logging.INFO)
 
 # 获取论文代码链接、GitHub 搜索和 arXiv 论文链接的基础 URL
-base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
@@ -108,26 +107,20 @@ def get_daily_papers(topic,query="slam", max_results=2):
     @param query: str
     @return paper_with_code: dict
     """
-
-    # output结构体，content是标准md格式；content_to_web面向网页md的格式。
+    # output
     content = dict()
     content_to_web = dict()
-
-    # 调用arxiv接口，按照query搜索式进行论文检索，并根据时间排序。
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    # 遍历搜索结果，
     for result in search_engine.results():
-        
-        # 论文信息提取
+
         paper_id            = result.get_short_id()
         paper_title         = result.title
         paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
@@ -138,7 +131,6 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
         logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
-        # 对于有多个版本的同一篇论文，只提取他的短id,忽略版本号(实际就是最终版)
         # eg: 2108.09112v1 -> 2108.09112
         ver_pos = paper_id.find('v')
         if ver_pos == -1:
@@ -147,41 +139,19 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id[0:ver_pos]
         paper_url = arxiv_url + 'abs/' + paper_key
 
+        # Since PapersWithCode API is deprecated, we no longer fetch code links
+        # Papers will be listed without code links
+        content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+               update_time,paper_title,paper_first_author,paper_key,paper_url)
+        content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+               update_time,paper_title,paper_first_author,paper_url,paper_url)
 
-        try:
-            # 尝试获取代码链接，目前只能根据搜索信息获取
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: 在github里面搜搜看，可能匹配度不高的
-            # else:
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-                
-            # 根据论文搜索结果生成表格
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
-
-            # TODO: 加点评论，目前都是空；后面可以考虑让GPT出个摘要
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
-
-        except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+        # TODO: select useful comments
+        comments = None
+        if comments != None:
+            content_to_web[paper_key] += f", {comments}\n"
+        else:
+            content_to_web[paper_key] += f"\n"
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -231,24 +201,10 @@ def update_paper_links(filename):
                 json_data[keywords][paper_id] = str(contents)
                 logging.info(f'paper_id = {paper_id}, contents = {contents}')
 
-                # 查找json中代码链接为空的文章
-                valid_link = False if '|null|' in contents else True
-                if valid_link:
-                    continue
-                try:
-                    # 检索其是否更新了代码仓库
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
-                    repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
-
-                except Exception as e:
-                    logging.error(f"exception: {e} with id: {paper_id}")
+                # PapersWithCode API is deprecated, skip code link updates
+                # Papers will keep their existing null code links
+                logging.info(f'Skipping code link update for paper_id = {paper_id} (PapersWithCode API deprecated)')
+                
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
