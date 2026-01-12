@@ -18,10 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection**|Simon Archieri et.al.|[2601.05805](http://arxiv.org/abs/2601.05805)|null|
+|**2026-01-09**|**FeatureSLAM: Feature-enriched 3D gaussian splatting SLAM in real time**|Christopher Thirgood et.al.|[2601.05738](http://arxiv.org/abs/2601.05738)|null|
 |**2026-01-08**|**Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain**|Riku Suzuki et.al.|[2601.04551](http://arxiv.org/abs/2601.04551)|null|
 |**2026-01-08**|**Fast Continuum Robot Shape and External Load State Estimation on SE(3)**|James M. Ferguson et.al.|[2601.04493](http://arxiv.org/abs/2601.04493)|null|
 |**2026-01-06**|**Loop Closure using AnyLoc Visual Place Recognition in DPV-SLAM**|Wenzheng Zhang et.al.|[2601.02723](http://arxiv.org/abs/2601.02723)|null|
-|**2026-01-05**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309](http://arxiv.org/abs/2601.02309)|null|
+|**2026-01-09**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309](http://arxiv.org/abs/2601.02309)|null|
 |**2026-01-05**|**Differential Barometric Altimetry for Submeter Vertical Localization and Floor Recognition Indoors**|Yuhang Zhang et.al.|[2601.02184](http://arxiv.org/abs/2601.02184)|null|
 |**2026-01-03**|**VISO: Robust Underwater Visual-Inertial-Sonar SLAM with Photometric Rendering for Dense 3D Reconstruction**|Shu Pan et.al.|[2601.01144](http://arxiv.org/abs/2601.01144)|null|
 |**2025-12-28**|**RGS-SLAM: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization**|Wei-Tse Cheng et.al.|[2601.00705](http://arxiv.org/abs/2601.00705)|null|
@@ -395,6 +397,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection**|Simon Archieri et.al.|[2601.05805](http://arxiv.org/abs/2601.05805)|null|
 |**2025-12-31**|**3D Semantic Segmentation for Post-Disaster Assessment**|Nhut Le et.al.|[2512.24593](http://arxiv.org/abs/2512.24593)|null|
 |**2025-12-11**|**Enhanced Information Security via Wave-Field Selectivity and Structured Wavefront Manipulation**|Yufei Zhao et.al.|[2512.19702](http://arxiv.org/abs/2512.19702)|null|
 |**2025-12-18**|**An evacuation simulator for pedestrian dynamics based on the Social Force Model**|Julián López et.al.|[2512.16887](http://arxiv.org/abs/2512.16887)|null|
@@ -614,6 +617,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**Multi-task Cross-modal Learning for Chest X-ray Image Retrieval**|Zhaohui Liang et.al.|[2601.05399](http://arxiv.org/abs/2601.05399)|null|
 |**2026-01-07**|**ImLoc: Revisiting Visual Localization with Image-based Representation**|Xudong Jiang et.al.|[2601.04185](http://arxiv.org/abs/2601.04185)|null|
 |**2026-01-07**|**CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval**|Zhipeng Qian et.al.|[2601.03728](http://arxiv.org/abs/2601.03728)|null|
 |**2026-01-07**|**BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion**|Qingyao Tian et.al.|[2601.03713](http://arxiv.org/abs/2601.03713)|null|
@@ -1041,6 +1045,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**Stationaere Kurven auf endlichdimensionalen Mannigfaltigkeiten**|Tobias Starke et.al.|[2601.05695](http://arxiv.org/abs/2601.05695)|null|
 |**2026-01-05**|**Exact Clique Number Manipulation via Edge Interdiction**|Yi Zhou et.al.|[2601.01869](http://arxiv.org/abs/2601.01869)|null|
 |**2025-12-31**|**Quantum Visual Word Sense Disambiguation: Unraveling Ambiguities Through Quantum Inference Model**|Wenbo Qiao et.al.|[2512.24687](http://arxiv.org/abs/2512.24687)|null|
 |**2025-12-24**|**VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs**|Brigitta Malagurski Törtei et.al.|[2512.21194](http://arxiv.org/abs/2512.21194)|null|
@@ -1235,6 +1240,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting**|Yinghan Xu et.al.|[2601.05853](http://arxiv.org/abs/2601.05853)|null|
+|**2026-01-09**|**FeatureSLAM: Feature-enriched 3D gaussian splatting SLAM in real time**|Christopher Thirgood et.al.|[2601.05738](http://arxiv.org/abs/2601.05738)|null|
+|**2026-01-09**|**GS-DMSR: Dynamic Sensitive Multi-scale Manifold Enhancement for Accelerated High-Quality 3D Gaussian Splatting**|Nengbo Lu et.al.|[2601.05584](http://arxiv.org/abs/2601.05584)|null|
+|**2026-01-09**|**GaussianSwap: Animatable Video Face Swapping with 3D Gaussian Splatting**|Xuan Cheng et.al.|[2601.05511](http://arxiv.org/abs/2601.05511)|null|
+|**2026-01-08**|**MOSAIC-GS: Monocular Scene Reconstruction via Advanced Initialization for Complex Dynamic Environments**|Svitlana Morkva et.al.|[2601.05368](http://arxiv.org/abs/2601.05368)|null|
 |**2026-01-08**|**OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction**|Minseong Kweon et.al.|[2601.04984](http://arxiv.org/abs/2601.04984)|null|
 |**2026-01-08**|**ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting**|Yen-Jen Chiou et.al.|[2601.04754](http://arxiv.org/abs/2601.04754)|null|
 |**2026-01-07**|**SCAR-GS: Spatial Context Attention for Residuals in Progressive Gaussian Splatting**|Diego Revilla et.al.|[2601.04348](http://arxiv.org/abs/2601.04348)|null|
