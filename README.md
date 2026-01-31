@@ -1,4 +1,4 @@
-## Updated on 2026.01.30
+## Updated on 2026.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -383,9 +383,8 @@
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
 |**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang et.al.|[2501.19319](http://arxiv.org/abs/2501.19319)|**[link](https://github.com/lastbasket/endo-2dtam)**|
 |**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang et.al.|[2501.19274](http://arxiv.org/abs/2501.19274)|null|
-|**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
 
-<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## SFM
 
@@ -605,7 +604,7 @@
 |**2025-02-03**|**XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**|Shangjin Zhai et.al.|[2502.01297](http://arxiv.org/abs/2502.01297)|null|
 |**2025-02-02**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|**[link](https://github.com/openinterx/culture3d)**|
 
-<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -948,7 +947,7 @@
 |**2025-02-03**|**ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**|Costin F. Ciusdel et.al.|[2502.01335](http://arxiv.org/abs/2502.01335)|null|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
 
-<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1032,16 +1031,13 @@
 |**2025-02-27**|**Automatic Temporal Segmentation for Post-Stroke Rehabilitation: A Keypoint Detection and Temporal Segmentation Approach for Small Datasets**|Jisoo Lee et.al.|[2502.19766](http://arxiv.org/abs/2502.19766)|null|
 |**2025-02-23**|**Rewards-based image analysis in microscopy**|Kamyar Barakati et.al.|[2502.18522](http://arxiv.org/abs/2502.18522)|null|
 |**2025-02-19**|**2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**|Yusuke Uchida et.al.|[2502.13484](http://arxiv.org/abs/2502.13484)|null|
-|**2025-01-30**|**Transfer Learning for Keypoint Detection in Low-Resolution Thermal TUG Test Images**|Wei-Lun Chen et.al.|[2501.18453](http://arxiv.org/abs/2501.18453)|null|
-|**2025-01-30**|**Video-based Surgical Tool-tip and Keypoint Tracking using Multi-frame Context-driven Deep Learning Models**|Bhargav Ghanekar et.al.|[2501.18361](http://arxiv.org/abs/2501.18361)|null|
-|**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
 |**2025-06-24**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-04-24**|**Empirical Comparison of Four Stereoscopic Depth Sensing Cameras for Robotics Applications**|Lukas Rustler et.al.|[2501.07421](http://arxiv.org/abs/2501.07421)|null|
 |**2025-08-27**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|null|
 |**2025-05-13**|**Enhancing Scene Coordinate Regression with Efficient Keypoint Detection and Sequential Information**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
 |**2025-03-31**|**YOLO11 and Vision Transformers based 3D Pose Estimation of Immature Green Fruits in Commercial Apple Orchards for Robotic Thinning**|Ranjan Sapkota et.al.|[2410.19846](http://arxiv.org/abs/2410.19846)|null|
 
-<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1162,7 +1158,7 @@
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|**[link](https://github.com/url-kaist/mambaglue)**|
 
-<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## NeRF
 
@@ -1222,7 +1218,7 @@
 |**2025-02-05**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-02-02**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
 
-<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1862,7 +1858,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
