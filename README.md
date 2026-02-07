@@ -1,4 +1,4 @@
-## Updated on 2026.02.06
+## Updated on 2026.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -384,7 +384,7 @@
 |**2025-02-09**|**PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**|Yue Pan et.al.|[2502.05752](http://arxiv.org/abs/2502.05752)|**[link](https://github.com/PRBonn/PINGS)**|
 |**2025-02-07**|**Joint State and Noise Covariance Estimation**|Kasra Khosoussi et.al.|[2502.04584](http://arxiv.org/abs/2502.04584)|null|
 
-<p align=right>(<a href=#updated-on-20260206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
 
 ## SFM
 
@@ -606,7 +606,7 @@
 |**2025-02-09**|**Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models**|Jing-Xuan Zhang et.al.|[2502.05766](http://arxiv.org/abs/2502.05766)|**[link](https://github.com/jxzhanggg/DistillAV)**|
 |**2025-02-10**|**Building Rome with Convex Optimization**|Haoyu Han et.al.|[2502.04640](http://arxiv.org/abs/2502.04640)|null|
 
-<p align=right>(<a href=#updated-on-20260206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -960,9 +960,8 @@
 |**2025-02-10**|**AstroLoc: Robust Space to Ground Image Localizer**|Gabriele Berton et.al.|[2502.07003](http://arxiv.org/abs/2502.07003)|null|
 |**2025-02-09**|**Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education**|Yanhao Jia et.al.|[2502.05863](http://arxiv.org/abs/2502.05863)|null|
 |**2025-02-07**|**Learning Street View Representations with Spatiotemporal Contrast**|Yong Li et.al.|[2502.04638](http://arxiv.org/abs/2502.04638)|null|
-|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|**[link](https://github.com/miccunifi/cross-the-gap)**|
 
-<p align=right>(<a href=#updated-on-20260206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1052,7 +1051,7 @@
 |**2025-05-13**|**Enhancing Scene Coordinate Regression with Efficient Keypoint Detection and Sequential Information**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
 |**2025-03-31**|**YOLO11 and Vision Transformers based 3D Pose Estimation of Immature Green Fruits in Commercial Apple Orchards for Robotic Thinning**|Ranjan Sapkota et.al.|[2410.19846](http://arxiv.org/abs/2410.19846)|null|
 
-<p align=right>(<a href=#updated-on-20260206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1173,7 +1172,7 @@
 |**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|**[link](https://github.com/uestchjw/feakm)**|
 |**2025-02-24**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 
-<p align=right>(<a href=#updated-on-20260206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
 
 ## NeRF
 
@@ -1226,7 +1225,7 @@
 |**2025-02-08**|**GWRF: A Generalizable Wireless Radiance Field for Wireless Signal Propagation Modeling**|Kang Yang et.al.|[2502.05708](http://arxiv.org/abs/2502.05708)|null|
 |**2025-02-11**|**PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**|Feifei Li et.al.|[2502.04843](http://arxiv.org/abs/2502.04843)|null|
 
-<p align=right>(<a href=#updated-on-20260206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1896,7 +1895,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20260206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260207>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
