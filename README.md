@@ -1,4 +1,4 @@
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,9 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Multi-session Localization and Mapping Exploiting Topological Information**|Lorenzo Montano-Olivan et.al.|[2602.17226](http://arxiv.org/abs/2602.17226)|null|
+|**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182](http://arxiv.org/abs/2602.17182)|null|
+|**2026-02-19**|**Cholec80-port: A Geometrically Consistent Trocar Port Segmentation Dataset for Robust Surgical Scene Understanding**|Shunsuke Kikuchi et.al.|[2602.17060](http://arxiv.org/abs/2602.17060)|null|
 |**2026-02-18**|**Markerless Robot Detection and 6D Pose Estimation for Multi-Agent SLAM**|Markus Rueggeberg et.al.|[2602.16308](http://arxiv.org/abs/2602.16308)|null|
 |**2026-02-13**|**Adaptive Illumination Control for Robot Perception**|Yash Turkar et.al.|[2602.15900](http://arxiv.org/abs/2602.15900)|null|
-|**2026-02-12**|**VGGT-based online 3D semantic SLAM for indoor scene understanding and navigation**|Anna Gelencsér-Horváth et.al.|[2602.15899](http://arxiv.org/abs/2602.15899)|null|
+|**2026-02-19**|**SceneVGGT: VGGT-based online 3D semantic SLAM for indoor scene understanding and navigation**|Anna Gelencsér-Horváth et.al.|[2602.15899](http://arxiv.org/abs/2602.15899)|null|
 |**2026-02-05**|**The SLAM Confidence Trap**|Sebastian Sansoni et.al.|[2602.15884](http://arxiv.org/abs/2602.15884)|null|
 |**2026-02-14**|**High-fidelity 3D reconstruction for planetary exploration**|Alfonso Martínez-Petersen et.al.|[2602.13909](http://arxiv.org/abs/2602.13909)|null|
 |**2026-02-14**|**UAV-SEAD: State Estimation Anomaly Dataset for UAVs**|Aykut Kabaoglu et.al.|[2602.13900](http://arxiv.org/abs/2602.13900)|null|
@@ -382,20 +385,16 @@
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|**[link](https://github.com/gmberton/megaloc)**|
 |**2025-02-24**|**SLABIM: A SLAM-BIM Coupled Dataset in HKUST Main Building**|Haoming Huang et.al.|[2502.16856](http://arxiv.org/abs/2502.16856)|**[link](https://github.com/hkust-aerial-robotics/slabim)**|
 |**2025-02-27**|**Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**|Yao Zhang et.al.|[2502.16495](http://arxiv.org/abs/2502.16495)|null|
-|**2025-02-19**|**Slamming: Training a Speech Language Model on One GPU in a Day**|Gallil Maimon et.al.|[2502.15814](http://arxiv.org/abs/2502.15814)|**[link](https://github.com/slp-rl/slamkit)**|
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
 |**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931](http://arxiv.org/abs/2502.14931)|null|
-|**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803](http://arxiv.org/abs/2502.13803)|null|
-|**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
-|**2025-02-19**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|**[link](https://github.com/luigifreda/pyslam)**|
-|**2025-02-19**|**MonoForce: Learnable Image-conditioned Physics Engine**|Ruslan Agishev et.al.|[2502.10156](http://arxiv.org/abs/2502.10156)|**[link](https://github.com/ctu-vras/monoforce)**|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473](http://arxiv.org/abs/2602.17473)|null|
 |**2026-02-16**|**Time-Archival Camera Virtualization for Sports and Visual Performances**|Yunxiao Zhang et.al.|[2602.15181](http://arxiv.org/abs/2602.15181)|null|
 |**2026-02-16**|**Wrivinder: Towards Spatial Intelligence for Geo-locating Ground Images onto Satellite Imagery**|Chandrakanth Gudavalli et.al.|[2602.14929](http://arxiv.org/abs/2602.14929)|null|
 |**2026-02-15**|**Exploiting Structure-from-Motion for Robust Vision-Based Map Matching for Aircraft Surface Movement**|Daniel Choate et.al.|[2602.14311](http://arxiv.org/abs/2602.14311)|null|
@@ -611,15 +610,14 @@
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|null|
 |**2025-03-04**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684](http://arxiv.org/abs/2502.14684)|**[link](https://github.com/zqlin0521/cdgs-release)**|
-|**2025-02-19**|**Structure-from-Sherds++: Robust Incremental 3D Reassembly of Axially Symmetric Pots from Unordered and Mixed Fragment Collections**|Seong Jong Yoo et.al.|[2502.13986](http://arxiv.org/abs/2502.13986)|null|
-|**2025-02-19**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Visual Model Checking: Graph-Based Inference of Visual Routines for Image Retrieval**|Adrià Molina et.al.|[2602.17386](http://arxiv.org/abs/2602.17386)|null|
 |**2026-02-18**|**SCAR: Satellite Imagery-Based Calibration for Aerial Recordings**|Henry Hölzemann et.al.|[2602.16349](http://arxiv.org/abs/2602.16349)|null|
 |**2026-02-18**|**Markerless Robot Detection and 6D Pose Estimation for Multi-Agent SLAM**|Markus Rueggeberg et.al.|[2602.16308](http://arxiv.org/abs/2602.16308)|null|
 |**2026-02-17**|**Automated Assessment of Kidney Ureteroscopy Exploration for Training**|Fangjie Li et.al.|[2602.15988](http://arxiv.org/abs/2602.15988)|null|
@@ -965,10 +963,8 @@
 |**2025-02-23**|**SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition**|Feng Lu et.al.|[2502.16601](http://arxiv.org/abs/2502.16601)|**[link](https://github.com/Lu-Feng/SelaVPR)**|
 |**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
 |**2025-02-20**|**Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition**|Tianyi Shang et.al.|[2502.14195](http://arxiv.org/abs/2502.14195)|**[link](https://github.com/nuozimiaowu/Text4VPR)**|
-|**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803](http://arxiv.org/abs/2502.13803)|null|
-|**2025-02-19**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1055,14 +1051,13 @@
 |**2025-02-28**|**CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**|Anzhe Chen et.al.|[2503.00132](http://arxiv.org/abs/2503.00132)|null|
 |**2025-02-27**|**Automatic Temporal Segmentation for Post-Stroke Rehabilitation: A Keypoint Detection and Temporal Segmentation Approach for Small Datasets**|Jisoo Lee et.al.|[2502.19766](http://arxiv.org/abs/2502.19766)|null|
 |**2025-02-23**|**Rewards-based image analysis in microscopy**|Kamyar Barakati et.al.|[2502.18522](http://arxiv.org/abs/2502.18522)|null|
-|**2025-02-19**|**2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**|Yusuke Uchida et.al.|[2502.13484](http://arxiv.org/abs/2502.13484)|null|
 |**2025-06-24**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-04-24**|**Empirical Comparison of Four Stereoscopic Depth Sensing Cameras for Robotics Applications**|Lukas Rustler et.al.|[2501.07421](http://arxiv.org/abs/2501.07421)|null|
 |**2025-08-27**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|null|
 |**2025-05-13**|**Enhancing Scene Coordinate Regression with Efficient Keypoint Detection and Sequential Information**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
 |**2025-03-31**|**YOLO11 and Vision Transformers based 3D Pose Estimation of Immature Green Fruits in Commercial Apple Orchards for Robotic Thinning**|Ranjan Sapkota et.al.|[2410.19846](http://arxiv.org/abs/2410.19846)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1185,7 +1180,7 @@
 |**2025-03-04**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-24**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 ## NeRF
 
@@ -1224,14 +1219,19 @@
 |**2025-02-24**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
 |**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931](http://arxiv.org/abs/2502.14931)|null|
 |**2025-02-20**|**NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis**|Xiaoxing Liu et.al.|[2502.14178](http://arxiv.org/abs/2502.14178)|null|
-|**2025-02-19**|**GlossGau: Efficient Inverse Rendering for Glossy Surface with Anisotropic Spherical Gaussian**|Bang Du et.al.|[2502.14129](http://arxiv.org/abs/2502.14129)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 ## 3DGS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473](http://arxiv.org/abs/2602.17473)|null|
+|**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182](http://arxiv.org/abs/2602.17182)|null|
+|**2026-02-19**|**B $^3$ -Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates**|Hiromichi Kamata et.al.|[2602.17134](http://arxiv.org/abs/2602.17134)|null|
+|**2026-02-19**|**3D Scene Rendering with Multimodal Gaussian Splatting**|Chi-Shiang Gau et.al.|[2602.17124](http://arxiv.org/abs/2602.17124)|null|
+|**2026-02-19**|**i-PhysGaussian: Implicit Physical Simulation for 3D Gaussian Splatting**|Yicheng Cao et.al.|[2602.17117](http://arxiv.org/abs/2602.17117)|null|
+|**2026-01-23**|**Three-dimensional Damage Visualization of Civil Structures via Gaussian Splatting-enabled Digital Twins**|Shuo Wang et.al.|[2602.16713](http://arxiv.org/abs/2602.16713)|null|
 |**2026-02-17**|**Semantic-Guided 3D Gaussian Splatting for Transient Object Removal**|Aditi Prabakaran et.al.|[2602.15516](http://arxiv.org/abs/2602.15516)|null|
 |**2026-02-17**|**DAV-GSWT: Diffusion-Active-View Sampling for Data-Efficient Gaussian Splatting Wang Tiles**|Rong Fu et.al.|[2602.15355](http://arxiv.org/abs/2602.15355)|null|
 |**2026-02-16**|**Time-Archival Camera Virtualization for Sports and Visual Performances**|Yunxiao Zhang et.al.|[2602.15181](http://arxiv.org/abs/2602.15181)|null|
@@ -1933,7 +1933,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
