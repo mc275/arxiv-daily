@@ -1,4 +1,4 @@
-## Updated on 2026.03.01
+## Updated on 2026.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -392,7 +392,7 @@
 |**2025-03-03**|**Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning**|Xintao Chao et.al.|[2503.01543](http://arxiv.org/abs/2503.01543)|null|
 |**2025-03-03**|**RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation**|Shu Pan et.al.|[2503.01434](http://arxiv.org/abs/2503.01434)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## SFM
 
@@ -618,7 +618,7 @@
 |**2025-03-02**|**Multi-Cali Anything: Dense Feature Multi-Frame Structure-from-Motion for Large-Scale Camera Array Calibration**|Jinjiang You et.al.|[2503.00737](http://arxiv.org/abs/2503.00737)|**[link](https://github.com/yjjfish/multi-cali-anything)**|
 |**2025-03-04**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -973,9 +973,8 @@
 |**2025-03-03**|**Composed Multi-modal Retrieval: A Survey of Approaches and Applications**|Kun Zhang et.al.|[2503.01334](http://arxiv.org/abs/2503.01334)|**[link](https://github.com/kkzhang95/awesome-composed-multi-modal-retrieval)**|
 |**2025-03-03**|**AirRoom: Objects Matter in Room Reidentification**|Runmao Yao et.al.|[2503.01130](http://arxiv.org/abs/2503.01130)|null|
 |**2025-03-02**|**Efficient End-to-end Visual Localization for Autonomous Driving with Decoupled BEV Neural Matching**|Jinyu Miao et.al.|[2503.00862](http://arxiv.org/abs/2503.00862)|null|
-|**2025-03-01**|**Class-Independent Increment: An Efficient Approach for Multi-label Class-Incremental Learning**|Songlin Dong et.al.|[2503.00515](http://arxiv.org/abs/2503.00515)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1068,7 +1067,7 @@
 |**2025-05-13**|**Enhancing Scene Coordinate Regression with Efficient Keypoint Detection and Sequential Information**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
 |**2025-03-31**|**YOLO11 and Vision Transformers based 3D Pose Estimation of Immature Green Fruits in Commercial Apple Orchards for Robotic Thinning**|Ranjan Sapkota et.al.|[2410.19846](http://arxiv.org/abs/2410.19846)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1187,7 +1186,7 @@
 |**2025-07-17**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 |**2025-03-04**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## NeRF
 
@@ -1214,9 +1213,8 @@
 |**2025-03-05**|**Category-level Meta-learned NeRF Priors for Efficient Object Mapping**|Saad Ejaz et.al.|[2503.01582](http://arxiv.org/abs/2503.01582)|null|
 |**2025-03-03**|**LiteGS: A High-Performance Modular Framework for Gaussian Splatting Training**|Kaimin Liao et.al.|[2503.01199](http://arxiv.org/abs/2503.01199)|**[link](https://github.com/moorethreads/litegs)**|
 |**2025-03-02**|**DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing**|Youjia Wang et.al.|[2503.00887](http://arxiv.org/abs/2503.00887)|null|
-|**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370](http://arxiv.org/abs/2503.00370)|**[link](https://github.com/nepfaff/scalable-real2sim)**|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1956,7 +1954,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
