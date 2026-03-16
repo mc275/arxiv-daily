@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**|Dongxu Zhang et.al.|[2603.12721](http://arxiv.org/abs/2603.12721)|null|
 |**2026-03-12**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[2603.12064](http://arxiv.org/abs/2603.12064)|null|
 |**2026-03-11**|**D-SLAMSpoof: An Environment-Agnostic LiDAR Spoofing Attack using Dynamic Point Cloud Injection**|Rokuto Nagata et.al.|[2603.11365](http://arxiv.org/abs/2603.11365)|null|
 |**2026-03-11**|**MirrorDrift: Actuated Mirror-Based Attacks on LiDAR SLAM**|Rokuto Nagata et.al.|[2603.11364](http://arxiv.org/abs/2603.11364)|null|
@@ -426,7 +427,7 @@
 |**2026-02-12**|**From Implicit Ambiguity to Explicit Solidity: Diagnosing Interior Geometric Degradation in Neural Radiance Fields for Dense 3D Scene Understanding**|Jiangsan Zhao et.al.|[2601.21421](http://arxiv.org/abs/2601.21421)|null|
 |**2026-01-21**|**Minimizing Submodular Functions over Hierarchical Families**|Ryuhei Mizutani et.al.|[2601.14805](http://arxiv.org/abs/2601.14805)|null|
 |**2026-01-20**|**Rig-Aware 3D Reconstruction of Vehicle Undercarriages using Gaussian Splatting**|Nitin Kulkarni et.al.|[2601.14208](http://arxiv.org/abs/2601.14208)|null|
-|**2026-01-25**|**TreeDGS: Aerial Gaussian Splatting for Distant DBH Measurement**|Belal Shaheen et.al.|[2601.12823](http://arxiv.org/abs/2601.12823)|null|
+|**2026-03-13**|**TreeDGS: Aerial Gaussian Splatting for Distant DBH Measurement**|Belal Shaheen et.al.|[2601.12823](http://arxiv.org/abs/2601.12823)|null|
 |**2026-01-18**|**OpenNavMap: Structure-Free Topometric Mapping via Large-Scale Collaborative Localization**|Jianhao Jiao et.al.|[2601.12291](http://arxiv.org/abs/2601.12291)|null|
 |**2026-01-17**|**SupScene: Learning Overlap-Aware Global Descriptor for Unconstrained SfM**|Xulei Shi et.al.|[2601.11930](http://arxiv.org/abs/2601.11930)|null|
 |**2026-01-12**|**CompNO: A Novel Foundation Model approach for solving Partial Differential Equations**|Hamda Hmida et.al.|[2601.07384](http://arxiv.org/abs/2601.07384)|null|
@@ -615,6 +616,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks**|Tangzheng Lian et.al.|[2603.12998](http://arxiv.org/abs/2603.12998)|null|
+|**2026-03-13**|**Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval**|Jing Yang et.al.|[2603.12711](http://arxiv.org/abs/2603.12711)|null|
+|**2026-03-13**|**CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images**|Liangzheng Sun et.al.|[2603.12690](http://arxiv.org/abs/2603.12690)|null|
 |**2026-03-12**|**FBCIR: Balancing Cross-Modal Focuses in Composed Image Retrieval**|Chenchen Zhao et.al.|[2603.11520](http://arxiv.org/abs/2603.11520)|null|
 |**2026-03-12**|**Efficient Cross-View Localization in 6G Space-Air-Ground Integrated Network**|Min Hao et.al.|[2603.11398](http://arxiv.org/abs/2603.11398)|null|
 |**2026-03-10**|**Composed Vision-Language Retrieval for Skin Cancer Case Search via Joint Alignment of Global and Local Representations**|Yuheng Wang et.al.|[2603.09108](http://arxiv.org/abs/2603.09108)|null|
@@ -1061,6 +1065,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images**|Liangzheng Sun et.al.|[2603.12690](http://arxiv.org/abs/2603.12690)|null|
 |**2026-03-09**|**Enhancing Cross-View UAV Geolocalization via LVLM-Driven Relational Modeling**|Bowen Liu et.al.|[2603.08063](http://arxiv.org/abs/2603.08063)|null|
 |**2026-03-09**|**Speed3R: Sparse Feed-forward 3D Reconstruction Models**|Weining Ren et.al.|[2603.08055](http://arxiv.org/abs/2603.08055)|null|
 |**2026-03-06**|**EventGeM: Global-to-Local Feature Matching for Event-Based Visual Place Recognition**|Adam D. Hines et.al.|[2603.05807](http://arxiv.org/abs/2603.05807)|null|
@@ -1186,6 +1191,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**Spectral Defense Against Resource-Targeting Attack in 3D Gaussian Splatting**|Yang Chen et.al.|[2603.12796](http://arxiv.org/abs/2603.12796)|null|
+|**2026-03-13**|**LR-SGS: Robust LiDAR-Reflectance-Guided Salient Gaussian Splatting for Self-Driving Scene Reconstruction**|Ziyu Chen et.al.|[2603.12647](http://arxiv.org/abs/2603.12647)|null|
 |**2026-03-12**|**AstroSplat: Physics-Based Gaussian Splatting for Rendering and Reconstruction of Small Celestial Bodies**|Jennifer Nolan et.al.|[2603.11969](http://arxiv.org/abs/2603.11969)|null|
 |**2026-03-12**|**Mango-GS: Enhancing Spatio-Temporal Consistency in Dynamic Scenes Reconstruction using Multi-Frame Node-Guided 4D Gaussian Splatting**|Tingxuan Huang et.al.|[2603.11543](http://arxiv.org/abs/2603.11543)|null|
 |**2026-03-12**|**Mobile-GS: Real-time Gaussian Splatting for Mobile Devices**|Xiaobiao Du et.al.|[2603.11531](http://arxiv.org/abs/2603.11531)|null|
@@ -1213,7 +1220,7 @@
 |**2026-03-09**|**HDR-NSFF: High Dynamic Range Neural Scene Flow Fields**|Shin Dong-Yeon et.al.|[2603.08313](http://arxiv.org/abs/2603.08313)|null|
 |**2026-03-09**|**DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving**|Zhuolin He et.al.|[2603.08254](http://arxiv.org/abs/2603.08254)|null|
 |**2026-03-10**|**SGI: Structured 2D Gaussians for Efficient and Compact Large Image Representation**|Zixuan Pan et.al.|[2603.07789](http://arxiv.org/abs/2603.07789)|null|
-|**2026-03-08**|**Ref-DGS: Reflective Dual Gaussian Splatting**|Ningjing Fan et.al.|[2603.07664](http://arxiv.org/abs/2603.07664)|null|
+|**2026-03-13**|**Ref-DGS: Reflective Dual Gaussian Splatting**|Ningjing Fan et.al.|[2603.07664](http://arxiv.org/abs/2603.07664)|null|
 |**2026-03-08**|**Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence**|Yuanyuan Gao et.al.|[2603.07660](http://arxiv.org/abs/2603.07660)|null|
 |**2026-03-08**|**EmbedTalk: Triplane-Free Talking Head Synthesis using Embedding-Driven Gaussian Deformation**|Arpita Saggar et.al.|[2603.07604](http://arxiv.org/abs/2603.07604)|null|
 |**2026-03-08**|**3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification**|Jiahao Chen et.al.|[2603.07587](http://arxiv.org/abs/2603.07587)|null|
