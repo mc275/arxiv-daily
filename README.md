@@ -1,4 +1,4 @@
-## Updated on 2026.03.20
+## Updated on 2026.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -387,11 +387,8 @@
 |**2025-03-24**|**GI-SLAM: Gaussian-Inertial SLAM**|Xulang Liu et.al.|[2503.18275](http://arxiv.org/abs/2503.18275)|null|
 |**2025-03-22**|**LightLoc: Learning Outdoor LiDAR Localization at Light Speed**|Wen Li et.al.|[2503.17814](http://arxiv.org/abs/2503.17814)|**[link](https://github.com/liw95/lightloc)**|
 |**2025-03-21**|**Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions**|Muhua Zhang et.al.|[2503.17005](http://arxiv.org/abs/2503.17005)|null|
-|**2025-03-20**|**4D Gaussian Splatting SLAM**|Yanyan Li et.al.|[2503.16710](http://arxiv.org/abs/2503.16710)|null|
-|**2025-03-20**|**Speeding up design and making to reduce time-to-project and time-to-market: an AI-Enhanced approach in engineering education**|Giovanni Adorni et.al.|[2503.16307](http://arxiv.org/abs/2503.16307)|null|
-|**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 
-<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## SFM
 
@@ -614,10 +611,9 @@
 |**2025-03-22**|**3D Modeling: Camera Movement Estimation and path Correction for SFM Model using the Combination of Modified A-SIFT and Stereo System**|Usha Kumari et.al.|[2503.17668](http://arxiv.org/abs/2503.17668)|null|
 |**2025-03-25**|**ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes**|Zhengqing Gao et.al.|[2503.17486](http://arxiv.org/abs/2503.17486)|null|
 |**2025-03-21**|**ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration**|Johan Edstedt et.al.|[2503.17093](http://arxiv.org/abs/2503.17093)|**[link](https://github.com/ericssonresearch/colabsfm)**|
-|**2025-03-20**|**From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**|Ayberk Acar et.al.|[2503.16263](http://arxiv.org/abs/2503.16263)|null|
 |**2025-03-22**|**Euclid Quick Data Release (Q1). A first view of the star-forming main sequence in the Euclid Deep Fields**|Euclid Collaboration et.al.|[2503.15314](http://arxiv.org/abs/2503.15314)|null|
 
-<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -974,10 +970,8 @@
 |**2025-03-22**|**good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval**|Pranavi Kolouju et.al.|[2503.17871](http://arxiv.org/abs/2503.17871)|null|
 |**2025-03-21**|**Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2503.17109](http://arxiv.org/abs/2503.17109)|**[link](https://github.com/pter61/predicir)**|
 |**2025-03-21**|**Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions**|Muhua Zhang et.al.|[2503.17005](http://arxiv.org/abs/2503.17005)|null|
-|**2025-03-20**|**PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval**|Qiang Zou et.al.|[2503.16064](http://arxiv.org/abs/2503.16064)|**[link](https://github.com/ShiShuMo/PromptHash)**|
-|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|**[link](https://github.com/PaulSK98/Nerf2Dataset)**|
 
-<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1069,7 +1063,7 @@
 |**2025-05-13**|**Enhancing Scene Coordinate Regression with Efficient Keypoint Detection and Sequential Information**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
 |**2025-03-31**|**YOLO11 and Vision Transformers based 3D Pose Estimation of Immature Green Fruits in Commercial Apple Orchards for Robotic Thinning**|Ranjan Sapkota et.al.|[2410.19846](http://arxiv.org/abs/2410.19846)|null|
 
-<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1181,21 +1175,20 @@
 |**2025-03-26**|**Multimodal Image Matching based on Frequency-domain Information of Local Energy Response**|Meng Yang et.al.|[2503.20827](http://arxiv.org/abs/2503.20827)|null|
 |**2025-05-16**|**Normalized Matching Transformer**|Abtin Pourhadi et.al.|[2503.17715](http://arxiv.org/abs/2503.17715)|null|
 |**2025-10-30**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
-|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
 |**2025-07-10**|**EEPNet-V2: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
 |**2025-04-07**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
 |**2025-04-12**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
 |**2025-09-25**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
 |**2025-07-17**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 
-<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 
-<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## 3DGS
 
@@ -1996,18 +1989,8 @@
 |**2025-03-21**|**Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting**|Jinbo Yan et.al.|[2503.16979](http://arxiv.org/abs/2503.16979)|**[link](https://github.com/yjb6/IGS)**|
 |**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964](http://arxiv.org/abs/2503.16964)|null|
 |**2025-03-21**|**Optimized Minimal 3D Gaussian Splatting**|Joo Chan Lee et.al.|[2503.16924](http://arxiv.org/abs/2503.16924)|null|
-|**2025-03-20**|**SAGE: Semantic-Driven Adaptive Gaussian Splatting in Extended Reality**|Chiara Schiavo et.al.|[2503.16747](http://arxiv.org/abs/2503.16747)|null|
-|**2025-03-20**|**4D Gaussian Splatting SLAM**|Yanyan Li et.al.|[2503.16710](http://arxiv.org/abs/2503.16710)|null|
-|**2025-03-20**|**GauRast: Enhancing GPU Triangle Rasterizers to Accelerate 3D Gaussian Splatting**|Sixu Li et.al.|[2503.16681](http://arxiv.org/abs/2503.16681)|null|
-|**2025-03-20**|**1000+ FPS 4D Gaussian Splatting for Dynamic Scene Rendering**|Yuheng Yuan et.al.|[2503.16422](http://arxiv.org/abs/2503.16422)|null|
-|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|**[link](https://github.com/maureenzou/m3-spatial)**|
-|**2025-03-20**|**Gaussian Graph Network: Learning Efficient and Generalizable Gaussian Representations from Multi-view Images**|Shengjun Zhang et.al.|[2503.16338](http://arxiv.org/abs/2503.16338)|null|
-|**2025-03-20**|**OccluGaussian: Occlusion-Aware Gaussian Splatting for Large Scene Reconstruction and Rendering**|Shiyong Liu et.al.|[2503.16177](http://arxiv.org/abs/2503.16177)|null|
-|**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|**[link](https://github.com/JiatongXia/Pseudo-Labeling)**|
-|**2025-03-20**|**VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling**|Hyojun Go et.al.|[2503.15855](http://arxiv.org/abs/2503.15855)|null|
-|**2025-03-20**|**BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting**|Yiren Lu et.al.|[2503.15835](http://arxiv.org/abs/2503.15835)|null|
 
-<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
