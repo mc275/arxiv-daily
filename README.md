@@ -1,4 +1,4 @@
-## Updated on 2026.04.19
+## Updated on 2026.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -402,10 +402,9 @@
 |**2025-04-23**|**SLAM-Based Navigation and Fault Resilience in a Surveillance Quadcopter with Embedded Vision Systems**|Abhishek Tyagi et.al.|[2504.15305](http://arxiv.org/abs/2504.15305)|null|
 |**2025-04-20**|**Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction**|Weirong Chen et.al.|[2504.14516](http://arxiv.org/abs/2504.14516)|null|
 |**2025-04-20**|**SG-Reg: Generalizable and Efficient Scene Graph Registration**|Chuhao Liu et.al.|[2504.14440](http://arxiv.org/abs/2504.14440)|**[link](https://github.com/hkust-aerial-robotics/sg-reg)**|
-|**2025-04-19**|**Unreal Robotics Lab: A High-Fidelity Robotics Simulator with Advanced Physics and Rendering**|Jonathan Embley-Riches et.al.|[2504.14135](http://arxiv.org/abs/2504.14135)|null|
 |**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## SFM
 
@@ -629,7 +628,7 @@
 |**2025-04-21**|**Towards Understanding Camera Motions in Any Video**|Zhiqiu Lin et.al.|[2504.15376](http://arxiv.org/abs/2504.15376)|null|
 |**2025-04-21**|**StableQuant: Layer Adaptive Post-Training Quantization for Speech Foundation Models**|Yeona Hong et.al.|[2504.14915](http://arxiv.org/abs/2504.14915)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -993,9 +992,8 @@
 |**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636](http://arxiv.org/abs/2504.17636)|null|
 |**2025-04-23**|**Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval**|Xin Jiang et.al.|[2504.16691](http://arxiv.org/abs/2504.16691)|null|
 |**2025-04-22**|**Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs**|Merve Cerit et.al.|[2504.16323](http://arxiv.org/abs/2504.16323)|**[link](https://github.com/mediacontentatlas/mediacontentatlas)**|
-|**2025-04-19**|**A Multimodal Recaptioning Framework to Account for Perceptual Diversity in Multilingual Vision-Language Modeling**|Kyle Buettner et.al.|[2504.14359](http://arxiv.org/abs/2504.14359)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1088,7 +1086,7 @@
 |**2025-08-27**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|null|
 |**2025-05-13**|**Enhancing Scene Coordinate Regression with Efficient Keypoint Detection and Sequential Information**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1208,14 +1206,14 @@
 |**2025-09-25**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
 |**2025-07-17**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## 3DGS
 
@@ -2055,10 +2053,9 @@
 |**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638](http://arxiv.org/abs/2504.14638)|null|
 |**2025-04-20**|**VGNC: Reducing the Overfitting of Sparse-view 3DGS via Validation-guided Gaussian Number Control**|Lifeng Lin et.al.|[2504.14548](http://arxiv.org/abs/2504.14548)|null|
 |**2025-04-20**|**Metamon-GS: Enhancing Representability with Variance-Guided Densification and Light Encoding**|Junyan Su et.al.|[2504.14460](http://arxiv.org/abs/2504.14460)|null|
-|**2025-04-19**|**SEGA: Drivable 3D Gaussian Head Avatar from a Single Image**|Chen Guo et.al.|[2504.14373](http://arxiv.org/abs/2504.14373)|null|
 |**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
