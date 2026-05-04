@@ -1,4 +1,4 @@
-## Updated on 2026.05.03
+## Updated on 2026.05.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -401,9 +401,8 @@
 |**2025-05-05**|**LiDAR-Inertial SLAM-Based Navigation and Safety-Oriented AI-Driven Control System for Skid-Steer Robots**|Mehdi Heydari Shahna et.al.|[2505.02598](http://arxiv.org/abs/2505.02598)|null|
 |**2025-05-04**|**Robust Localization, Mapping, and Navigation for Quadruped Robots**|Dyuman Aditya et.al.|[2505.02272](http://arxiv.org/abs/2505.02272)|null|
 |**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
-|**2025-05-03**|**GauS-SLAM: Dense RGB-D SLAM with Gaussian Surfels**|Yongxin Su et.al.|[2505.01934](http://arxiv.org/abs/2505.01934)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## SFM
 
@@ -619,10 +618,8 @@
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
 |**2025-05-20**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|**[link](https://github.com/pals-ttic/fastmap)**|
 |**2025-05-15**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
-|**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
-|**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1004,7 +1001,7 @@
 |**2025-05-06**|**Seeing the Abstract: Translating the Abstract Language for Vision Language Models**|Davide Talon et.al.|[2505.03242](http://arxiv.org/abs/2505.03242)|**[link](https://github.com/davidetalon/fashionact)**|
 |**2025-05-13**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1098,7 +1095,7 @@
 |**2025-08-27**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|null|
 |**2025-05-13**|**Enhancing Scene Coordinate Regression with Efficient Keypoint Detection and Sequential Information**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1220,14 +1217,14 @@
 |**2025-09-25**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
 |**2025-07-17**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## 3DGS
 
@@ -2078,12 +2075,8 @@
 |**2025-05-04**|**SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting**|Shubhendu Jena et.al.|[2505.02175](http://arxiv.org/abs/2505.02175)|null|
 |**2025-05-04**|**GarmentGS: Point-Cloud Guided Gaussian Splatting for High-Fidelity Non-Watertight 3D Garment Reconstruction**|Zhihao Tang et.al.|[2505.02126](http://arxiv.org/abs/2505.02126)|null|
 |**2025-05-04**|**SignSplat: Rendering Sign Language via Gaussian Splatting**|Maksym Ivashechkin et.al.|[2505.02108](http://arxiv.org/abs/2505.02108)|null|
-|**2025-05-03**|**HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder**|Qi Yang et.al.|[2505.01938](http://arxiv.org/abs/2505.01938)|**[link](https://github.com/qi-yangsjtu/hybridgs)**|
-|**2025-05-03**|**GenSync: A Generalized Talking Head Framework for Audio-driven Multi-Subject Lip-Sync using 3D Gaussian Splatting**|Anushka Agarwal et.al.|[2505.01928](http://arxiv.org/abs/2505.01928)|null|
-|**2025-05-03**|**Visual enhancement and 3D representation for underwater scenes: a review**|Guoxi Huang et.al.|[2505.01869](http://arxiv.org/abs/2505.01869)|null|
-|**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
