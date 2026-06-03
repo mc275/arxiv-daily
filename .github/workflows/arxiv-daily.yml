@@ -17,6 +17,7 @@ on:
 env:
   GITHUB_USER_NAME: mc275
   GITHUB_USER_EMAIL: mc529244520@gmail.com
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -29,10 +30,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python Env
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
           #architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
