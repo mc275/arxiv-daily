@@ -416,6 +416,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-04**|**S23DR 2026 Winning Solution**|Jan Skvrna et.al.|[2606.06695](http://arxiv.org/abs/2606.06695)|null|
 |**2026-06-02**|**Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching**|Hao Zhong et.al.|[2606.03577](http://arxiv.org/abs/2606.03577)|null|
 |**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
 |**2026-06-01**|**Edge Prediction for Roof Wireframe Reconstruction with Transformers**|Gustav Hanning et.al.|[2606.02406](http://arxiv.org/abs/2606.02406)|null|
@@ -638,6 +639,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**Never Seen Before: Benchmarking Genuine Zero-Shot Composed Image Retrieval with Consistent Video-Sourced Datasets**|Zhenyu Yang et.al.|[2606.07032](http://arxiv.org/abs/2606.07032)|null|
+|**2026-06-04**|**Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations**|Kairi Masuda et.al.|[2606.06771](http://arxiv.org/abs/2606.06771)|null|
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
 |**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011](http://arxiv.org/abs/2606.05011)|null|
 |**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](http://arxiv.org/abs/2606.04788)|null|
