@@ -1,4 +1,4 @@
-## Updated on 2026.06.12
+## Updated on 2026.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -405,9 +405,8 @@
 |**2025-06-16**|**Cognitive Synergy Architecture: SEGO for Human-Centric Collaborative Robots**|Jaehong Oh et.al.|[2506.13149](http://arxiv.org/abs/2506.13149)|null|
 |**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100](http://arxiv.org/abs/2506.13100)|null|
 |**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089](http://arxiv.org/abs/2506.13089)|**[link](https://github.com/shahram95/superpointslam3)**|
-|**2025-06-12**|**LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System**|Hongbeen Park et.al.|[2506.10567](http://arxiv.org/abs/2506.10567)|null|
 
-<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 ## SFM
 
@@ -632,7 +631,7 @@
 |**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792](http://arxiv.org/abs/2506.18792)|null|
 |**2025-06-23**|**Room temperature spin injection into commercial VCSELs at non-resonant wavelengths**|Timur Almabetov et.al.|[2506.18376](http://arxiv.org/abs/2506.18376)|null|
 
-<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1038,7 +1037,7 @@
 |**2025-06-16**|**SuperPlace: The Renaissance of Classical Feature Aggregation for Visual Place Recognition in the Era of Foundation Models**|Bingxi Liu et.al.|[2506.13073](http://arxiv.org/abs/2506.13073)|null|
 |**2025-06-14**|**Feature Complementation Architecture for Visual Place Recognition**|Weiwei Wang et.al.|[2506.12401](http://arxiv.org/abs/2506.12401)|null|
 
-<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1125,7 +1124,7 @@
 |**2025-06-24**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-08-27**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|null|
 
-<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1244,14 +1243,14 @@
 |**2025-09-25**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
 |**2025-07-17**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 
-<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 
-<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 ## 3DGS
 
@@ -2146,11 +2145,8 @@
 |**2025-06-15**|**Efficient multi-view training for 3D Gaussian Splatting**|Minhyuk Choi et.al.|[2506.12727](http://arxiv.org/abs/2506.12727)|null|
 |**2025-06-15**|**Generative 4D Scene Gaussian Splatting with Object View-Synthesis Priors**|Wen-Hsuan Chu et.al.|[2506.12716](http://arxiv.org/abs/2506.12716)|null|
 |**2025-06-14**|**Perceptual-GS: Scene-adaptive Perceptual Densification for Gaussian Splatting**|Hongbi Zhou et.al.|[2506.12400](http://arxiv.org/abs/2506.12400)|**[link](https://github.com/eezkni/perceptual-gs)**|
-|**2025-06-12**|**Anti-Aliased 2D Gaussian Splatting**|Mae Younes et.al.|[2506.11252](http://arxiv.org/abs/2506.11252)|**[link](https://github.com/maeyounes/aa-2dgs)**|
-|**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335](http://arxiv.org/abs/2506.10335)|null|
-|**2025-06-12**|**ODG: Occupancy Prediction Using Dual Gaussians**|Yunxiao Shi et.al.|[2506.09417](http://arxiv.org/abs/2506.09417)|null|
 
-<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
