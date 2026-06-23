@@ -1,4 +1,4 @@
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**HERCULES: An Open-Source Simulation Framework for Heterogeneous Multi-Robot SLAM, Collaborative Perception, and Exploration**|Sandilya Sai Garimella et.al.|[2606.22756](http://arxiv.org/abs/2606.22756)|null|
+|**2026-06-21**|**Reference-Free Assessment of Physical Consistency in World Model-based Video Generation**|Yun Oh et.al.|[2606.22363](http://arxiv.org/abs/2606.22363)|null|
+|**2026-06-20**|**ACEsplat: Accelerated 3D Gaussian Scene Regression via RGB and Poses Only**|Mingkai Liu et.al.|[2606.22091](http://arxiv.org/abs/2606.22091)|null|
+|**2026-06-20**|**GeoFlow-SLAM++: A Robust Multi-Camera Visual-Inertial SLAM System with Relocalization**|Wei Fen et.al.|[2606.22051](http://arxiv.org/abs/2606.22051)|null|
+|**2026-06-19**|**Spectral GS-SLAM: Observability-Aware, Degeneracy-Robust Tracking for Real-Time 3D Gaussian Splatting SLAM**|Edward Beng Wai Tan et.al.|[2606.21258](http://arxiv.org/abs/2606.21258)|null|
+|**2026-06-19**|**Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation for Intelligent Transportation Systems**|Yihong Tian et.al.|[2606.21223](http://arxiv.org/abs/2606.21223)|null|
+|**2026-06-18**|**UNSEEN: Uncertainty-aware Navigation via Sparse Estimation in Unknown Environments**|Tommaso Faraci et.al.|[2606.20755](http://arxiv.org/abs/2606.20755)|null|
 |**2026-06-18**|**Towards 3D karst underwater scene reconstruction from rotating sonar data**|Georgios Evangelos Margaritis et.al.|[2606.20322](http://arxiv.org/abs/2606.20322)|null|
 |**2026-06-18**|**Gaussian Process Prior Variational Autoencoder for Endoscopic Videos**|Ivan De Boi et.al.|[2606.19908](http://arxiv.org/abs/2606.19908)|null|
 |**2026-06-18**|**MMD-SLAM: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM**|Fan Zhu et.al.|[2606.19874](http://arxiv.org/abs/2606.19874)|null|
@@ -33,7 +40,7 @@
 |**2026-06-13**|**FD-SLAM: Fast Dense Radar-Inertial SLAM with Frequency-Domain Loop Closure and Pose Graph Optimization**|Nader J. Abu-Alrub et.al.|[2606.15491](http://arxiv.org/abs/2606.15491)|null|
 |**2026-06-09**|**Information-Preserving Continuous Occupancy Mapping with Variance-Weighted Submap Joining**|Zhuhua Bai et.al.|[2606.10442](http://arxiv.org/abs/2606.10442)|null|
 |**2026-06-08**|**Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems**|Tao Li et.al.|[2606.09477](http://arxiv.org/abs/2606.09477)|null|
-|**2026-06-06**|**G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation**|Yufei Wei et.al.|[2606.08284](http://arxiv.org/abs/2606.08284)|null|
+|**2026-06-21**|**G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation**|Yufei Wei et.al.|[2606.08284](http://arxiv.org/abs/2606.08284)|null|
 |**2026-06-06**|**X-OP: Cross-Morphology Whole-Body Teleoperation via MPC Retargeting**|Jen-Wei Wang et.al.|[2606.07934](http://arxiv.org/abs/2606.07934)|null|
 |**2026-06-04**|**RadiusFPS: Efficient Farthest Point Sampling on CPUs and GPUs via Spherical Voxel Pruning**|Ziyang Yu et.al.|[2606.06255](http://arxiv.org/abs/2606.06255)|null|
 |**2026-06-04**|**Breaking Time: A Fully Gaussian Framework for Distributed and Continuous-Time SLAM**|Davide Ceriola et.al.|[2606.06250](http://arxiv.org/abs/2606.06250)|null|
@@ -408,15 +415,18 @@
 |**2025-06-23**|**GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**|Annika Thomas et.al.|[2506.18885](http://arxiv.org/abs/2506.18885)|null|
 |**2025-06-23**|**MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**|Tianchen Deng et.al.|[2506.18678](http://arxiv.org/abs/2506.18678)|null|
 |**2025-06-24**|**Multimodal Fusion SLAM with Fourier Attention**|Youjie Zhou et.al.|[2506.18204](http://arxiv.org/abs/2506.18204)|null|
-|**2025-06-22**|**ADA-DPM: A Neural Descriptors-based Adaptive Noise Point Filtering Strategy for SLAM**|Yongxin Shao et.al.|[2506.18016](http://arxiv.org/abs/2506.18016)|null|
 |**2025-06-24**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**The EDGE-CALIFA Survey: Star Formation Efficiency and Galaxy Quenching across 62 Main Sequence, Green Valley, and Red Galaxies**|Yu-Hsuan Teng et.al.|[2606.23649](http://arxiv.org/abs/2606.23649)|null|
+|**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856](http://arxiv.org/abs/2606.22856)|null|
+|**2026-06-20**|**ACEsplat: Accelerated 3D Gaussian Scene Regression via RGB and Poses Only**|Mingkai Liu et.al.|[2606.22091](http://arxiv.org/abs/2606.22091)|null|
+|**2026-06-15**|**MotionPyramid: Hierarchical Motion Representation and Residual Interfaces**|Gao Zhu et.al.|[2606.20705](http://arxiv.org/abs/2606.20705)|null|
 |**2026-06-16**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153](http://arxiv.org/abs/2606.18153)|null|
 |**2026-06-15**|**MVM-IOD: An Industrial Object-Centric Benchmark Dataset for the Evaluation of 3D Reconstruction Methods**|Robert Langendörfer et.al.|[2606.16638](http://arxiv.org/abs/2606.16638)|null|
 |**2026-06-13**|**PEARLS: NuSTAR and XMM-Newton Extragalactic Survey of the JWST North Ecliptic Pole Time Domain Field VI: Multiwavelength SED Analysis**|Rafael Ortiz et.al.|[2606.15365](http://arxiv.org/abs/2606.15365)|null|
@@ -641,12 +651,13 @@
 |**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792](http://arxiv.org/abs/2506.18792)|null|
 |**2025-06-23**|**Room temperature spin injection into commercial VCSELs at non-resonant wavelengths**|Timur Almabetov et.al.|[2506.18376](http://arxiv.org/abs/2506.18376)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-20**|**Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents**|Patricio M. Vera et.al.|[2606.22207](http://arxiv.org/abs/2606.22207)|null|
 |**2026-06-18**|**Multimodal Concept Bottleneck Models**|Tongqing Shi et.al.|[2606.19882](http://arxiv.org/abs/2606.19882)|null|
 |**2026-06-18**|**Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval**|Nguyen Cao Hoang et.al.|[2606.19684](http://arxiv.org/abs/2606.19684)|null|
 |**2026-06-17**|**Show, Don't Ask: Generative Visual Disambiguation for Composed Image Retrieval with Turn-Valid Coverage**|Amsisan Tran et.al.|[2606.18992](http://arxiv.org/abs/2606.18992)|null|
@@ -1042,12 +1053,13 @@
 |**2025-06-24**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902](http://arxiv.org/abs/2506.18902)|null|
 |**2025-06-26**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 ## Keypoint Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**ISOPoT: Imaging Sonar Odometry by Point Tracking**|Jaša Samec et.al.|[2606.23006](http://arxiv.org/abs/2606.23006)|null|
 |**2026-06-16**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936](http://arxiv.org/abs/2606.17936)|null|
 |**2026-06-04**|**Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation**|Ariel Herrera et.al.|[2606.06292](http://arxiv.org/abs/2606.06292)|null|
 |**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953](http://arxiv.org/abs/2605.29953)|null|
@@ -1130,12 +1142,13 @@
 |**2025-06-24**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-08-27**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856](http://arxiv.org/abs/2606.22856)|null|
 |**2026-06-18**|**Evaluation of Image Matching for Art Skills Assessment**|Asaad Alghamdi et.al.|[2606.20199](http://arxiv.org/abs/2606.20199)|null|
 |**2026-06-10**|**SalArt-VQA: Diagnosing Whether VLMs Understand Salient Artifacts in Generated Images**|Xiaoxiao Sun et.al.|[2606.12671](http://arxiv.org/abs/2606.12671)|null|
 |**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
@@ -1246,19 +1259,35 @@
 |**2025-09-25**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
 |**2025-07-17**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 ## 3DGS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild**|Yehonathan Litman et.al.|[2606.23688](http://arxiv.org/abs/2606.23688)|null|
+|**2026-06-22**|**MeGAS: Thermomechanical Dynamic Gaussian Splatting for Thermophysical Scene Editing**|Zesong Yang et.al.|[2606.23455](http://arxiv.org/abs/2606.23455)|null|
+|**2026-06-22**|**Temporally Aware Densification for Dynamic 3D Gaussian Splatting**|Vikram Sandu et.al.|[2606.23212](http://arxiv.org/abs/2606.23212)|null|
+|**2026-06-22**|**DrivingVoxels: Compositional Sparse Voxel Rasterization for Dynamic Driving Scene Reconstruction**|Tania Aguirre et.al.|[2606.23031](http://arxiv.org/abs/2606.23031)|null|
+|**2026-06-22**|**Learning Stable Canonical Worlds for Novel View Synthesis and Beyond**|Xiaoyu Xu et.al.|[2606.23027](http://arxiv.org/abs/2606.23027)|null|
+|**2026-06-21**|**Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography**|Yikuang Yuluo et.al.|[2606.22525](http://arxiv.org/abs/2606.22525)|null|
+|**2026-06-21**|**Lighting-Consistent Object Transfer Across Radiance Fields**|Nicolás Violante et.al.|[2606.22481](http://arxiv.org/abs/2606.22481)|null|
+|**2026-06-20**|**Multi4D: High-Fidelity Dynamic Gaussian Splatting via Multi-Level Competitive Allocation**|Rui Wang et.al.|[2606.22197](http://arxiv.org/abs/2606.22197)|null|
+|**2026-06-20**|**ACEsplat: Accelerated 3D Gaussian Scene Regression via RGB and Poses Only**|Mingkai Liu et.al.|[2606.22091](http://arxiv.org/abs/2606.22091)|null|
+|**2026-06-20**|**Mesh2GS: White-Box 3DGS Construction via Plenoptic Sampling**|Haoran Zhu et.al.|[2606.21898](http://arxiv.org/abs/2606.21898)|null|
+|**2026-06-19**|**Single-Event Upsets in 3D Gaussian Splatting Rendering: Bit-Level Criticality, Spatial Extent, and a Parallel Support Guard**|Faruk Alpay et.al.|[2606.21791](http://arxiv.org/abs/2606.21791)|null|
+|**2026-06-19**|**Scene-Level Heterogeneous Physics Simulation with 3D Gaussian Splats**|Xiaoyang Liu et.al.|[2606.21753](http://arxiv.org/abs/2606.21753)|null|
+|**2026-06-19**|**LOGOS: LiDAR-Only Gaussian Elevation Splatting for Unified Tiny Obstacle Segmentation**|Nan Ming et.al.|[2606.21527](http://arxiv.org/abs/2606.21527)|null|
+|**2026-06-19**|**Spectral GS-SLAM: Observability-Aware, Degeneracy-Robust Tracking for Real-Time 3D Gaussian Splatting SLAM**|Edward Beng Wai Tan et.al.|[2606.21258](http://arxiv.org/abs/2606.21258)|null|
+|**2026-06-19**|**ACE-GS: Acing the Trade-off with Accurate, Compact and Efficient 3D Gaussian Splatting**|Jijian Zhao et.al.|[2606.21244](http://arxiv.org/abs/2606.21244)|null|
+|**2026-06-18**|**From Uncertainty to Stability and Fidelity: Guiding Sparse-View 3D Gaussian Splatting with Fisher Information**|Junbao Zhou et.al.|[2606.20842](http://arxiv.org/abs/2606.20842)|null|
 |**2026-06-18**|**VisDom: Sparse Novel View Synthesis with Visible Domain Constraint**|Mariia Gladkova* et.al.|[2606.20531](http://arxiv.org/abs/2606.20531)|null|
 |**2026-06-18**|**LIT-GS: LiDAR-Inertial-Thermal Gaussian Splatting for Illumination-Robust Mapping**|Shikuan Shi et.al.|[2606.20424](http://arxiv.org/abs/2606.20424)|null|
 |**2026-06-18**|**Geometry-Preserving in 3D Gaussian Splatting for LiDAR-Camera Extrinsic Calibration**|Kyoleen Kwak et.al.|[2606.20103](http://arxiv.org/abs/2606.20103)|null|
@@ -1300,7 +1329,7 @@
 |**2026-06-09**|**ManiSplat: Manipulation Trajectory Synthesis from Monocular Video via Decoupled 3D Gaussian Splatting**|Wenhao Hu et.al.|[2606.10645](http://arxiv.org/abs/2606.10645)|null|
 |**2026-06-09**|**GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning**|Haoliang Han et.al.|[2606.10612](http://arxiv.org/abs/2606.10612)|null|
 |**2026-06-08**|**ABot-Earth 0.5: Generative 3D Earth Model**|Ming Qian et.al.|[2606.09967](http://arxiv.org/abs/2606.09967)|null|
-|**2026-06-08**|**REFINE: Super-efficient 3D Gaussian Splatting Pruning via Rendering-Free Primitive Importance**|Zhang Chen et.al.|[2606.09074](http://arxiv.org/abs/2606.09074)|null|
+|**2026-06-19**|**REFINE: Super-efficient 3D Gaussian Splatting Pruning via Rendering-Free Primitive Importance**|Zhang Chen et.al.|[2606.09074](http://arxiv.org/abs/2606.09074)|null|
 |**2026-06-08**|**Leveraging NeRF-Rendered Images for 3D Gaussian Splatting**|Mizuki Morikawa et.al.|[2606.09034](http://arxiv.org/abs/2606.09034)|null|
 |**2026-06-08**|**MaterialClusterGS: Palette-Based Material Decomposition and Physically-Based Relighting with 2D Gaussian Splatting**|Hao Zhang et.al.|[2606.09018](http://arxiv.org/abs/2606.09018)|null|
 |**2026-06-06**|**LEGS: Laplacian-Enhanced Gaussian Splatting with a Nonlinear Weighted Loss**|Yongfei Guo et.al.|[2606.07932](http://arxiv.org/abs/2606.07932)|null|
@@ -2159,7 +2188,7 @@
 |**2025-06-23**|**Reconstructing Tornadoes in 3D with Gaussian Splatting**|Adam Yang et.al.|[2506.18677](http://arxiv.org/abs/2506.18677)|null|
 |**2025-06-23**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262](http://arxiv.org/abs/2506.16262)|**[link](https://github.com/cmlab-korea/awesome-3d-low-level-vision)**|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
