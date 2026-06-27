@@ -1,4 +1,4 @@
-## Updated on 2026.06.26
+## Updated on 2026.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -415,11 +415,8 @@
 |**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243](http://arxiv.org/abs/2507.00243)|null|
 |**2025-06-29**|**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**|Zhen Tan et.al.|[2506.23207](http://arxiv.org/abs/2506.23207)|null|
 |**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078](http://arxiv.org/abs/2506.23078)|null|
-|**2025-06-26**|**Adaptive Multipath-Based SLAM for Distributed MIMO Systems**|Xuhong Li et.al.|[2506.21798](http://arxiv.org/abs/2506.21798)|null|
-|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420](http://arxiv.org/abs/2506.21420)|null|
-|**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077](http://arxiv.org/abs/2506.21077)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 ## SFM
 
@@ -651,7 +648,7 @@
 |**2025-06-27**|**Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras**|Petr Hruby et.al.|[2506.22069](http://arxiv.org/abs/2506.22069)|null|
 |**2025-07-08**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460](http://arxiv.org/abs/2506.21460)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1048,10 +1045,8 @@
 |**2025-06-28**|**Utilizing a Novel Deep Learning Method for Scene Categorization in Remote Sensing Data**|Ghufran A. Omran et.al.|[2506.22939](http://arxiv.org/abs/2506.22939)|null|
 |**2025-06-28**|**Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**|Li-Cheng Shen et.al.|[2506.22864](http://arxiv.org/abs/2506.22864)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
-|**2025-06-26**|**OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography**|Caoshuo Li et.al.|[2506.21101](http://arxiv.org/abs/2506.21101)|null|
-|**2025-06-26**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1139,7 +1134,7 @@
 |**2025-08-04**|**Autonomous Dissection in Robotic Cholecystectomy**|Ki-Hwan Oh et.al.|[2503.00666](http://arxiv.org/abs/2503.00666)|null|
 |**2025-08-27**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1255,14 +1250,14 @@
 |**2025-09-25**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
 |**2025-07-17**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 ## 3DGS
 
@@ -2181,15 +2176,8 @@
 |**2025-06-28**|**Confident Splatting: Confidence-Based Compression of 3D Gaussian Splatting via Learnable Beta Distributions**|AmirHossein Naghi Razlighi et.al.|[2506.22973](http://arxiv.org/abs/2506.22973)|null|
 |**2025-06-27**|**DIGS: Dynamic CBCT Reconstruction using Deformation-Informed 4D Gaussian Splatting and a Low-Rank Free-Form Deformation Model**|Yuliang Huang et.al.|[2506.22280](http://arxiv.org/abs/2506.22280)|null|
 |**2025-06-27**|**BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**|Zipei Ma et.al.|[2506.22099](http://arxiv.org/abs/2506.22099)|null|
-|**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[2506.21520](http://arxiv.org/abs/2506.21520)|null|
-|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420](http://arxiv.org/abs/2506.21420)|null|
-|**2025-06-26**|**Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction**|Zhirui Gao. Renjiao Yi et.al.|[2506.21401](http://arxiv.org/abs/2506.21401)|null|
-|**2025-06-26**|**Geometry and Perception Guided Gaussians for Multiview-consistent 3D Generation from a Single Image**|Pufan Li et.al.|[2506.21152](http://arxiv.org/abs/2506.21152)|null|
-|**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
-|**2025-06-26**|**User-in-the-Loop View Sampling with Error Peaking Visualization**|Ayaka Yasunaga et.al.|[2506.21009](http://arxiv.org/abs/2506.21009)|null|
-|**2025-06-26**|**DBMovi-GS: Dynamic View Synthesis from Blurry Monocular Video via Sparse-Controlled Gaussian Splatting**|Yeon-Ji Song et.al.|[2506.20998](http://arxiv.org/abs/2506.20998)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
