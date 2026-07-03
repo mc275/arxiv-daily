@@ -1,4 +1,4 @@
-## Updated on 2026.07.02
+## Updated on 2026.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**A Stereo Visual SLAM System Using Object-Level Motion Estimation and Geometric Filtering Based on Cross Disparity**|Sujan Kumar Dhali et.al.|[2607.02005](http://arxiv.org/abs/2607.02005)|null|
+|**2026-07-02**|**DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability**|Ziheng Xu et.al.|[2607.01860](http://arxiv.org/abs/2607.01860)|null|
+|**2026-07-02**|**DL-VINS-Factory: A Modular Framework for Learned Visual Front-Ends in Visual-Inertial SLAM**|Shoon Kit Lim et.al.|[2607.01757](http://arxiv.org/abs/2607.01757)|null|
 |**2026-06-30**|**VOCA: Visual Odometry with Codec Awareness**|Nouri Alexander Hilscher et.al.|[2607.00189](http://arxiv.org/abs/2607.00189)|null|
 |**2026-06-30**|**PRISM-VO: Scale-Aware Visual Odometry Using Photometric Plenoptic Bundle Adjustment**|Aymeric Fleith et.al.|[2607.00176](http://arxiv.org/abs/2607.00176)|null|
 |**2026-06-30**|**ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving**|Xuchang Zhong et.al.|[2606.31226](http://arxiv.org/abs/2606.31226)|null|
@@ -430,7 +433,7 @@
 |**2025-07-09**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
 |**2025-07-04**|**Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps**|Chong Cheng et.al.|[2507.03737](http://arxiv.org/abs/2507.03737)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## SFM
 
@@ -663,12 +666,15 @@
 |**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306](http://arxiv.org/abs/2507.03306)|null|
 |**2025-07-08**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460](http://arxiv.org/abs/2506.21460)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training**|Yejun Zhang et.al.|[2607.02486](http://arxiv.org/abs/2607.02486)|null|
+|**2026-07-02**|**FlowCIR: Semantic Transport via Flow Matching for Zero-Shot Composed Image Retrieval**|Zhenqi He et.al.|[2607.02284](http://arxiv.org/abs/2607.02284)|null|
+|**2026-07-02**|**Traceable Fault Diagnosis for Battery Energy Storage Systems via Retrieval-Augmented Multi-Agent O&M Assistant**|Jiangdi Ru et.al.|[2607.01992](http://arxiv.org/abs/2607.01992)|null|
 |**2026-07-01**|**Learning to Compose: Revisiting Proxy Task Design for Zero-Shot Composed Image Retrieval**|Jingjing Zhang et.al.|[2607.00374](http://arxiv.org/abs/2607.00374)|null|
 |**2026-06-30**|**Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition**|Zhiyao Shu et.al.|[2607.00090](http://arxiv.org/abs/2607.00090)|null|
 |**2026-06-30**|**Thinking Before Retrieving: Robust Zero-Shot Composed Image Retrieval via Strategic Planning and Self-Criticism**|Gunho Jung et.al.|[2606.31222](http://arxiv.org/abs/2606.31222)|null|
@@ -1064,7 +1070,7 @@
 |**2025-07-06**|**U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**|Xiaofan Li et.al.|[2507.04503](http://arxiv.org/abs/2507.04503)|null|
 |**2025-07-04**|**Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition**|Jiuhong Xiao et.al.|[2507.03831](http://arxiv.org/abs/2507.03831)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1102,7 +1108,7 @@
 |**2026-02-25**|**Perception-Control Coupled Visual Servoing for Textureless Objects Using Keypoint-Based EKF**|Allen Tao et.al.|[2602.06834](http://arxiv.org/abs/2602.06834)|null|
 |**2026-02-05**|**DroneKey++: A Size Prior-free Method and New Benchmark for Drone 3D Pose Estimation from Sequential Images**|Seo-Bin Hwang et.al.|[2602.06211](http://arxiv.org/abs/2602.06211)|null|
 |**2026-01-22**|**Coarse-to-Fine Non-rigid Multi-modal Image Registration for Historical Panel Paintings based on Crack Structures**|Aline Sindel et.al.|[2601.16348](http://arxiv.org/abs/2601.16348)|null|
-|**2026-01-21**|**ZENITH: Automated Gradient Norm Informed Stochastic Optimization**|Dhrubo Saha et.al.|[2601.15212](http://arxiv.org/abs/2601.15212)|null|
+|**2026-07-01**|**ZENITH: Automated Gradient Norm Informed Stochastic Optimization**|Dhrubo Saha et.al.|[2601.15212](http://arxiv.org/abs/2601.15212)|null|
 |**2026-06-30**|**On the Role of Rotation Equivariance in Monocular 2D-to-3D Human Pose Lifting**|Pavlo Melnyk et.al.|[2601.13913](http://arxiv.org/abs/2601.13913)|null|
 |**2026-01-02**|**UnrealPose: Leveraging Game Engine Kinematics for Large-Scale Synthetic Human Pose Data**|Joshua Kawaguchi et.al.|[2601.00991](http://arxiv.org/abs/2601.00991)|null|
 |**2025-12-31**|**GenZ: Foundational models as latent variable generators within traditional statistical models**|Marko Jojic et.al.|[2512.24834](http://arxiv.org/abs/2512.24834)|null|
@@ -1152,7 +1158,7 @@
 |**2025-08-04**|**Autonomous Dissection in Robotic Cholecystectomy**|Ki-Hwan Oh et.al.|[2503.00666](http://arxiv.org/abs/2503.00666)|null|
 |**2025-08-27**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1268,24 +1274,34 @@
 |**2025-09-25**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
 |**2025-07-17**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## 3DGS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**X-Splat: Gaussian Splatting for 3D CBCT Generation from Single Panoramic Radiograph**|Tomasz Szczepański et.al.|[2607.02099](http://arxiv.org/abs/2607.02099)|null|
+|**2026-07-02**|**DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability**|Ziheng Xu et.al.|[2607.01860](http://arxiv.org/abs/2607.01860)|null|
+|**2026-07-02**|**PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation**|Duy Cao et.al.|[2607.01803](http://arxiv.org/abs/2607.01803)|null|
+|**2026-07-02**|**The Turning Point of 3D Plant Phenotyping: 3D Foundation Models Enable Minute-to-Second Cross-Crop Reconstruction and Beyond**|Hanyue Jia et.al.|[2607.01753](http://arxiv.org/abs/2607.01753)|null|
+|**2026-07-02**|**Consistent Scene Understanding in 3D Gaussian Splatting via Multi-Cue Mask Refinement**|Hyunjoon Park et.al.|[2607.01708](http://arxiv.org/abs/2607.01708)|null|
+|**2026-07-02**|**Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction**|Weiyi Xue et.al.|[2607.01698](http://arxiv.org/abs/2607.01698)|null|
+|**2026-07-02**|**Online Segment 3D Gaussians via Launching Virtual Drones**|Liwei Liao et.al.|[2607.01628](http://arxiv.org/abs/2607.01628)|null|
+|**2026-07-02**|**MVFusion-GS: Motion-Variance Guided Temporal Attention for High-Quality Dynamic Gaussian Splatting**|Jianwei Hu et.al.|[2607.01578](http://arxiv.org/abs/2607.01578)|null|
+|**2026-07-02**|**Mind the Gap: Standard 3DGS Evaluation Primarily Measures Near-Trajectory Interpolation**|Gaoxiang Jia et.al.|[2607.01556](http://arxiv.org/abs/2607.01556)|null|
+|**2026-07-01**|**AnchorSplat: Fast and Structure Consistent Detail Synthesis for Gaussian Splatting**|Dexu Zhu et.al.|[2607.01290](http://arxiv.org/abs/2607.01290)|null|
 |**2026-07-01**|**FastBridge: Closing the Model-Based Realization Gap in Safety Filters on 3D Gaussian Splatting for Fast Quadrotor Flight**|Tscholl Dario et.al.|[2607.01200](http://arxiv.org/abs/2607.01200)|null|
 |**2026-07-01**|**GaussianEmoTalker: Real-Time Emotional Talking Head Synthesis with Audio-Driven and Blendshape-Based 3D Gaussian Splatting**|Haijie Yang et.al.|[2607.00959](http://arxiv.org/abs/2607.00959)|null|
 |**2026-07-01**|**Improving Sparse-View 3DGS Generalization via Flat Minima Optimization**|Kangmin Seo et.al.|[2607.00885](http://arxiv.org/abs/2607.00885)|null|
 |**2026-07-01**|**Path Planning in Physically Viable World Models**|Su Ann Low et.al.|[2607.00673](http://arxiv.org/abs/2607.00673)|null|
-|**2026-07-01**|**GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting**|Siwoo Lim et.al.|[2607.00595](http://arxiv.org/abs/2607.00595)|null|
+|**2026-07-02**|**GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting**|Siwoo Lim et.al.|[2607.00595](http://arxiv.org/abs/2607.00595)|null|
 |**2026-06-30**|**Progressive Pose-Guided 4D Animal Reconstruction from Monocular Video**|Siyuan Li et.al.|[2607.00157](http://arxiv.org/abs/2607.00157)|null|
 |**2026-06-30**|**PointSplat: Compact Gaussian Splatting via Human-Centric Prediction**|Yujie Guo et.al.|[2606.32036](http://arxiv.org/abs/2606.32036)|null|
 |**2026-06-30**|**Practical High-Fidelity Novel-View Synthesis of Mounted Lepidoptera**|Kristof Overdulve et.al.|[2606.31679](http://arxiv.org/abs/2606.31679)|null|
@@ -1308,7 +1324,7 @@
 |**2026-06-29**|**FalconTrack: Photorealistic Auto-Labeled Perception and Physics-Aware Vision-Based Aerial Tracking**|Yan Miao et.al.|[2606.29783](http://arxiv.org/abs/2606.29783)|null|
 |**2026-06-29**|**Graph-GSReg: Leveraging 3D Scene Graphs for Gaussian Splatting Registration**|Jaewon Lee et.al.|[2606.29782](http://arxiv.org/abs/2606.29782)|null|
 |**2026-06-29**|**MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM**|Fan Zhu et.al.|[2606.29738](http://arxiv.org/abs/2606.29738)|null|
-|**2026-06-28**|**Resonant Brane Splatting for Arbitrary-Scale Super-Resolution**|Giulio Federico et.al.|[2606.29453](http://arxiv.org/abs/2606.29453)|null|
+|**2026-07-01**|**Resonant Brane Splatting for Arbitrary-Scale Super-Resolution**|Giulio Federico et.al.|[2606.29453](http://arxiv.org/abs/2606.29453)|null|
 |**2026-06-28**|**Learning to Adaptively Allocate Gaussians for Arbitrary-Scale Image Super-Resolution**|Giulio Federico et.al.|[2606.29400](http://arxiv.org/abs/2606.29400)|null|
 |**2026-06-28**|**DR-GS: Physically-Based Deformable and Relightable 2D Gaussians**|Jiaxin Li et.al.|[2606.29379](http://arxiv.org/abs/2606.29379)|null|
 |**2026-06-28**|**L2D2-GS: Learning to Densify for Feedforward Dynamic Gaussian Scene Reconstruction**|Zetian Song et.al.|[2606.29374](http://arxiv.org/abs/2606.29374)|null|
@@ -2220,9 +2236,8 @@
 |**2025-07-03**|**ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects**|Qiaojun Yu et.al.|[2507.02600](http://arxiv.org/abs/2507.02600)|null|
 |**2025-07-03**|**LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling**|Jiahao Wu et.al.|[2507.02363](http://arxiv.org/abs/2507.02363)|null|
 |**2025-07-03**|**Gbake: Baking 3D Gaussian Splats into Reflection Probes**|Stephen Pasch et.al.|[2507.02257](http://arxiv.org/abs/2507.02257)|null|
-|**2025-07-02**|**3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation**|Tianrui Lou et.al.|[2507.01367](http://arxiv.org/abs/2507.01367)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
