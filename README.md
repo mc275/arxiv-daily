@@ -1,4 +1,4 @@
-## Updated on 2026.07.03
+## Updated on 2026.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -433,7 +433,7 @@
 |**2025-07-09**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
 |**2025-07-04**|**Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps**|Chong Cheng et.al.|[2507.03737](http://arxiv.org/abs/2507.03737)|null|
 
-<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
 
 ## SFM
 
@@ -666,7 +666,7 @@
 |**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306](http://arxiv.org/abs/2507.03306)|null|
 |**2025-07-08**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460](http://arxiv.org/abs/2506.21460)|null|
 
-<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1070,7 +1070,7 @@
 |**2025-07-06**|**U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**|Xiaofan Li et.al.|[2507.04503](http://arxiv.org/abs/2507.04503)|null|
 |**2025-07-04**|**Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition**|Jiuhong Xiao et.al.|[2507.03831](http://arxiv.org/abs/2507.03831)|null|
 
-<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1158,7 +1158,7 @@
 |**2025-08-04**|**Autonomous Dissection in Robotic Cholecystectomy**|Ki-Hwan Oh et.al.|[2503.00666](http://arxiv.org/abs/2503.00666)|null|
 |**2025-08-27**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|null|
 
-<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1274,14 +1274,14 @@
 |**2025-09-25**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
 |**2025-07-17**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 
-<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 
-<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
 
 ## 3DGS
 
@@ -2232,12 +2232,8 @@
 |**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
 |**2025-07-05**|**ArmGS: Composite Gaussian Appearance Refinement for Modeling Dynamic Urban Environments**|Guile Wu et.al.|[2507.03886](http://arxiv.org/abs/2507.03886)|null|
 |**2025-07-04**|**Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps**|Chong Cheng et.al.|[2507.03737](http://arxiv.org/abs/2507.03737)|null|
-|**2025-07-03**|**HyperGaussians: High-Dimensional Gaussian Splatting for High-Fidelity Animatable Face Avatars**|Gent Serifi et.al.|[2507.02803](http://arxiv.org/abs/2507.02803)|null|
-|**2025-07-03**|**ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects**|Qiaojun Yu et.al.|[2507.02600](http://arxiv.org/abs/2507.02600)|null|
-|**2025-07-03**|**LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling**|Jiahao Wu et.al.|[2507.02363](http://arxiv.org/abs/2507.02363)|null|
-|**2025-07-03**|**Gbake: Baking 3D Gaussian Splats into Reflection Probes**|Stephen Pasch et.al.|[2507.02257](http://arxiv.org/abs/2507.02257)|null|
 
-<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
