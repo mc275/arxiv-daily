@@ -1,4 +1,4 @@
-## Updated on 2026.07.04
+## Updated on 2026.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -431,9 +431,8 @@
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
 |**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321](http://arxiv.org/abs/2507.04321)|null|
 |**2025-07-09**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
-|**2025-07-04**|**Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps**|Chong Cheng et.al.|[2507.03737](http://arxiv.org/abs/2507.03737)|null|
 
-<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
 
 ## SFM
 
@@ -663,10 +662,9 @@
 |**2025-07-23**|**Spatial Frequency Modulation for Semantic Segmentation**|Linwei Chen et.al.|[2507.11893](http://arxiv.org/abs/2507.11893)|null|
 |**2025-07-20**|**Supporting SENCOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng et.al.|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
 |**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448](http://arxiv.org/abs/2507.08448)|null|
-|**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306](http://arxiv.org/abs/2507.03306)|null|
 |**2025-07-08**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460](http://arxiv.org/abs/2506.21460)|null|
 
-<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1068,9 +1066,8 @@
 |**2025-07-08**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
 |**2025-07-06**|**U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**|Xiaofan Li et.al.|[2507.04503](http://arxiv.org/abs/2507.04503)|null|
-|**2025-07-04**|**Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition**|Jiuhong Xiao et.al.|[2507.03831](http://arxiv.org/abs/2507.03831)|null|
 
-<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1158,7 +1155,7 @@
 |**2025-08-04**|**Autonomous Dissection in Robotic Cholecystectomy**|Ki-Hwan Oh et.al.|[2503.00666](http://arxiv.org/abs/2503.00666)|null|
 |**2025-08-27**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|null|
 
-<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1274,14 +1271,14 @@
 |**2025-09-25**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
 |**2025-07-17**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 
-<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 
-<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
 
 ## 3DGS
 
@@ -2231,9 +2228,8 @@
 |**2025-07-05**|**A3FR: Agile 3D Gaussian Splatting with Incremental Gaze Tracked Foveated Rendering in Virtual Reality**|Shuo Xin et.al.|[2507.04147](http://arxiv.org/abs/2507.04147)|null|
 |**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
 |**2025-07-05**|**ArmGS: Composite Gaussian Appearance Refinement for Modeling Dynamic Urban Environments**|Guile Wu et.al.|[2507.03886](http://arxiv.org/abs/2507.03886)|null|
-|**2025-07-04**|**Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps**|Chong Cheng et.al.|[2507.03737](http://arxiv.org/abs/2507.03737)|null|
 
-<p align=right>(<a href=#updated-on-20260704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
