@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras**|Yang Yi et.al.|[2608.14027](http://arxiv.org/abs/2608.14027)|null|
 |**2026-08-10**|**A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM**|Boris Radovanovic et.al.|[2608.09620](http://arxiv.org/abs/2608.09620)|null|
 |**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146](http://arxiv.org/abs/2608.09146)|null|
 |**2026-08-10**|**ROEVO: Robust Organized Edge Feature-based Visual Odometry Using RGB-D Cameras**|Mingrui Liu et.al.|[2608.09112](http://arxiv.org/abs/2608.09112)|null|
@@ -731,7 +732,7 @@
 |**2026-08-07**|**Geometry-Aware Camera Localization for Bronchoscopy**|Lumin Chen et.al.|[2608.07116](http://arxiv.org/abs/2608.07116)|null|
 |**2026-08-07**|**KnifeHunter: Structured Local Representation Learning for Fine-Grained Knife Image Retrieval in Law Enforcement**|Syed Sameed Husain et.al.|[2608.07057](http://arxiv.org/abs/2608.07057)|null|
 |**2026-08-07**|**Are Visual Place Recognition Models Recognizing Places or Conditions? Distractor-Augmented Evaluation and Condition Suppression**|Beomsu Kim et.al.|[2608.06847](http://arxiv.org/abs/2608.06847)|null|
-|**2026-08-06**|**Learning visual representations for compositional analysis of artworks and photographs**|Fatemeh Behrad et.al.|[2608.06142](http://arxiv.org/abs/2608.06142)|null|
+|**2026-08-14**|**Learning visual representations for compositional analysis of artworks and photographs**|Fatemeh Behrad et.al.|[2608.06142](http://arxiv.org/abs/2608.06142)|null|
 |**2026-08-06**|**Topometric Autonomous Vehicle Localization by Combining Visual Embeddings and Feed-Forward 3D Models**|Eulogio Quemada-Torres et.al.|[2608.06021](http://arxiv.org/abs/2608.06021)|null|
 |**2026-08-05**|**CoCo-IR: Contextual Composed Image Retrieval**|Shengcao Cao et.al.|[2608.05149](http://arxiv.org/abs/2608.05149)|null|
 |**2026-08-04**|**SGFormer: Structure-Guided Transformer for Robust Local Feature Matching**|Runyu Zhu et.al.|[2608.03423](http://arxiv.org/abs/2608.03423)|null|
@@ -1362,6 +1363,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting**|Wei Zhang et.al.|[2608.14136](http://arxiv.org/abs/2608.14136)|null|
 |**2026-08-13**|**GS $^{2}$ CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors**|Yanming Yang et.al.|[2608.13502](http://arxiv.org/abs/2608.13502)|null|
 |**2026-08-13**|**Splat-based Metal Artifact Reduction in Cone-Beam CT via Polychromatic Modeling**|Kiseok Choi et.al.|[2608.13159](http://arxiv.org/abs/2608.13159)|null|
 |**2026-08-13**|**ProbSplat: Efficient Probabilistic Hardware for Gaussian Splatting in 3D Scene Reconstruction**|Siddarth Gottumukkula et.al.|[2608.13143](http://arxiv.org/abs/2608.13143)|null|
