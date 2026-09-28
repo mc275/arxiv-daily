@@ -18,7 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-24**|**FMCW-LIO: A Doppler LiDAR-Inertial Odometry**|Mingle Zhao et.al.|[2609.29374](http://arxiv.org/abs/2609.29374)|null|
+|**2026-09-25**|**CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation**|Timofei Kozlov et.al.|[2609.31418](http://arxiv.org/abs/2609.31418)|null|
+|**2026-09-25**|**Augmented Reality Interfaces for Human-Robot Collaboration: Development of a ROS 2-Based Sensor Streaming Framework and Validation via SLAM Algorithms**|Alessandro Rubert et.al.|[2609.31396](http://arxiv.org/abs/2609.31396)|null|
+|**2026-09-25**|**DAPEVO: Deep Adaptive Patch Frame-Event Visual Odometry**|Luca Gandolfi et.al.|[2609.30947](http://arxiv.org/abs/2609.30947)|null|
+|**2026-09-24**|**VkVIO: Cross-platform GPU Acceleration for Visual-Inertial Odometry with Vulkan**|Ole Hoffmann et.al.|[2609.30459](http://arxiv.org/abs/2609.30459)|null|
+|**2026-09-25**|**FMCW-LIO: A Doppler LiDAR-Inertial Odometry**|Mingle Zhao et.al.|[2609.29374](http://arxiv.org/abs/2609.29374)|null|
 |**2026-09-23**|**PTC-Bias: Phoneme-Level Temporal Competition for Bias Retrieval and Post-Decoding Correction in Speech LLMs**|Zhiqi Ai et.al.|[2609.28727](http://arxiv.org/abs/2609.28727)|null|
 |**2026-09-23**|**DAVIO: Dense Monocular-Inertial SLAM with Feed-Forward Initialization and Pose-Conditioned Mapping**|Jaafar Mahmoud et.al.|[2609.27702](http://arxiv.org/abs/2609.27702)|null|
 |**2026-09-23**|**Know-Your-Scene (KYS)-SLAM: Hierarchical Semantic-Motion Priors for Feature Matching in Stereo Visual SLAM**|Preeti Chatterjee et.al.|[2609.27509](http://arxiv.org/abs/2609.27509)|null|
@@ -570,6 +574,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2609.30865](http://arxiv.org/abs/2609.30865)|null|
 |**2026-09-23**|**AstraLOD3: Zero-shot multimodal agentic reconstruction of LOD3 building models**|Bryan G. Pantoja-Rosero et.al.|[2609.28061](http://arxiv.org/abs/2609.28061)|null|
 |**2026-09-21**|**SPARSER: Sparse Variable Projection by Exploiting Separable Structure in Robotic Perception**|Nikolas R. Sanderson et.al.|[2609.24708](http://arxiv.org/abs/2609.24708)|null|
 |**2026-09-16**|**Cross-Lingual Parkinson's Disease Severity Assessment Using Pre-trained Speech Embeddings: A Multi-Class Evaluation**|Simon Pals et.al.|[2609.20875](http://arxiv.org/abs/2609.20875)|null|
@@ -828,6 +833,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**Preserve-and-Compose Training for Composed Image Retrieval**|Sehyun Kwon et.al.|[2609.31202](http://arxiv.org/abs/2609.31202)|null|
 |**2026-09-24**|**An Empirical Study of VLM Pipelines for Long-Document QA**|Kenan E. Ak et.al.|[2609.29933](http://arxiv.org/abs/2609.29933)|null|
 |**2026-09-23**|**Large-Scale Geometric Map-Based Localization of UAVs in GNSS-Denied Urban Environments**|Garth Terlizzi et.al.|[2609.28225](http://arxiv.org/abs/2609.28225)|null|
 |**2026-09-23**|**SGDet3D++: Geometry-Grounded Semantics for 4D Radar and Camera 3D Object Detection**|Xiaokai Bai et.al.|[2609.27671](http://arxiv.org/abs/2609.27671)|null|
@@ -843,7 +849,7 @@
 |**2026-09-21**|**Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale**|Anubhav Gupta et.al.|[2609.24152](http://arxiv.org/abs/2609.24152)|null|
 |**2026-09-21**|**The Visual Target Matters: Learning across the Visual Hierarchy for Brain-to-Image Retrieval**|Ye Wang et.al.|[2609.24136](http://arxiv.org/abs/2609.24136)|null|
 |**2026-09-21**|**Adaptive Cortically Constrained EEG-Vision Alignment for Zero-Shot Brain-to-Image Retrieval**|Ye Wang et.al.|[2609.24109](http://arxiv.org/abs/2609.24109)|null|
-|**2026-09-20**|**Retrieval Geometry Shapes Cache-Based Clip Adaptation**|Mahir Shahriar Tamim et.al.|[2609.23409](http://arxiv.org/abs/2609.23409)|null|
+|**2026-09-25**|**Retrieval Geometry Shapes Cache-Based Clip Adaptation**|Mahir Shahriar Tamim et.al.|[2609.23409](http://arxiv.org/abs/2609.23409)|null|
 |**2026-09-18**|**Multi-viewpoint Geo-localization with Event Cameras**|Adam D. Hines et.al.|[2609.21219](http://arxiv.org/abs/2609.21219)|null|
 |**2026-09-17**|**SlugTrails: An Egocentric Benchmark for Floor Plan Localization in Large Buildings**|Yunqian Cheng et.al.|[2609.19876](http://arxiv.org/abs/2609.19876)|null|
 |**2026-09-16**|**PIVOT: Perception-aware Independent Viewpoint Online Optimization**|Yuyang Chen et.al.|[2609.19510](http://arxiv.org/abs/2609.19510)|null|
@@ -1536,6 +1542,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**GraphWrit3R: End-to-End 3D Scene Graph Writing**|Luka Milivojevic et.al.|[2609.31595](http://arxiv.org/abs/2609.31595)|null|
+|**2026-09-25**|**OC-GS: Gaussian Splatting for Irregular Turntable Capture**|Jae Joong Lee et.al.|[2609.31572](http://arxiv.org/abs/2609.31572)|null|
+|**2026-09-25**|**ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos**|Xuanzhi Liu et.al.|[2609.31509](http://arxiv.org/abs/2609.31509)|null|
+|**2026-09-25**|**Scaling Density Functional Theory with Gaussian Splatting**|Andrés Guzmán-Cordero et.al.|[2609.31483](http://arxiv.org/abs/2609.31483)|null|
+|**2026-09-25**|**RECAST: From Log Replay to Closed-Loop Driving Simulation with View-Complete Actors**|Zijun Zhao et.al.|[2609.31374](http://arxiv.org/abs/2609.31374)|null|
+|**2026-09-25**|**ChronoFuseGS: Multi-Temporal Gaussian Fusion with Per-Splat Persistence and Change Visualization**|Tobias Batik et.al.|[2609.31339](http://arxiv.org/abs/2609.31339)|null|
+|**2026-09-25**|**Gauss What You Need: Compact Gaussian Splatting Across Scene Scales**|Afif Boudaoud et.al.|[2609.31248](http://arxiv.org/abs/2609.31248)|null|
+|**2026-09-25**|**Spackle: Completing Large View Single Image NVS with Adaptive Gaussians**|Xuanzhi Liu et.al.|[2609.30941](http://arxiv.org/abs/2609.30941)|null|
+|**2026-09-25**|**Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2609.30865](http://arxiv.org/abs/2609.30865)|null|
+|**2026-09-25**|**From Mono to Stereo: Accelerating Binocular Gaussian Splatting via Reprojection and Selective Patching**|Hongfei Zhu et.al.|[2609.30741](http://arxiv.org/abs/2609.30741)|null|
+|**2026-09-24**|**LiTe-GS: Oracle-Efficient Next Best View Selection for 3D Gaussian Splatting**|Vivek Pandey et.al.|[2609.30393](http://arxiv.org/abs/2609.30393)|null|
 |**2026-09-24**|**Towards Practical Compression of 3D Gaussian Splatting**|Pengpeng Yu et.al.|[2609.30245](http://arxiv.org/abs/2609.30245)|null|
 |**2026-09-24**|**OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning**|Haoran Wang et.al.|[2609.29985](http://arxiv.org/abs/2609.29985)|null|
 |**2026-09-24**|**ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting**|De Jiang et.al.|[2609.29963](http://arxiv.org/abs/2609.29963)|null|
