@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**Real-time Event-camera Stereo Visual Odometry via Keytime Gaussian Process Regression**|Nikan Nobari et.al.|[2610.02601](http://arxiv.org/abs/2610.02601)|null|
 |**2026-10-01**|**GlassGuard: Verified Glass Plane Mapping for Robot Navigation**|Hanwen Guo et.al.|[2610.02110](http://arxiv.org/abs/2610.02110)|null|
 |**2026-09-30**|**BatSLAM 2.0: Sequence-Verified Sonar Place Recognition in a Robust Pose Graph**|Jan Steckel et.al.|[2609.40085](http://arxiv.org/abs/2609.40085)|null|
 |**2026-09-30**|**MVP-SLAM: Multi-Camera Visual-Inertial Floorplan-Prior SLAM**|Asier Bikandi-Noya et.al.|[2609.39596](http://arxiv.org/abs/2609.39596)|null|
@@ -852,6 +853,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[2610.03717](http://arxiv.org/abs/2610.03717)|null|
 |**2026-10-01**|**MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images**|Hanyuan Xiao et.al.|[2610.01098](http://arxiv.org/abs/2610.01098)|null|
 |**2026-09-30**|**Front-to-Back: Benchmarking Vision-Language Models for Asymmetric Cross-View Vehicle Re-Identification**|Moseli Mots'oehli et.al.|[2609.39492](http://arxiv.org/abs/2609.39492)|null|
 |**2026-09-29**|**Seeing Is Not Addressing: Auditing Linguistic Access to Frozen Visual Geometry**|Woosang Jeon et.al.|[2609.37230](http://arxiv.org/abs/2609.37230)|null|
@@ -1440,6 +1442,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**Geometry-Aligned Semantic Matching for Cross-Modal Planar Image Registration**|Zhiwei Wang et.al.|[2610.03167](http://arxiv.org/abs/2610.03167)|null|
 |**2026-09-30**|**EPIC: Epipolar-Consistent 360° Immersive Stereo Video Generation**|Debabrata Mandal et.al.|[2609.38689](http://arxiv.org/abs/2609.38689)|null|
 |**2026-09-30**|**RBF-GNN: Rational Basis Functions for Pseudo-Coordinate based Graph Convolutions**|Paweł Batorski et.al.|[2609.37015](http://arxiv.org/abs/2609.37015)|null|
 |**2026-09-29**|**UltraMatch: Transport Path Routing for Ultra-Fast and Memory-Efficient Image Matching**|Jiajun Le et.al.|[2609.36980](http://arxiv.org/abs/2609.36980)|null|
@@ -1575,6 +1578,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**ManifoldSplat: Language-Guided Semantic Shape Editing of 3D Gaussian Head Avatars**|Antonio Canela et.al.|[2610.03599](http://arxiv.org/abs/2610.03599)|null|
+|**2026-10-02**|**Budgeted-GS: Real-Time Large-Scale Gaussian Splatting via Factoring LOD**|Haipeng Wang et.al.|[2610.03162](http://arxiv.org/abs/2610.03162)|null|
+|**2026-10-02**|**ByteSplat: Efficient Distributed 3D Gaussian Splatting Training via Intra- and Inter-GPU communication reduction**|Shuo Wu et.al.|[2610.02851](http://arxiv.org/abs/2610.02851)|null|
+|**2026-10-01**|**FactorSplat: Appearance-Controllable Gaussian Proxies for Medical Volume Rendering**|Zhongpai Gao et.al.|[2610.02382](http://arxiv.org/abs/2610.02382)|null|
+|**2026-10-01**|**SCION: Scene Composition with Instanced Neural Primitives**|William Koch et.al.|[2610.02322](http://arxiv.org/abs/2610.02322)|null|
 |**2026-10-01**|**EvenSplat: Coupled 2D-3D Decomposition for Gaussian Splatting under Exposure and Illumination Variation**|Tongyu Wu et.al.|[2610.01876](http://arxiv.org/abs/2610.01876)|null|
 |**2026-10-01**|**MEGA: Object-Level Mesh Extraction from 3D Gaussian Splatting via Spatial Visual Distillation**|Liwei Liao et.al.|[2610.01707](http://arxiv.org/abs/2610.01707)|null|
 |**2026-10-01**|**Affine-Aligned Atlas for Canonical Gaussian Construction in Video Representation**|Masaya Takabe et.al.|[2610.01114](http://arxiv.org/abs/2610.01114)|null|
@@ -1631,7 +1639,7 @@
 |**2026-09-24**|**LiTe-GS: Oracle-Efficient Next Best View Selection for 3D Gaussian Splatting**|Vivek Pandey et.al.|[2609.30393](http://arxiv.org/abs/2609.30393)|null|
 |**2026-09-24**|**Towards Practical Compression of 3D Gaussian Splatting**|Pengpeng Yu et.al.|[2609.30245](http://arxiv.org/abs/2609.30245)|null|
 |**2026-09-24**|**OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning**|Haoran Wang et.al.|[2609.29985](http://arxiv.org/abs/2609.29985)|null|
-|**2026-09-24**|**ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting**|De Jiang et.al.|[2609.29963](http://arxiv.org/abs/2609.29963)|null|
+|**2026-10-02**|**ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting**|De Jiang et.al.|[2609.29963](http://arxiv.org/abs/2609.29963)|null|
 |**2026-09-24**|**SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting**|Nitya Nanvani et.al.|[2609.29836](http://arxiv.org/abs/2609.29836)|null|
 |**2026-09-24**|**From Scattered Gaussians to Structured Maps: Efficient Gaussian Splatting Coding via Dual-phase Morton Sorting**|Bolin Chen et.al.|[2609.29041](http://arxiv.org/abs/2609.29041)|null|
 |**2026-09-24**|**Only What Was Seen: Observation-Gram Compaction of View-Dependent Appearance in 3D Gaussian Splatting**|Krzysztof Pietroszek et.al.|[2609.28997](http://arxiv.org/abs/2609.28997)|null|
