@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**F-LIVO: A Feature-Level Geometric Measurement Framework for LiDAR-Inertial-Visual Odometry**|Xinye Dai et.al.|[2610.23595](http://arxiv.org/abs/2610.23595)|null|
+|**2026-10-16**|**FLoTS-SLAM: Optical Flow-Derived Uncertainty for Monocular Dynamic SLAM with Two-Stage Optimization**|Haorui Du et.al.|[2610.23496](http://arxiv.org/abs/2610.23496)|null|
+|**2026-10-15**|**RTISSLAM-3D: Full 6-DoF SLAM With an In-Air 3D Imaging Sonar**|Jan Steckel et.al.|[2610.22552](http://arxiv.org/abs/2610.22552)|null|
+|**2026-10-15**|**KFS $^4$ LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM**|Xinwei Ju et.al.|[2610.22505](http://arxiv.org/abs/2610.22505)|null|
 |**2026-10-15**|**AVALON: Zero-Shot Indoor Navigation with Human-Seeded Topological Memory**|Jing Xia et.al.|[2610.21586](http://arxiv.org/abs/2610.21586)|null|
 |**2026-10-15**|**CLAD: Keypoint Matching Using Global Line Correspondences**|Masaki Satoh et.al.|[2610.21409](http://arxiv.org/abs/2610.21409)|null|
 |**2026-10-15**|**LIN-SLAM: Lightweight LiDAR--Inertial Neural SLAM for Real-Time Onboard Navigation**|Shiqi Che et.al.|[2610.21199](http://arxiv.org/abs/2610.21199)|null|
@@ -619,6 +623,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**Ionic switching between supermagnetic states**|Sumaiyatul Ahsan et.al.|[2610.23829](http://arxiv.org/abs/2610.23829)|null|
 |**2026-10-15**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090](http://arxiv.org/abs/2610.21090)|null|
 |**2026-10-14**|**Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It**|Ana-Ştefania Kogălniceanu et.al.|[2610.19993](http://arxiv.org/abs/2610.19993)|null|
 |**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|null|
@@ -881,6 +886,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**Semantic-Critical Regions for Video-to-Audio Generation**|Yun Fang et.al.|[2610.23021](http://arxiv.org/abs/2610.23021)|null|
+|**2026-10-15**|**Stuck on Shuffle: On Attribute-Object Binding in Vision-Language Models**|Netanel Y. Tamir et.al.|[2610.22602](http://arxiv.org/abs/2610.22602)|null|
 |**2026-10-15**|**Vision-Guided Closed-Loop Autonomous Navigation of Light-Driven Janus Microbots**|Kanhu Charan Andia et.al.|[2610.21222](http://arxiv.org/abs/2610.21222)|null|
 |**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742](http://arxiv.org/abs/2610.19742)|null|
 |**2026-10-13**|**MicroCLIP: Connecting Text and Microscopy Images via Contrastive Language--Image Pretraining**|Yanran Ruan et.al.|[2610.17866](http://arxiv.org/abs/2610.17866)|null|
@@ -1619,6 +1626,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**X-Splat: Unified Gaussian Splatting for Joint RGB and X-ray 3D Reconstruction**|Wangze Xu et.al.|[2610.23237](http://arxiv.org/abs/2610.23237)|null|
+|**2026-10-16**|**Frame-Consistent Feed-Forward 3D Gaussian Splatting from Sparse Unposed Images**|Viruthshaan Vinasirajan et.al.|[2610.23039](http://arxiv.org/abs/2610.23039)|null|
+|**2026-10-16**|**Direct Conditional Parameterization for N-Dimensional Splatting**|Zhongpai Gao et.al.|[2610.22778](http://arxiv.org/abs/2610.22778)|null|
+|**2026-10-15**|**KFS $^4$ LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM**|Xinwei Ju et.al.|[2610.22505](http://arxiv.org/abs/2610.22505)|null|
+|**2026-10-15**|**DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving**|Wei Wang et.al.|[2610.22450](http://arxiv.org/abs/2610.22450)|null|
 |**2026-10-15**|**Compression of Uniformly Distributed Unit Quaternions**|Carsten Faber et.al.|[2610.22052](http://arxiv.org/abs/2610.22052)|null|
 |**2026-10-15**|**Edit4D: Editable 4D Scene Generation with Textual Control**|Chanwoo Kim et.al.|[2610.21668](http://arxiv.org/abs/2610.21668)|null|
 |**2026-10-15**|**Anchor3DGS: Feed-Forward 3D Gaussian Splatting with Compact Anchor-Based Representation**|Sheng Ye et.al.|[2610.21634](http://arxiv.org/abs/2610.21634)|null|
@@ -1647,7 +1659,7 @@
 |**2026-10-09**|**Make It Flow: Animating Water in 3D Gaussian Splatting Scenes**|Kjell Keune et.al.|[2610.13860](http://arxiv.org/abs/2610.13860)|null|
 |**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|null|
 |**2026-10-09**|**Gaussian Splatting with Reflections Guided by What is Seen**|Yiming Liang et.al.|[2610.13757](http://arxiv.org/abs/2610.13757)|null|
-|**2026-10-14**|**DexBioLab: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Xuanye Wu et.al.|[2610.13643](http://arxiv.org/abs/2610.13643)|null|
+|**2026-10-16**|**DexBioLab: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Xuanye Wu et.al.|[2610.13643](http://arxiv.org/abs/2610.13643)|null|
 |**2026-10-09**|**Efficient Confidence-Aware Densification for 3DGS**|Manuel Hofer et.al.|[2610.13541](http://arxiv.org/abs/2610.13541)|null|
 |**2026-10-09**|**SplatQ: Interaction-Aware Pruning of 3D Gaussian Splatting via Quadratic Selection**|Hongbin Ye et.al.|[2610.13503](http://arxiv.org/abs/2610.13503)|null|
 |**2026-10-09**|**A Hybrid and Hierarchical Ray Tracing Method for Efficient 3D Gaussian Rendering**|Tiancheng Zhao et.al.|[2610.13498](http://arxiv.org/abs/2610.13498)|null|
