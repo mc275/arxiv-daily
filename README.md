@@ -1,4 +1,4 @@
-## Updated on 2026.10.23
+## Updated on 2026.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -627,7 +627,7 @@
 |**2025-11-03**|**TurboMap: GPU-Accelerated Local Mapping for Visual SLAM**|Parsa Hosseininejad et.al.|[2511.02036](http://arxiv.org/abs/2511.02036)|null|
 |**2025-11-03**|**CM-LIUW-Odometry: Robust and High-Precision LiDAR-Inertial-UWB-Wheel Odometry for Extreme Degradation Coal Mine Tunnels**|Kun Hu et.al.|[2511.01379](http://arxiv.org/abs/2511.01379)|null|
 
-<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261024>back to top</a>)</p>
 
 ## SFM
 
@@ -875,7 +875,6 @@
 |**2025-10-29**|**Lost in Phonation: Voice Quality Variation as an Evaluation Dimension for Speech Foundation Models**|Harm Lameris et.al.|[2510.25577](http://arxiv.org/abs/2510.25577)|null|
 |**2025-10-27**|**SFMS-ALR: Script-First Multilingual Speech Synthesis with Adaptive Locale Resolution**|Dharma Teja Donepudi et.al.|[2510.25178](http://arxiv.org/abs/2510.25178)|null|
 |**2026-02-27**|**Adapting Speech Foundation Models for Unified Multimodal Speech Recognition with Large Language Models**|Jing-Xuan Zhang et.al.|[2510.22961](http://arxiv.org/abs/2510.22961)|null|
-|**2025-10-23**|**RubbleSim: A Photorealistic Structural Collapse Simulator for Confined Space Mapping**|Constantine Frost et.al.|[2510.20529](http://arxiv.org/abs/2510.20529)|null|
 |**2026-01-08**|**The slope and scatter of the star forming main sequence at z~5 : reconciling observations with simulations**|Claudia Di Cesare et.al.|[2510.19044](http://arxiv.org/abs/2510.19044)|null|
 |**2026-01-19**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|null|
 |**2026-03-27**|**Learning Neural Parametric 3D Breast Shape Models for Metrical Surface Reconstruction From Monocular RGB Videos**|Maximilian Weiherer et.al.|[2510.13540](http://arxiv.org/abs/2510.13540)|null|
@@ -890,7 +889,7 @@
 |**2025-12-24**|**PIS3R: Very Large Parallax Image Stitching via Deep 3D Reconstruction**|Muhua Zhu et.al.|[2508.04236](http://arxiv.org/abs/2508.04236)|null|
 |**2025-10-24**|**An Evaluation of DUSt3R/MASt3R/VGGT 3D Reconstruction on Photogrammetric Aerial Blocks**|Xinyi Wu et.al.|[2507.14798](http://arxiv.org/abs/2507.14798)|null|
 
-<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261024>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1416,7 +1415,7 @@
 |**2025-10-24**|**BioCAP: Exploiting Synthetic Captions Beyond Labels in Biological Foundation Models**|Ziheng Zhang et.al.|[2510.20095](http://arxiv.org/abs/2510.20095)|null|
 |**2025-12-08**|**DualHash: A Stochastic Primal-Dual Algorithm with Theoretical Guarantee for Deep Hashing**|Luxuan Li et.al.|[2510.18218](http://arxiv.org/abs/2510.18218)|null|
 
-<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261024>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1499,7 +1498,7 @@
 |**2026-01-18**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|null|
 |**2026-01-14**|**Autonomous Robotic Bone Micro-Milling System with Automatic Calibration and 3D Surface Fitting**|Enduo Zhao et.al.|[2503.04038](http://arxiv.org/abs/2503.04038)|null|
 
-<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261024>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1634,14 +1633,14 @@
 |**2026-02-03**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-10-30**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 
-<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261024>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 
-<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261024>back to top</a>)</p>
 
 ## 3DGS
 
@@ -3052,7 +3051,7 @@
 |**2025-12-10**|**AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars**|Ramazan Fazylov et.al.|[2512.06438](http://arxiv.org/abs/2512.06438)|null|
 |**2025-12-06**|**TriaGS: Differentiable Triangulation-Guided Geometric Consistency for 3D Gaussian Splatting**|Quan Tran et.al.|[2512.06269](http://arxiv.org/abs/2512.06269)|null|
 
-<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
