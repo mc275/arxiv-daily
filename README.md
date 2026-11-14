@@ -1,4 +1,4 @@
-## Updated on 2026.11.13
+## Updated on 2026.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -617,7 +617,6 @@
 |**2025-12-17**|**Integration of UWB Radar on Mobile Robots for Continuous Obstacle and Environment Mapping**|Adelina Giurea et.al.|[2512.01018](http://arxiv.org/abs/2512.01018)|null|
 |**2026-02-04**|**EAG3R: Event-Augmented 3D Geometry Estimation for Dynamic and Extreme-Lighting Scenes**|Xiaoshan Wu et.al.|[2512.00771](http://arxiv.org/abs/2512.00771)|null|
 |**2025-11-29**|**Odometry Without Correspondence from Inertially Constrained Ruled Surfaces**|Chenqi Zhu et.al.|[2512.00327](http://arxiv.org/abs/2512.00327)|null|
-|**2025-11-13**|**ICD-Net: Inertial Covariance Displacement Network for Drone Visual-Inertial SLAM**|Tali Orlev Shapira et.al.|[2512.00037](http://arxiv.org/abs/2512.00037)|null|
 |**2025-11-28**|**Robust 3DGS-based SLAM via Adaptive Kernel Smoothing**|Shouhe Zhang et.al.|[2511.23221](http://arxiv.org/abs/2511.23221)|null|
 |**2025-12-01**|**Design loads for wave impacts -- introducing the Probabilistic Adaptive Screening (PAS) method for predicting extreme non-linear loads on maritime structures**|Sanne M. van Essen et.al.|[2511.23156](http://arxiv.org/abs/2511.23156)|null|
 |**2025-11-28**|**DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management**|Casimir Feldmann et.al.|[2511.23030](http://arxiv.org/abs/2511.23030)|null|
@@ -655,7 +654,7 @@
 |**2025-12-02**|**ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface**|Chuanyu Li et.al.|[2511.05858](http://arxiv.org/abs/2511.05858)|null|
 |**2025-12-10**|**PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration**|Yizhen Yin et.al.|[2511.04180](http://arxiv.org/abs/2511.04180)|null|
 
-<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261114>back to top</a>)</p>
 
 ## SFM
 
@@ -918,7 +917,6 @@
 |**2025-11-19**|**SceneEdited: A City-Scale Benchmark for 3D HD Map Updating via Image-Guided Change Detection**|Chun-Jung Lin et.al.|[2511.15153](http://arxiv.org/abs/2511.15153)|null|
 |**2026-05-07**|**AsyncVLA: Asynchronous Flow Matching for Vision-Language-Action Models**|Yuhua Jiang et.al.|[2511.14148](http://arxiv.org/abs/2511.14148)|null|
 |**2025-11-16**|**Towards Rotation-only Imaging Geometry: Rotation Estimation**|Xinrui Li et.al.|[2511.12415](http://arxiv.org/abs/2511.12415)|null|
-|**2025-11-13**|**Towards Attribution of Generators and Emotional Manipulation in Cross-Lingual Synthetic Speech using Geometric Learning**|Girish et.al.|[2511.10790](http://arxiv.org/abs/2511.10790)|null|
 |**2025-11-27**|**Ambiguity-aware Truncated Flow Matching for Ambiguous Medical Image Segmentation**|Fanding Li et.al.|[2511.06857](http://arxiv.org/abs/2511.06857)|null|
 |**2025-11-24**|**SDSS-ALMA Legacy Value Archival Gas Exploration (SALVAGE) -- I: global star formation is governed by central (not global) molecular gas**|Scott Wilkinson et.al.|[2511.06775](http://arxiv.org/abs/2511.06775)|null|
 |**2026-02-27**|**Adapting Speech Foundation Models for Unified Multimodal Speech Recognition with Large Language Models**|Jing-Xuan Zhang et.al.|[2510.22961](http://arxiv.org/abs/2510.22961)|null|
@@ -932,7 +930,7 @@
 |**2026-02-23**|**MOGS: Monocular Object-guided Gaussian Splatting in Large Scenes**|Shengkai Zhang et.al.|[2509.06685](http://arxiv.org/abs/2509.06685)|null|
 |**2025-12-24**|**PIS3R: Very Large Parallax Image Stitching via Deep 3D Reconstruction**|Muhua Zhu et.al.|[2508.04236](http://arxiv.org/abs/2508.04236)|null|
 
-<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261114>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1469,7 +1467,7 @@
 |**2025-12-15**|**Instance-Level Composed Image Retrieval**|Bill Psomas et.al.|[2510.25387](http://arxiv.org/abs/2510.25387)|null|
 |**2025-12-08**|**DualHash: A Stochastic Primal-Dual Algorithm with Theoretical Guarantee for Deep Hashing**|Luxuan Li et.al.|[2510.18218](http://arxiv.org/abs/2510.18218)|null|
 
-<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261114>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1553,7 +1551,7 @@
 |**2026-01-18**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|null|
 |**2026-01-14**|**Autonomous Robotic Bone Micro-Milling System with Automatic Calibration and 3D Surface Fitting**|Enduo Zhao et.al.|[2503.04038](http://arxiv.org/abs/2503.04038)|null|
 
-<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261114>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1693,14 +1691,14 @@
 |**2026-05-02**|**Constructed Realities? Technical and Contextual Anomalies in a High-Profile Image**|Matthias Wjst et.al.|[2507.12237](http://arxiv.org/abs/2507.12237)|null|
 |**2026-02-03**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 
-<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261114>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 
-<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261114>back to top</a>)</p>
 
 ## 3DGS
 
@@ -3202,7 +3200,7 @@
 |**2025-12-10**|**AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars**|Ramazan Fazylov et.al.|[2512.06438](http://arxiv.org/abs/2512.06438)|null|
 |**2025-12-06**|**TriaGS: Differentiable Triangulation-Guided Geometric Consistency for 3D Gaussian Splatting**|Quan Tran et.al.|[2512.06269](http://arxiv.org/abs/2512.06269)|null|
 
-<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261114>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
