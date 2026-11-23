@@ -1,4 +1,4 @@
-## Updated on 2026.11.22
+## Updated on 2026.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -649,13 +649,12 @@
 |**2025-11-27**|**Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing**|Xiaotong Huang et.al.|[2511.18755](http://arxiv.org/abs/2511.18755)|null|
 |**2025-11-24**|**Stable Multi-Drone GNSS Tracking System for Marine Robots**|Shuo Wen et.al.|[2511.18694](http://arxiv.org/abs/2511.18694)|null|
 |**2025-11-23**|**Gaze Beyond the Frame: Forecasting Egocentric 3D Visual Span**|Heeseung Yun et.al.|[2511.18470](http://arxiv.org/abs/2511.18470)|null|
-|**2025-11-22**|**Unobservable Subspace Evolution and Alignment for Consistent Visual-Inertial Navigation**|Chungeng Tian et.al.|[2511.17992](http://arxiv.org/abs/2511.17992)|null|
 |**2025-11-27**|**Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM**|Gergely Dinya et.al.|[2511.16282](http://arxiv.org/abs/2511.16282)|null|
 |**2025-11-23**|**Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors**|Jeryes Danial et.al.|[2511.14335](http://arxiv.org/abs/2511.14335)|null|
 |**2025-12-02**|**ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface**|Chuanyu Li et.al.|[2511.05858](http://arxiv.org/abs/2511.05858)|null|
 |**2025-12-10**|**PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration**|Yizhen Yin et.al.|[2511.04180](http://arxiv.org/abs/2511.04180)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## SFM
 
@@ -935,7 +934,7 @@
 |**2026-02-23**|**MOGS: Monocular Object-guided Gaussian Splatting in Large Scenes**|Shengkai Zhang et.al.|[2509.06685](http://arxiv.org/abs/2509.06685)|null|
 |**2025-12-24**|**PIS3R: Very Large Parallax Image Stitching via Deep 3D Reconstruction**|Muhua Zhu et.al.|[2508.04236](http://arxiv.org/abs/2508.04236)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -945,7 +944,7 @@
 |**2026-11-18**|**CHORUS: Cross-Subject Harmonization via Population Relay for Unseen Subjects in Brain Visual Decoding**|Jiayu Zuo et.al.|[2611.24364](http://arxiv.org/abs/2611.24364)|null|
 |**2026-11-18**|**Stabilizing Neural-to-Image Retrieval with Frequency-Domain Priors and Adaptive Supervision**|YaoYang Liu et.al.|[2611.24163](http://arxiv.org/abs/2611.24163)|null|
 |**2026-11-18**|**Benchmarking Reasoning Reliability,Prior_Evidence Contrast,and Spectral Discrimination in Remote-Sensing Geological Image Interpretation**|Jun Wang et.al.|[2611.24068](http://arxiv.org/abs/2611.24068)|null|
-|**2026-11-18**|**SIRAZ: Sparse Inter-Layer Residual Aggregation for Zero-Shot Visual Neural Decoding**| Neha et.al.|[2611.23991](http://arxiv.org/abs/2611.23991)|null|
+|**2026-11-18**|**SIRAZ: Sparse Inter-Layer Residual Aggregation for Zero-Shot Visual Neural Decoding**|Neha et.al.|[2611.23991](http://arxiv.org/abs/2611.23991)|null|
 |**2026-11-17**|**Bits, Not Boxes: Label-Free Layer Selection for Visual Localization in VLMs**|Haisheng Fu et.al.|[2611.23432](http://arxiv.org/abs/2611.23432)|null|
 |**2026-11-17**|**PeriaTrace: Tooth-Level Grounding Diagnosis and Patient-Facing Explanations from Periapical Radiographs**|Zhenhuan Zhou et.al.|[2611.23012](http://arxiv.org/abs/2611.23012)|null|
 |**2026-11-17**|**EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement**|Wenjing Tang et.al.|[2611.22506](http://arxiv.org/abs/2611.22506)|null|
@@ -1464,7 +1463,6 @@
 |**2025-11-25**|**ScenarioCLIP: Pretrained Transferable Visual Language Models and Action-Genome Dataset for Natural Scene Analysis**|Advik Sinha et.al.|[2511.20274](http://arxiv.org/abs/2511.20274)|null|
 |**2025-11-25**|**Intelligent Image Search Algorithms Fusing Visual Large Models**|Kehan Wang et.al.|[2511.19920](http://arxiv.org/abs/2511.19920)|null|
 |**2025-11-23**|**SwiftVGGT: A Scalable Visual Geometry Grounded Transformer for Large-Scale Scenes**|Jungho Lee et.al.|[2511.18290](http://arxiv.org/abs/2511.18290)|null|
-|**2025-11-22**|**Bias Is a Subspace, Not a Coordinate: A Geometric Rethinking of Post-hoc Debiasing in Vision-Language Models**|Dachuan Zhao et.al.|[2511.18123](http://arxiv.org/abs/2511.18123)|null|
 |**2025-12-24**|**O3SLM: Open Weight, Open Data, and Open Vocabulary Sketch-Language Model**|Rishi Gupta et.al.|[2511.14368](http://arxiv.org/abs/2511.14368)|null|
 |**2026-01-30**|**A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors**|Zhenyu Li et.al.|[2511.14109](http://arxiv.org/abs/2511.14109)|null|
 |**2025-12-27**|**D $^{2}$ -VPR: A Parameter-efficient Visual-foundation-model-based Visual Place Recognition Method via Knowledge Distillation and Deformable Aggregation**|Zheyuan Zhang et.al.|[2511.12528](http://arxiv.org/abs/2511.12528)|null|
@@ -1474,7 +1472,7 @@
 |**2025-12-15**|**Instance-Level Composed Image Retrieval**|Bill Psomas et.al.|[2510.25387](http://arxiv.org/abs/2510.25387)|null|
 |**2025-12-08**|**DualHash: A Stochastic Primal-Dual Algorithm with Theoretical Guarantee for Deep Hashing**|Luxuan Li et.al.|[2510.18218](http://arxiv.org/abs/2510.18218)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1558,7 +1556,7 @@
 |**2026-01-18**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|null|
 |**2026-01-14**|**Autonomous Robotic Bone Micro-Milling System with Automatic Calibration and 3D Surface Fitting**|Enduo Zhao et.al.|[2503.04038](http://arxiv.org/abs/2503.04038)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1697,14 +1695,14 @@
 |**2026-05-02**|**Constructed Realities? Technical and Contextual Anomalies in a High-Profile Image**|Matthias Wjst et.al.|[2507.12237](http://arxiv.org/abs/2507.12237)|null|
 |**2026-02-03**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## 3DGS
 
@@ -3238,7 +3236,7 @@
 |**2025-12-10**|**AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars**|Ramazan Fazylov et.al.|[2512.06438](http://arxiv.org/abs/2512.06438)|null|
 |**2025-12-06**|**TriaGS: Differentiable Triangulation-Guided Geometric Consistency for 3D Gaussian Splatting**|Quan Tran et.al.|[2512.06269](http://arxiv.org/abs/2512.06269)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
