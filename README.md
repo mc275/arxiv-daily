@@ -1,4 +1,4 @@
-## Updated on 2026.11.26
+## Updated on 2026.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -654,13 +654,12 @@
 |**2025-11-28**|**DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management**|Casimir Feldmann et.al.|[2511.23030](http://arxiv.org/abs/2511.23030)|null|
 |**2025-11-28**|**Taming the Light: Illumination-Invariant Semantic 3DGS-SLAM**|Shouhe Zhang et.al.|[2511.22968](http://arxiv.org/abs/2511.22968)|null|
 |**2025-11-28**|**MARVO: Marine-Adaptive Radiance-aware Visual Odometry**|Sacchin Sundar et.al.|[2511.22860](http://arxiv.org/abs/2511.22860)|null|
-|**2025-11-26**|**Multi-Agent Monocular Dense SLAM With 3D Reconstruction Priors**|Yuchen Zhou et.al.|[2511.19031](http://arxiv.org/abs/2511.19031)|null|
 |**2025-11-27**|**Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing**|Xiaotong Huang et.al.|[2511.18755](http://arxiv.org/abs/2511.18755)|null|
 |**2025-11-27**|**Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM**|Gergely Dinya et.al.|[2511.16282](http://arxiv.org/abs/2511.16282)|null|
 |**2025-12-02**|**ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface**|Chuanyu Li et.al.|[2511.05858](http://arxiv.org/abs/2511.05858)|null|
 |**2025-12-10**|**PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration**|Yizhen Yin et.al.|[2511.04180](http://arxiv.org/abs/2511.04180)|null|
 
-<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
 
 ## SFM
 
@@ -944,7 +943,7 @@
 |**2026-02-23**|**MOGS: Monocular Object-guided Gaussian Splatting in Large Scenes**|Shengkai Zhang et.al.|[2509.06685](http://arxiv.org/abs/2509.06685)|null|
 |**2025-12-24**|**PIS3R: Very Large Parallax Image Stitching via Deep 3D Reconstruction**|Muhua Zhu et.al.|[2508.04236](http://arxiv.org/abs/2508.04236)|null|
 
-<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1490,7 +1489,7 @@
 |**2025-12-15**|**Instance-Level Composed Image Retrieval**|Bill Psomas et.al.|[2510.25387](http://arxiv.org/abs/2510.25387)|null|
 |**2025-12-08**|**DualHash: A Stochastic Primal-Dual Algorithm with Theoretical Guarantee for Deep Hashing**|Luxuan Li et.al.|[2510.18218](http://arxiv.org/abs/2510.18218)|null|
 
-<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1563,7 +1562,6 @@
 |**2025-12-16**|**UnCageNet: Tracking and Pose Estimation of Caged Animal**|Sayak Dutta et.al.|[2512.07712](http://arxiv.org/abs/2512.07712)|null|
 |**2025-12-03**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2512.03684](http://arxiv.org/abs/2512.03684)|null|
 |**2025-11-27**|**3D Affordance Keypoint Detection for Robotic Manipulation**|Zhiyang Liu et.al.|[2511.22195](http://arxiv.org/abs/2511.22195)|null|
-|**2025-11-26**|**Semantic-Enhanced Feature Matching with Learnable Geometric Verification for Cross-Modal Neuron Registration**|Wenwei Li et.al.|[2511.21452](http://arxiv.org/abs/2511.21452)|null|
 |**2026-01-13**|**SemiETPicker: Fast and Label-Efficient Particle Picking for CryoET Tomography Using Semi-Supervised Learning**|Linhan Wang et.al.|[2510.22454](http://arxiv.org/abs/2510.22454)|null|
 |**2026-04-20**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|null|
 |**2026-01-28**|**Splat Feature Solver**|Butian Xiong et.al.|[2508.12216](http://arxiv.org/abs/2508.12216)|null|
@@ -1575,7 +1573,7 @@
 |**2026-01-18**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|null|
 |**2026-01-14**|**Autonomous Robotic Bone Micro-Milling System with Automatic Calibration and 3D Surface Fitting**|Enduo Zhao et.al.|[2503.04038](http://arxiv.org/abs/2503.04038)|null|
 
-<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1718,14 +1716,14 @@
 |**2026-05-02**|**Constructed Realities? Technical and Contextual Anomalies in a High-Profile Image**|Matthias Wjst et.al.|[2507.12237](http://arxiv.org/abs/2507.12237)|null|
 |**2026-02-03**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 
-<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 
-<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
 
 ## 3DGS
 
@@ -3299,7 +3297,7 @@
 |**2025-12-10**|**AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars**|Ramazan Fazylov et.al.|[2512.06438](http://arxiv.org/abs/2512.06438)|null|
 |**2025-12-06**|**TriaGS: Differentiable Triangulation-Guided Geometric Consistency for 3D Gaussian Splatting**|Quan Tran et.al.|[2512.06269](http://arxiv.org/abs/2512.06269)|null|
 
-<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
